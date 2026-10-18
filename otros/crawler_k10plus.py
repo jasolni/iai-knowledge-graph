@@ -9,8 +9,8 @@ HEADERS = {
     "User-Agent": "Python K10plus crawler"
 }
 
-MAX_RECORDS = 100          # máximo permitido por petición
-PAUSA = 0.3                # segundos entre peticiones
+MAX_RECORDS = 100          # maximum allowed per request
+PAUSA = 0.3                # seconds between requests
 
 
 def record_to_dict(record):
@@ -78,7 +78,7 @@ def descargar_anio(anio):
                               namespaces=ns)
             )
 
-            print(f"Total registros: {total}")
+            print(f"Total records: {total}")
 
             if total == 0:
                 return
@@ -92,7 +92,7 @@ def descargar_anio(anio):
 
             registros.append(record_to_dict(rec))
 
-        print(f"Descargados {len(registros)} registros", end="\r")
+        print(f"Downloaded {len(registros)} records", end="\r")
 
         start += MAX_RECORDS
 
@@ -110,7 +110,7 @@ def descargar_anio(anio):
                   ensure_ascii=False,
                   indent=2)
 
-    print(f"\nGuardado {anio}.json")
+    print(f"\nSaved {anio}.json")
 
 
 def main():
@@ -123,7 +123,7 @@ def main():
 
         except Exception as e:
 
-            print(f"\nError en {anio}: {e}")
+            print(f"\nError in {anio}: {e}")
 
 
 if __name__ == "__main__":

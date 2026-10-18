@@ -1,134 +1,132 @@
-# Grafo de conocimiento de la Biblioteca del Instituto Iberoamericano (IAI), Berlín
+# Knowledge Graph for the Library of the Ibero-Amerikanisches Institut (IAI), Berlin
 
-Propuesta y prototipo de un grafo de conocimiento que integra los recursos de la biblioteca del
-Ibero-Amerikanisches Institut (IAI, Stiftung Preußischer Kulturbesitz) con su entorno
-iberoamericanista en Berlín: el Instituto Latinoamericano de la Freie Universität (LAI-FU), las
-embajadas y otras instituciones culturales.
+Proposal and prototype of a knowledge graph that integrates the resources of the library of the
+Ibero-Amerikanisches Institut (IAI, Stiftung Preußischer Kulturbesitz) with its Ibero-American
+studies environment in Berlin: the Latin American Institute of the Freie Universität (LAI-FU),
+embassies and other cultural institutions.
 
-**Autor:** Juan Alberto Salazar Rebolledo
+**Author:** Juan Alberto Salazar Rebolledo
 
-> **Estado:** trabajo en construcción. La ontología (TBox) está implementada y probada con una
-> micromuestra de individuos (ABox) sobre el "Boom Latinoamericano". La ingesta a gran escala,
-> la alineación con Wikidata/DBpedia y la capa de validación SHACL están pendientes.
+> **Status:** work in progress. The ontology (TBox) is implemented and tested with a tiny sample of
+> individuals (ABox) on the "Latin American Boom". Large-scale ingestion, alignment with
+> Wikidata/DBpedia and a SHACL validation layer are still pending.
 
-## 1. Dominio y motivación
+## 1. Domain and motivation
 
-El IAI custodia una de las mayores colecciones sobre estudios iberoamericanos del mundo: cerca de
-un millón y medio de libros especializados, además de recursos digitales, documentos archivísticos
-y hemerográficos, materiales audiovisuales y eventos. A su alrededor hay una red de instituciones
-con agendas culturales y de investigación propias.
+The IAI holds one of the largest collections on Ibero-American studies in the world: around one and a
+half million specialized books, plus digital resources, archival and periodical documents,
+audiovisual materials and events. Around it there is a network of institutions with their own
+cultural and research agendas.
 
-Hoy esos recursos están desconectados. El buscador del catálogo funciona por palabras clave, que
-limitan la conexión entre recursos, y actúa como un silo incluso dentro de la propia institución:
-no integra los eventos del IAI ni sus bases de datos, y no indexa lo que ocurre fuera de su
-colección (eventos de otras instituciones, películas, música o documentales ligados a temas
-iberoamericanos).
+Today these resources are disconnected. The catalog search works by keywords, which limits the
+connections between resources, and it behaves as a silo even within the institution itself: it does
+not integrate the IAI's own events or its databases, and it does not index what happens outside its
+collection (events at other institutions, films, music or documentaries tied to Ibero-American topics).
 
-El grafo de conocimiento da una visión de conjunto de las actividades y recursos
-iberoamericanistas de la ciudad, con la colección del IAI como núcleo. Se conecta además con
-recursos externos: películas basadas en obras literarias, agenda y grabaciones de eventos,
-proyectos de investigación del LAI-FU, y datos sobre agentes y obras.
+The knowledge graph provides an overview of the Ibero-American activities and resources across the
+city, with the IAI collection as its core. It also connects to external resources: films based on
+literary works, event agendas and recordings, LAI-FU research projects, and data about agents and works.
 
-El punto de acceso previsto es un buscador mejorado, acompañado de un chatbot **GraphRAG**: un LLM
-que traduce preguntas en lenguaje natural a consultas SPARQL y devuelve los resultados también en
-lenguaje natural.
+The planned access point is an improved search interface accompanied by a **GraphRAG** chatbot: an LLM
+that translates natural-language questions into SPARQL queries and returns the results, also in natural
+language.
 
-Como muestra del modelo se usa un pequeño conjunto sobre el **Boom Latinoamericano** (años 1960 y 1970).
+As a showcase of the model, a small dataset on the **Latin American Boom** (1960s and 1970s) is used.
 
-## 2. Fuentes de datos
+## 2. Data sources
 
-| Fuente | Formato | Cobertura | Dificultades de integración |
+| Source | Format | Coverage | Integration difficulties |
 |---|---|---|---|
-| Catálogo bibliográfico del IAI (OPAC), vía API SRU | MARC21/XML | Libros, artículos, publicaciones periódicas | Datos estructurados pero en un estándar bibliotecario; hace falta mapear MARC21/XML a RDF (p. ej. reglas RML con Morph-KGC) |
-| Calendario de eventos del IAI | HTML | Presentaciones, conferencias, mesas redondas, proyecciones | Semiestructurado; desvinculado del catálogo |
-| Newsletters del LAI-FU y de embajadas | PDF, HTML | Congresos, recepciones, premios, promoción cultural | No estructurado; requiere OCR, NER (reconocimiento de entidades) y RE (extracción de relaciones) |
-| Proyectos y grupos de investigación del IAI y del LAI-FU | HTML | Proyectos, estancias, coloquios | Fragmentados en varios sitios; scraping (BeautifulSoup) y NLP/NER |
-| IMDb Datasets | TSV / API | Películas y series basadas en obras literarias | Muy extenso; conviene filtrar por identificadores obtenidos antes desde Wikidata/DBpedia |
-| MusicBrainz | API REST (JSON) | Canciones inspiradas en obras o autores | Buena calidad; se parte de MBID obtenidos vía Wikidata/DBpedia |
+| IAI library catalog (OPAC), via SRU API | MARC21/XML | Books, articles, periodicals | Structured data, but in a library standard; MARC21/XML must be mapped to RDF (e.g. RML rules with Morph-KGC) |
+| IAI events calendar | HTML | Presentations, lectures, round tables, screenings | Semi-structured; disconnected from the catalog |
+| LAI-FU and embassy newsletters | PDF, HTML | Congresses, receptions, prizes, cultural promotion | Unstructured; requires OCR, NER (named-entity recognition) and RE (relation extraction) |
+| IAI and LAI-FU research projects and groups | HTML | Projects, stays, colloquia | Fragmented across several sites; scraping (BeautifulSoup) and NLP/NER |
+| IMDb Datasets | TSV / API | Films and series based on literary works | Very large; best filtered using identifiers obtained beforehand from Wikidata/DBpedia |
+| MusicBrainz | REST API (JSON) | Songs inspired by works or authors | Good quality; start from MBIDs obtained via Wikidata/DBpedia |
 
-## 3. Ontología
+## 3. Ontology
 
-La ontología usa **Schema.org** como vocabulario núcleo, por dos razones:
+The ontology uses **Schema.org** as its core vocabulary, for two reasons:
 
-- BIBFRAME y CIDOC-CRM, candidatos naturales para un fondo bibliográfico-patrimonial, resultan
-  demasiado rígidos o complejos para integrar eventos, películas, música y proyectos de investigación.
-- Schema.org está muy presente en los datos con los que se entrenan los LLM, lo que lo hace
-  compatible con arquitecturas RAG y GraphRAG.
+- BIBFRAME and CIDOC-CRM, natural candidates for a bibliographic and heritage collection, are too
+  rigid or too complex for integrating events, films, music and research projects.
+- Schema.org is well represented in the data used to train LLMs, which makes it compatible with RAG
+  and GraphRAG architectures.
 
-Se hibrida con elementos puntuales de otros vocabularios:
+It is combined with selected elements from other vocabularies:
 
-| Prefijo | Vocabulario | Uso |
+| Prefix | Vocabulary | Use |
 |---|---|---|
-| `schema:` | Schema.org | Vocabulario núcleo |
-| `bf:` | BIBFRAME | Clasificación bibliotecaria y distinción Work / Instance / Item |
-| `foaf:` | FOAF | Relaciones entre personas (`foaf:knows`) |
-| `iai:` / `iair:` | Namespace propio | Clases y relaciones propias (TBox) e individuos (ABox) |
-| `rdf:`, `rdfs:`, `xsd:`, `owl:` | W3C | Infraestructura, tipos de datos y axiomas |
-| `ric:` | ICA RiC-O | Documentos archivísticos (previsto, no implementado) |
-| `dbo:`, `dbr:`, `wdt:`, `wd:` | DBpedia, Wikidata | Alineación con Linked Open Data (pendiente) |
+| `schema:` | Schema.org | Core vocabulary |
+| `bf:` | BIBFRAME | Library classification and the Work / Instance / Item distinction |
+| `foaf:` | FOAF | Relations between people (`foaf:knows`) |
+| `iai:` / `iair:` | Own namespace | Own classes and relations (TBox) and individuals (ABox) |
+| `rdf:`, `rdfs:`, `xsd:`, `owl:` | W3C | Infrastructure, datatypes and axioms |
+| `ric:` | ICA RiC-O | Archival documents (planned, not implemented) |
+| `dbo:`, `dbr:`, `wdt:`, `wd:` | DBpedia, Wikidata | Alignment with Linked Open Data (pending) |
 
-**Razonamiento.** Estas son las construcciones lógicas que usa la ontología:
+**Reasoning.** These are the logical constructs used in the ontology:
 
-- **Jerarquías y uniones de clases** (`rdfs:subClassOf`, `owl:unionOf`).
-- **Clases raíz disjuntas** (`owl:AllDisjointClasses`). Actúa como guardia de integridad: durante las
-  pruebas detectó aserciones capturadas al revés (un director asignado con sujeto y objeto invertidos).
-- **Propiedades inversas** (`owl:inverseOf`): el dato se captura una vez, del lado de la obra.
-- **Transitividad** en `iai:hasInfluenced` / `iai:influencedBy`: el razonador reconstruye genealogías de influencias.
-- **Simetría** en `iai:collaboratesWith`.
-- **Cadenas de propiedades** (`owl:propertyChainAxiom`) a partir de `schema:isBasedOn`: conectan obras derivadas con sus autores originales.
-- **Clases definidas por restricción** (`owl:equivalentClass`): los roles (autor, director, intérprete) se
-  infieren de lo que la persona hace, no de una etiqueta fija.
-- **Reglas SWRL**, solo donde OWL no alcanza: colaboración por coautoría, influencia por mentoría y
-  `foaf:knows` por pertenencia común.
+- **Class hierarchies and unions** (`rdfs:subClassOf`, `owl:unionOf`).
+- **Disjoint root classes** (`owl:AllDisjointClasses`). It acts as an integrity guard: during testing it
+  detected assertions entered backwards (a director assigned with subject and object swapped).
+- **Inverse properties** (`owl:inverseOf`): each fact is captured once, from the side of the work.
+- **Transitivity** on `iai:hasInfluenced` / `iai:influencedBy`: the reasoner reconstructs chains of influence.
+- **Symmetry** on `iai:collaboratesWith`.
+- **Property chains** (`owl:propertyChainAxiom`) starting from `schema:isBasedOn`: they connect derived works with their original authors.
+- **Classes defined by restriction** (`owl:equivalentClass`): roles (author, director, performer) are
+  inferred from what a person does, not from a fixed label.
+- **SWRL rules**, only where OWL falls short: collaboration through co-authorship, influence through
+  mentorship, and `foaf:knows` through shared membership.
 
-Se ha probado en **Protégé** con el razonador **Pellet**, y las inferencias se han inspeccionado
-visualmente en **GraphDB** (captura en `otros/grafo_iai_graphdb_1.png`).
+It has been tested in **Protégé** with the **Pellet** reasoner, and the inferences were inspected
+visually in **GraphDB** (screenshot in `otros/grafo_iai_graphdb_1.png`).
 
-## 4. Curación y enriquecimiento (plan)
+## 4. Curation and enrichment (plan)
 
-1. **Normalización.** Convertir cada fuente a RDF conforme a la ontología (RML/Morph-KGC para MARC21/XML;
-   consultas dirigidas a Wikidata/DBpedia para IMDb y MusicBrainz; NER/RE para texto no estructurado).
-2. **Limpieza.** Corregir variantes de nombres (acentos, grafías, orden) y formatos de identificadores.
-3. **Reconciliación de entidades.** Unificar individuos descritos desde fuentes distintas con claves
-   (`owl:hasKey`, idealmente el QID de Wikidata). El prototipo usa `owl:AllDifferent` para distinguir
-   individuos, solución que no escala: en producción esa comprobación pasaría a consultas SPARQL.
-4. **Validación.** Cardinalidades y disyunciones en OWL, más una capa SHACL para exigir, por ejemplo,
-   que cada obra tenga autor.
-5. **Enriquecimiento.** Inferencia por reglas y enlaces a DBpedia/Wikidata.
+1. **Normalization.** Convert each source to RDF following the ontology (RML/Morph-KGC for MARC21/XML;
+   targeted queries to Wikidata/DBpedia for IMDb and MusicBrainz; NER/RE for unstructured text).
+2. **Cleaning.** Fix name variants (accents, spellings, word order) and identifier formats.
+3. **Entity reconciliation.** Unify individuals described by different sources using keys
+   (`owl:hasKey`, ideally the Wikidata QID). The prototype uses `owl:AllDifferent` to tell individuals
+   apart, a solution that does not scale: in production that check would move to SPARQL queries.
+4. **Validation.** Cardinalities and disjointness in OWL, plus a SHACL layer to require, for example,
+   that every work has an author.
+5. **Enrichment.** Rule-based inference and links to DBpedia/Wikidata.
 
-## 5. Valor aportado
+## 5. Value provided
 
-- Consultas multi-salto, por ejemplo: *películas basadas en obras de autores que se conocían entre sí dentro del mismo movimiento literario*.
-- Un acceso único a colección, eventos y proyectos que hoy están dispersos.
-- Navegación exploratoria: de un autor a una adaptación, una canción, un evento próximo o un proyecto afín.
-- Un inventario vivo de conexiones entre el IAI y su entorno, útil para detectar vacíos o duplicados en la programación cultural.
-- Más visibilidad de la colección en el ecosistema Linked Open Data.
+- Multi-hop queries, for example: *films based on works by authors who knew each other within the same literary movement*.
+- A single access point to collection, events and projects that are scattered today.
+- Exploratory navigation: from an author to an adaptation, a song, an upcoming event or a related project.
+- A living inventory of the connections between the IAI and its environment, useful for spotting gaps or overlaps in the city's cultural programming.
+- Greater visibility of the collection in the Linked Open Data ecosystem.
 
-## 6. Tecnologías de IA por fase
+## 6. AI technologies by phase
 
-| Fase | Tecnología | Nota |
+| Phase | Technology | Note |
 |---|---|---|
-| Ingesta de fuentes no estructuradas | OCR + NER/RE | Con supervisión humana |
-| Reconciliación de entidades | Diccionarios de variantes; embeddings semánticos | Trazable y auditable; revisión humana |
-| Enriquecimiento | Redes neuronales / embeddings para predecir relaciones | Con supervisión humana |
-| Razonamiento | IA simbólica: Pellet, HermiT | Ya presente en la ontología |
-| Explotación | Chatbot GraphRAG (lenguaje natural → SPARQL → lenguaje natural) | Interfaz para el público |
+| Ingestion of unstructured sources | OCR + NER/RE | With human supervision |
+| Entity reconciliation | Variant dictionaries; semantic embeddings | Traceable and auditable; human review |
+| Enrichment | Neural networks / embeddings to predict relations | With human supervision |
+| Reasoning | Symbolic AI: Pellet, HermiT | Already present in the ontology |
+| Exploitation | GraphRAG chatbot (natural language → SPARQL → natural language) | Public-facing interface |
 
-## Contenido del repositorio
+## Repository contents
 
-| Archivo | Descripción |
+| File | Description |
 |---|---|
-| `iai_tbox.ttl` | Ontología (TBox) |
-| `iai_abox.ttl` | Muestra de individuos (ABox) |
-| `grafo_IAI_ontologia_jasrvfinal.xlsx` | Documentación de la ontología: namespaces, clases, propiedades, reglas OWL/RDFS y SWRL |
-| `catalog-v001.xml`, `*.properties` | Configuración de Protégé / GraphDB |
-| `otros/` | Material de trabajo: scripts de recolección y conversión, datos de prueba y versiones previas |
+| `iai_tbox.ttl` | Ontology (TBox) |
+| `iai_abox.ttl` | Sample individuals (ABox) |
+| `grafo_IAI_ontologia_jasrvfinal.xlsx` | Ontology documentation: namespaces, classes, properties, OWL/RDFS and SWRL rules |
+| `catalog-v001.xml`, `*.properties` | Protégé / GraphDB configuration |
+| `otros/` | Working material: harvesting and conversion scripts, test data and earlier versions |
 
-Scripts en `otros/`:
+Scripts in `otros/`:
 
-- `crawler_k10plus.py`, `k10plus_sru_harvester*.py`: recolección de registros MARC21/XML desde la API SRU de K10plus.
-- `marc_to_rdf_converter*.py`: conversión de MARC21/XML a RDF.
-- `sampler_IAI.py`: muestreo de registros de K10plus (resultado en `k10plus_sample.jsonl`).
-- `rastreador.py`: pruebas de los índices de búsqueda de la API SRU.
+- `crawler_k10plus.py`, `k10plus_sru_harvester*.py`: harvesting of MARC21/XML records from the K10plus SRU API.
+- `marc_to_rdf_converter*.py`: conversion of MARC21/XML to RDF.
+- `sampler_IAI.py`: sampling of K10plus records (output in `k10plus_sample.jsonl`).
+- `rastreador.py`: tests of the SRU API search indexes.
 
-Dependencias de los scripts: `pip install pymarc rdflib lxml requests`.
+Script dependencies: `pip install pymarc rdflib lxml requests`.

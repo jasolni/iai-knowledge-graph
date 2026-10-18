@@ -111,15 +111,15 @@ with open(OUTPUT, "w", encoding="utf8") as out:
 
     while saved < TARGET:
 
-        print(f"\nSCAN desde {last}")
+        print(f"\nSCAN from {last}")
 
         ppns = scan_ppns(last)
 
-        print("PPNs encontrados:", len(ppns))
+        print("PPNs found:", len(ppns))
         print(ppns[:10])
 
         if len(ppns) <= 1:
-            print("Fin del índice.")
+            print("End of index.")
             break
 
         for ppn in ppns[1:]:
@@ -150,4 +150,4 @@ with open(OUTPUT, "w", encoding="utf8") as out:
 
             time.sleep(0.1)
 
-print(f"\nTerminados: {saved}")
+print(f"\nFinished: {saved}")

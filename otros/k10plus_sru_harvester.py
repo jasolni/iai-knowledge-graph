@@ -1,32 +1,32 @@
 """
 k10plus_sru_harvester.py
 
-Consulta el endpoint SRU de K10plus para la base de datos del Instituto
-Ibero-Americano de Berlín (IAI, ISIL DE-204) sobre una lista semilla de
-obras literarias, y guarda los registros MARCXML resultantes como fixtures
-locales, junto con un manifiesto de cobertura (encontrado / no encontrado /
-error) que sirve de insumo directo para el análisis de fuentes
-del proyecto.
+Queries the K10plus SRU endpoint for the database of the Ibero-Amerikanisches
+Institut Berlin (IAI, ISIL DE-204) using a seed list of
+literary works, and saves the resulting MARCXML records as local
+fixtures, together with a coverage manifest (found / not found /
+error) that serves as direct input for the analysis of sources
+of the project.
 
-Endpoint base:
+Base endpoint:
     http://sru.k10plus.de/opac-de-204
 
-Protocolo:
-    SRU 1.1 (Search/Retrieve via URL), con consultas en CQL
-    (Contextual Query Language) sobre índices PICA:
-        pica.tit  -> título
-        pica.per  -> autor / persona
+Protocol:
+    SRU 1.1 (Search/Retrieve via URL), with queries in CQL
+    (Contextual Query Language) over PICA indexes:
+        pica.tit  -> title
+        pica.per  -> author / person
         pica.isb  -> ISBN
-        pica.all  -> todos los campos
+        pica.all  -> all fields
 
-Uso:
+Usage:
     pip install requests lxml
     python k10plus_sru_harvester.py
 
-Nota: este script requiere acceso a internet para ejecutarse; no ha podido
-probarse en el entorno de generación por no disponer de salida de red, así
-que conviene ejecutarlo y revisar el manifiesto resultante en tu máquina
-antes de darlo por bueno.
+Note: this script requires internet access to run; it could not be
+tested in the generation environment because it had no network access, so
+it should be run and the resulting manifest reviewed on your machine
+before being taken as good.
 """
 
 from __future__ import annotations
@@ -41,14 +41,14 @@ import requests
 from lxml import etree
 
 # --------------------------------------------------------------------------
-# Configuración
+# Configuration
 # --------------------------------------------------------------------------
 
-SRU_BASE_URL = "http://sru.k10plus.de/opac-de-204"  # ISIL DE-204 = IAI Berlín
+SRU_BASE_URL = "http://sru.k10plus.de/opac-de-204"  # ISIL DE-204 = IAI Berlin
 OUTPUT_DIR = Path("fixtures/iai_marcxml")
 MANIFEST_PATH = Path("fixtures/iai_manifest.json")
-REQUEST_DELAY_SECONDS = 1.0  # cortesía con el servicio público, evita saturarlo
-MAX_RECORDS_PER_QUERY = 5    # margen para variantes/ediciones del mismo título
+REQUEST_DELAY_SECONDS = 1.0  # courtesy toward the public service, avoids overloading it
+MAX_RECORDS_PER_QUERY = 5    # margin for variants/editions of the same title
 REQUEST_TIMEOUT_SECONDS = 15
 
 SRU_NAMESPACES = {"sru": "http://www.loc.gov/zing/srw/"}
@@ -60,8 +60,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --------------------------------------------------------------------------
-# Semilla de obras (título + autor, usado para desambiguar la búsqueda).
-# Sustituye esta lista por tu conjunto final de 10-15 obras.
+# Seed of works (title + author, used to disambiguate the search).
+# Replace this list with your final set of 10-15 works.
 # --------------------------------------------------------------------------
 
 SEED_WORKS: list[dict] = [
@@ -79,11 +79,11 @@ SEED_WORKS: list[dict] = [
 
 
 # --------------------------------------------------------------------------
-# Construcción y ejecución de consultas SRU
+# Building and running SRU queries
 # --------------------------------------------------------------------------
 
 def build_cql_query(title: str, author: Optional[str] = None) -> str:
-    """Construye una consulta CQL sobre los índices PICA de K10plus."""
+    """Builds a CQL query over the K10plus PICA indexes."""
     query = f'pica.tit="{title}"'
     if author:
         query += f' and pica.per="{author}"'
@@ -92,9 +92,9 @@ def build_cql_query(title: str, author: Optional[str] = None) -> str:
 
 def fetch_sru_response(cql_query: str, max_records: int = MAX_RECORDS_PER_QUERY) -> tuple[str, str]:
     """
-    Ejecuta la consulta SRU y devuelve (texto_xml, url_completa).
-    Se deja que `requests` construya y escape la query string, para evitar
-    errores manuales de encoding con comillas y espacios.
+    Runs the SRU query and returns (xml_text, full_url).
+    `requests` is left to build and escape the query string, to avoid
+    manual encoding errors with quotes and spaces.
     """
     params = {
         "version": "1.1",
@@ -109,7 +109,7 @@ def fetch_sru_response(cql_query: str, max_records: int = MAX_RECORDS_PER_QUERY)
 
 
 def parse_number_of_records(xml_text: str) -> int:
-    """Extrae <numberOfRecords> de la respuesta SRU."""
+    """Extracts <numberOfRecords> from the SRU response."""
     root = etree.fromstring(xml_text.encode("utf-8"))
     node = root.find(".//sru:numberOfRecords", SRU_NAMESPACES)
     return int(node.text) if node is not None and node.text else 0
@@ -117,8 +117,8 @@ def parse_number_of_records(xml_text: str) -> int:
 
 def parse_diagnostics(xml_text: str) -> Optional[str]:
     """
-    Si el servidor devuelve un diagnóstico (p.ej. CQL inválida) en vez de
-    resultados, lo extrae para poder loggearlo en el manifiesto.
+    If the server returns a diagnostic (e.g. invalid CQL) instead of
+    results, extracts it so it can be logged in the manifest.
     """
     ns = {"diag": "http://www.loc.gov/zing/srw/diagnostic/"}
     root = etree.fromstring(xml_text.encode("utf-8"))
@@ -137,14 +137,14 @@ def slugify(text: str) -> str:
 
 
 # --------------------------------------------------------------------------
-# Proceso principal
+# Main process
 # --------------------------------------------------------------------------
 
 def harvest_seed_works(seed_works: list[dict]) -> list[dict]:
     """
-    Recorre la lista semilla, consulta K10plus SRU para cada obra, guarda
-    el MARCXML resultante como fixture y devuelve un manifiesto con el
-    resultado de cada consulta.
+    Iterates over the seed list, queries K10plus SRU for each work, saves
+    the resulting MARCXML as a fixture and returns a manifest with the
+    result of each query.
     """
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     manifest = []
@@ -154,7 +154,7 @@ def harvest_seed_works(seed_works: list[dict]) -> list[dict]:
         author = work.get("author")
         cql_query = build_cql_query(title, author)
 
-        logger.info("[%d/%d] Consultando: %s (%s)", i, len(seed_works), title, author)
+        logger.info("[%d/%d] Querying: %s (%s)", i, len(seed_works), title, author)
 
         entry = {
             "title": title,
@@ -173,7 +173,7 @@ def harvest_seed_works(seed_works: list[dict]) -> list[dict]:
             if diagnostic:
                 entry["status"] = "diagnostic"
                 entry["diagnostic_message"] = diagnostic
-                logger.warning("  -> Diagnóstico del servidor: %s", diagnostic)
+                logger.warning("  -> Server diagnostic: %s", diagnostic)
                 manifest.append(entry)
                 time.sleep(REQUEST_DELAY_SECONDS)
                 continue
@@ -187,23 +187,23 @@ def harvest_seed_works(seed_works: list[dict]) -> list[dict]:
                 filepath.write_text(xml_text, encoding="utf-8")
                 entry["status"] = "found"
                 entry["fixture_file"] = str(filepath)
-                logger.info("  -> %d registro(s) guardado(s) en %s", number_of_records, filepath)
+                logger.info("  -> %d record(s) saved to %s", number_of_records, filepath)
             else:
                 entry["status"] = "not_found"
-                logger.warning("  -> Sin resultados en el catálogo del IAI")
+                logger.warning("  -> No results in the IAI catalog")
 
         except requests.RequestException as exc:
             entry["status"] = "error"
             entry["error"] = str(exc)
-            logger.error("  -> Error de red: %s", exc)
+            logger.error("  -> Network error: %s", exc)
 
         except etree.XMLSyntaxError as exc:
             entry["status"] = "parse_error"
             entry["error"] = str(exc)
-            logger.error("  -> Error al parsear la respuesta XML: %s", exc)
+            logger.error("  -> Error parsing the XML response: %s", exc)
 
         manifest.append(entry)
-        time.sleep(REQUEST_DELAY_SECONDS)  # cortesía con el endpoint público
+        time.sleep(REQUEST_DELAY_SECONDS)  # courtesy toward the public endpoint
 
     return manifest
 
@@ -213,7 +213,7 @@ def save_manifest(manifest: list[dict]) -> None:
     MANIFEST_PATH.write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    logger.info("Manifiesto guardado en %s", MANIFEST_PATH)
+    logger.info("Manifest saved to %s", MANIFEST_PATH)
 
 
 def print_coverage_summary(manifest: list[dict]) -> None:
@@ -221,11 +221,11 @@ def print_coverage_summary(manifest: list[dict]) -> None:
     not_found = sum(1 for e in manifest if e["status"] == "not_found")
     errors = sum(1 for e in manifest if e["status"] in ("error", "parse_error", "diagnostic"))
 
-    print("\n--- Resumen de cobertura del catálogo del IAI ---")
-    print(f"Total consultado : {len(manifest)}")
-    print(f"Encontrados      : {found}")
-    print(f"No encontrados   : {not_found}")
-    print(f"Errores/diag.    : {errors}")
+    print("\n--- IAI catalog coverage summary ---")
+    print(f"Total queried    : {len(manifest)}")
+    print(f"Found            : {found}")
+    print(f"Not found        : {not_found}")
+    print(f"Errors/diag.     : {errors}")
     print("---------------------------------------------------\n")
 
 
