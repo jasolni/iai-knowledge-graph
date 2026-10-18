@@ -1,0 +1,2783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>184</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">399877088</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20180317215810.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">000101s2001    ru |||||      00| ||rus c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">5040071124</subfield>
+    <subfield code="9">5-04-007112-4</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)399877088</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV399877088</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-RU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Manjaščaja bezdna ada</subfield>
+    <subfield code="b">roman, povesti, rasskazy</subfield>
+    <subfield code="c">Chuan Karlos Onetti</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Moskava</subfield>
+    <subfield code="b">Izdat. Eksmo-press</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">512 S</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Zarubežnaja klassika</subfield>
+    <subfield code="a">XX vek</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Saukov, A.</subfield>
+    <subfield code="0">(DE-588)1057197637</subfield>
+    <subfield code="0">(DE-627)795720106</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">677395833</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 04 / 6657</subfield>
+    <subfield code="g">A 04::6657</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>61</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">331451379</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20251102030035.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">010711s2001    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">01,A43,1436</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">962715204</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">380311201X</subfield>
+    <subfield code="9">3-8031-1201-X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)331451379</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)102858489</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV331451379</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)76315070</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">59</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.32</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">a</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Ein verwirklichter Traum</subfield>
+    <subfield code="b">Erzählungen</subfield>
+    <subfield code="c">Juan Carlos Onetti. Zsgest. von Jürgen Dormagen. Mit einem Nachw. von Heinrich von Berenberg. [Aus dem Span. von Gerhard Poppenberg ...]</subfield>
+  </datafield>
+  <datafield tag="263" ind1=" " ind2=" ">
+    <subfield code="a">Gewebe : DM 23.80</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Wagenbach</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">126 S</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Salto</subfield>
+    <subfield code="v">102</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20240324</subfield>
+    <subfield code="f">DE-4165</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="c">20240722</subfield>
+    <subfield code="f">NI-LastCopies</subfield>
+    <subfield code="x">XA-DE-NI</subfield>
+    <subfield code="z">Potenzieller Alleinbesitz Niedersachsen</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-89</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dormagen, Jürgen</subfield>
+    <subfield code="d">1946-</subfield>
+    <subfield code="e">Hrsg.</subfield>
+    <subfield code="0">(DE-588)130079170</subfield>
+    <subfield code="0">(DE-627)603774776</subfield>
+    <subfield code="0">(DE-576)307961273</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Poppenberg, Gerhard</subfield>
+    <subfield code="d">1954-</subfield>
+    <subfield code="e">Übers.</subfield>
+    <subfield code="0">(DE-588)112071759</subfield>
+    <subfield code="0">(DE-627)516471910</subfield>
+    <subfield code="0">(DE-576)164208593</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Salto</subfield>
+    <subfield code="v">102</subfield>
+    <subfield code="9">102</subfield>
+    <subfield code="w">(DE-627)357870468</subfield>
+    <subfield code="w">(DE-576)013599275</subfield>
+    <subfield code="w">(DE-600)1129804-2</subfield>
+    <subfield code="x">2511-252X</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/toc/331451379.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2025-11-02</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/331451379.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2025-11-02</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4723077529</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 25 / 9330</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">sf</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Uruguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren O</subfield>
+    <subfield code="k">Onetti, Juan Carlos</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271313642</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+    <subfield code="0">(DE-576)201313642</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.32</subfield>
+    <subfield code="j">Spanische Literatur</subfield>
+    <subfield code="0">(DE-627)106415514</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>62</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">328144363</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20220912214945.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">010419s2001    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">01,A18,1584</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">961186488</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518397001</subfield>
+    <subfield code="q">kart. : EUR 10.00</subfield>
+    <subfield code="9">3-518-39700-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)328144363</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV328144363</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">59</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.32</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Juntacadáveres &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Leichensammler</subfield>
+    <subfield code="b">Roman</subfield>
+    <subfield code="c">Juan Carlos Onetti. Aus dem Span. und mit einem Nachw. vers. von Anneliese Botond</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. Aufl.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">2001</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">278 S</subfield>
+    <subfield code="c">19 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="361" ind1="1" ind2=" ">
+    <subfield code="5">DE-32</subfield>
+    <subfield code="y">717807347</subfield>
+    <subfield code="s">Onetti Juan Ca 183069 - A</subfield>
+    <subfield code="o">Vorbesitz</subfield>
+    <subfield code="a">Literarische Bibliothek Siegfried Unseld</subfield>
+    <subfield code="0">(DE-588)1082323314</subfield>
+    <subfield code="0">(DE-627)847321843</subfield>
+    <subfield code="0">(DE-576)455352682</subfield>
+    <subfield code="f">Stempel</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Suhrkamp-Taschenbuch</subfield>
+    <subfield code="v">3200</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4062186-8</subfield>
+    <subfield code="0">(DE-627)106133241</subfield>
+    <subfield code="0">(DE-576)209142790</subfield>
+    <subfield code="a">Uruguay</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4031110-7</subfield>
+    <subfield code="0">(DE-627)106267272</subfield>
+    <subfield code="0">(DE-576)208990607</subfield>
+    <subfield code="a">Kleinstadt</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4134612-9</subfield>
+    <subfield code="0">(DE-627)105671290</subfield>
+    <subfield code="0">(DE-576)209653779</subfield>
+    <subfield code="a">Bordell</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="t">Juntacadáveres &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/328144363.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2013-12-04</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1434255727</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="g">A 13 / 19670</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.32</subfield>
+    <subfield code="j">Spanische Literatur</subfield>
+    <subfield code="0">(DE-627)106415514</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>63</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cgm a22      cb4500</leader>
+  <controlfield tag="001">50442193X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200531225455.0</controlfield>
+  <controlfield tag="007">vd uuuuuu</controlfield>
+  <controlfield tag="008">051213s2000    sp ||| |      |   v|spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)50442193X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV50442193X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Ed. Trasbals Multimedia [u.a.]</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 Videokassette (VHS, 41 Min. aprox.)</subfield>
+    <subfield code="b">s/w</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">zweidimensionales bewegtes Bild</subfield>
+    <subfield code="b">tdi</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">video</subfield>
+    <subfield code="b">v</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Videokassette</subfield>
+    <subfield code="b">vd</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">A fondo / dir. y presentador: Joaquín Soler Serrano</subfield>
+    <subfield code="v">24</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">EDITRAMA Videoteca de la memoria literaria</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Interview</subfield>
+    <subfield code="0">(DE-588)4027503-6</subfield>
+    <subfield code="0">(DE-627)104767812</subfield>
+    <subfield code="0">(DE-576)208971211</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Soler Serrano, Joaquín</subfield>
+    <subfield code="d">1919-2010</subfield>
+    <subfield code="0">(DE-588)1057072370</subfield>
+    <subfield code="0">(DE-627)795133960</subfield>
+    <subfield code="0">(DE-576)413788016</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">A fondo</subfield>
+    <subfield code="v">24</subfield>
+    <subfield code="9">24.2000</subfield>
+    <subfield code="w">(DE-627)500768714</subfield>
+    <subfield code="7">gm</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">747928886</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">VD-2004 / 215 : 24</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="c">vide</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">MV</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>64</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">465330584</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20140828163623.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">000101s2000    xx |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)465330584</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">uy</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Faulkner, William</subfield>
+    <subfield code="d">1897-1962</subfield>
+    <subfield code="0">(DE-588)118532081</subfield>
+    <subfield code="0">(DE-627)133809617</subfield>
+    <subfield code="0">(DE-576)160913470</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Faulkner desde el otro Sur</subfield>
+    <subfield code="b">una versión inédita de "Gambito de caballo" de William Faulkner</subfield>
+    <subfield code="c">coord.: Beatriz Vegh. Textos e entrevistas: Helen Oakley ...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Montevideo</subfield>
+    <subfield code="b">Cal y Canto</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">115 S</subfield>
+    <subfield code="b">Porträts, Abb</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Primera versión del relato en español y sólo publ. póstumamente en su texto original inglés mecanografiado, dentro de la ed. compl. de sus manuscritos (Nueva York, Garland, 1987)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vegh, Beatriz</subfield>
+    <subfield code="0">(DE-588)1056263504</subfield>
+    <subfield code="0">(DE-627)794542611</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Oakley, Helen</subfield>
+    <subfield code="d">1972-</subfield>
+    <subfield code="0">(DE-588)173631096</subfield>
+    <subfield code="0">(DE-627)698540328</subfield>
+    <subfield code="0">(DE-576)134473965</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Piglia, Ricardo</subfield>
+    <subfield code="d">1941-2017</subfield>
+    <subfield code="0">(DE-588)119124866</subfield>
+    <subfield code="0">(DE-627)07991943X</subfield>
+    <subfield code="0">(DE-576)172338158</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">682178535</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">B 01 / 623</subfield>
+    <subfield code="g">B 01::623</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>65</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">687583241</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20120827080522.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">120228s1999    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">842399497X</subfield>
+    <subfield code="9">84-239-9497-X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)687583241</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Dejemos hablar al viento</subfield>
+    <subfield code="c">Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[S.l.]</subfield>
+    <subfield code="b">Espasa Calpe</subfield>
+    <subfield code="c">c1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">246 p</subfield>
+    <subfield code="c">18 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Narrativa del siglo XX en lengua castellana</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">129686877X</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 12 / 5057</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>66</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">306481952</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240120100406.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">991130s1999    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">99,A50,1673</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">957789912</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518410792</subfield>
+    <subfield code="q"> : DM 49.80 (Pp.)</subfield>
+    <subfield code="9">3-518-41079-2</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)306481952</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)078647746</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV306481952</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)76074086</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-478)952101580</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">59</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">7,34</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="243" ind1="1" ind2="0">
+    <subfield code="a">Sammlung</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Willkommen, Bob</subfield>
+    <subfield code="b">gesammelte Erzählungen</subfield>
+    <subfield code="c">Juan Carlos Onetti. Aus dem Span. von Jürgen Dormagen ...</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. Aufl.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">452 S</subfield>
+    <subfield code="c">22 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Dieser Ausg. liegen die Cuentos completos zugrunde</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dormagen, Jürgen</subfield>
+    <subfield code="d">1946-</subfield>
+    <subfield code="e">Übers.</subfield>
+    <subfield code="0">(DE-588)130079170</subfield>
+    <subfield code="0">(DE-627)603774776</subfield>
+    <subfield code="0">(DE-576)307961273</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Poppenberg, Gerhard</subfield>
+    <subfield code="d">1954-</subfield>
+    <subfield code="e">Übers.</subfield>
+    <subfield code="0">(DE-588)112071759</subfield>
+    <subfield code="0">(DE-627)516471910</subfield>
+    <subfield code="0">(DE-576)164208593</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">682099929</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 99 / 11816</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Uruguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren O</subfield>
+    <subfield code="k">Onetti, Juan Carlos</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271313642</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+    <subfield code="0">(DE-576)201313642</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>67</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">329184318</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20211124180754.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">010515s1997    uy |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9974000602</subfield>
+    <subfield code="9">9974-0-0060-2</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="z">9974000602</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)329184318</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)112279988</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV329184318</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-UY</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Actas de las jornadas de homenaje a Juan Carlos Onetti</subfield>
+    <subfield code="b">[Primeras Jornadas Rioplatenses de Literatura 27, 28 y 29 de abril de 1994, Montevideo]</subfield>
+    <subfield code="c">Departamento de Literaturas Uruguaya y Latinoamericana de la Universidad de la República (ed.). Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Montevideo</subfield>
+    <subfield code="b">Univ. de la República, Departamento de Publicaciones</subfield>
+    <subfield code="c">1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">221 S</subfield>
+    <subfield code="b">Ill</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Papers presented at the I Jornadas Rioplatenses de Literatura, held Apr. 27-29, 1994, at the Departamento de Literaturas Uruguaya y Latinoamericana, Facultad de Humanidades y Ciencias de la Educación, Universidad de la República, in honor of Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Konferenzschrift</subfield>
+    <subfield code="0">(DE-588)1071861417</subfield>
+    <subfield code="0">(DE-627)826484824</subfield>
+    <subfield code="0">(DE-576)433375485</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Festschrift</subfield>
+    <subfield code="0">(DE-588)4016928-5</subfield>
+    <subfield code="0">(DE-627)104400986</subfield>
+    <subfield code="0">(DE-576)208917802</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="e">GefeierteR</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">hnr</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Lago, Sylvia</subfield>
+    <subfield code="e">Hrsg.</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Universidad de la República</subfield>
+    <subfield code="b">Departamento de Literaturas Uruguaya y Latinoamericana</subfield>
+    <subfield code="0">(DE-588)5130630-X</subfield>
+    <subfield code="0">(DE-627)188683739</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">Jornadas de Homenaje a Juan Carlos Onetti</subfield>
+    <subfield code="d">1994</subfield>
+    <subfield code="c">Montevideo</subfield>
+    <subfield code="0">(DE-588)5561644-6</subfield>
+    <subfield code="0">(DE-627)712014306</subfield>
+    <subfield code="0">(DE-576)199897603</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">676627404</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 98 / 1139</subfield>
+    <subfield code="g">A 98::1139</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>68</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">466531826</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20140331164217.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">000101s1996    uy |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)466531826</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-UY</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gilio, María Esther</subfield>
+    <subfield code="d">1928-</subfield>
+    <subfield code="0">(DE-588)172500567</subfield>
+    <subfield code="0">(DE-627)697437825</subfield>
+    <subfield code="0">(DE-576)133361381</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Entrelíneas</subfield>
+    <subfield code="c">María Esther Gilio. Conversaciones con: Juan Carlos Onetti ...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Montevideo</subfield>
+    <subfield code="b">Ed. de Brecha</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">140 S</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Libros de la esquina</subfield>
+    <subfield code="v">1</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Orozco, Olga</subfield>
+    <subfield code="d">1920-1999</subfield>
+    <subfield code="0">(DE-588)119523965</subfield>
+    <subfield code="0">(DE-627)080340237</subfield>
+    <subfield code="0">(DE-576)175563535</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Ginzburg, Natalia</subfield>
+    <subfield code="d">1916-1991</subfield>
+    <subfield code="0">(DE-588)118539426</subfield>
+    <subfield code="0">(DE-627)233844376</subfield>
+    <subfield code="0">(DE-576)161118682</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Libros de la esquina</subfield>
+    <subfield code="v">1</subfield>
+    <subfield code="w">(DE-627)469915641</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">680371613</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 97 / 3089</subfield>
+    <subfield code="g">A 97::3089</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>69</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">233647473</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240721193447.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">970903s1996    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8425329558</subfield>
+    <subfield code="9">84-253-2955-8</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)233647473</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV233647473</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tan triste como ella [y otros cuentos]</subfield>
+    <subfield code="c">Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. ed.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Grijalbo Mondadori</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">305 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Libro de mano</subfield>
+    <subfield code="v">61</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Libro de mano</subfield>
+    <subfield code="v">61</subfield>
+    <subfield code="9">61</subfield>
+    <subfield code="w">(DE-627)509650252</subfield>
+    <subfield code="w">(DE-576)047441941</subfield>
+    <subfield code="w">(DE-600)2228929-X</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1103587528</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 09 / 20358</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Uruguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren O</subfield>
+    <subfield code="k">Onetti, Juan Carlos</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271313642</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+    <subfield code="0">(DE-576)201313642</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>70</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">212483625</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20220912194539.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">960701s1996    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">96,A28,1379</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">94715647X</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518407317</subfield>
+    <subfield code="q"> : DM 36.00 (Pp.)</subfield>
+    <subfield code="9">3-518-40731-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)212483625</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)046323724</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV212483625</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)75683334</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-478)952507021</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-Rt5)3040878</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">59</subfield>
+    <subfield code="q">dnb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">LIT 536 ONE 5</subfield>
+    <subfield code="2">sfb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">LIT 552 ONE 5</subfield>
+    <subfield code="2">sfb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">59</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.32</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cuando ya no importe &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Wenn es nicht mehr wichtig ist</subfield>
+    <subfield code="b">Roman</subfield>
+    <subfield code="c">Juan Carlos Onetti. Aus dem Span. von Rudolf Wittkopf</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. Aufl.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">187 S</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="361" ind1="1" ind2=" ">
+    <subfield code="a">Literarische Bibliothek Siegfried Unseld</subfield>
+    <subfield code="f">Stempel</subfield>
+    <subfield code="5">DE-32</subfield>
+    <subfield code="y">715909797</subfield>
+    <subfield code="s">Onetti Juan Ca 182443 - A</subfield>
+    <subfield code="o">Vorbesitz</subfield>
+    <subfield code="0">(DE-588)1082323314</subfield>
+    <subfield code="0">(DE-627)847321843</subfield>
+    <subfield code="0">(DE-576)455352682</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4062186-8</subfield>
+    <subfield code="0">(DE-627)106133241</subfield>
+    <subfield code="0">(DE-576)209142790</subfield>
+    <subfield code="a">Uruguay</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4134557-5</subfield>
+    <subfield code="0">(DE-627)105671703</subfield>
+    <subfield code="0">(DE-576)209653310</subfield>
+    <subfield code="a">Außenseiter</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Wittkopf, Rudolf</subfield>
+    <subfield code="d">1933-1997</subfield>
+    <subfield code="e">Übers.</subfield>
+    <subfield code="0">(DE-588)128755059</subfield>
+    <subfield code="0">(DE-627)379130831</subfield>
+    <subfield code="0">(DE-576)163602239</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="t">Cuando ya no importe &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)469734914</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">67586481X</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 96 / 3565</subfield>
+    <subfield code="g">A 96::3565</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Uruguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren O</subfield>
+    <subfield code="k">Onetti, Juan Carlos</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271313642</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+    <subfield code="0">(DE-576)201313642</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.32</subfield>
+    <subfield code="j">Spanische Literatur</subfield>
+    <subfield code="0">(DE-627)106415514</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>71</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1607808617</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260610205945.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">171201s1995    uy |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789974590304</subfield>
+    <subfield code="9">978-9974-590-30-4</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9974590302</subfield>
+    <subfield code="9">9974-590-30-2</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">9789974590304</subfield>
+    <subfield code="q">Sonstige Nr.</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1607808617</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)107679957</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ107679957</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)34485733</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-UY</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ8519.O59</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 84681</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Miradas sobre Onetti</subfield>
+    <subfield code="c">coordinación editorial: Omar Prego Gadea</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2=" ">
+    <subfield code="i">Abweichender Titel</subfield>
+    <subfield code="a">Homenaje un año después, 1909-1994</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Montevideo, Uruguay</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">octubre 1995</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">96 pages</subfield>
+    <subfield code="b">illustrations</subfield>
+    <subfield code="c">26 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Prego Gadea, Omar</subfield>
+    <subfield code="d">1927-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="0">(DE-588)1056498234</subfield>
+    <subfield code="0">(DE-627)794755844</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="e">GefeierteR</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">hnr</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1006415726.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2019-10-03</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/toc/1006415726.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2019-10-04</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)1006415726</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1726178374</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">B 18 / 70</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">mdedup</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 84681</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Uruguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren O</subfield>
+    <subfield code="k">Onetti, Juan Carlos</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271719754</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11640</subfield>
+    <subfield code="0">(DE-576)201719754</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>72</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">265530954</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20100528092028.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">990305s1995    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8420481076</subfield>
+    <subfield code="9">84-204-8107-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)265530954</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cuando ya no importe</subfield>
+    <subfield code="c">Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">5. ed.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">205 S.</subfield>
+    <subfield code="c">22 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Alfaguara hispánica</subfield>
+    <subfield code="v">[100]</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Alfaguara hispanica</subfield>
+    <subfield code="v">[100]</subfield>
+    <subfield code="w">(DE-627)484635476</subfield>
+    <subfield code="w">(DE-576)019930356</subfield>
+    <subfield code="w">(DE-600)2186124-9</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1157353223</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 10 / 8422</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>73</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">190033312</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260715122534.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">951122s1995    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   95185930 </subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8420481823</subfield>
+    <subfield code="9">84-204-8182-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)190033312</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)049319043</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV190033312</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)312501001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)33023340</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-478)942905763</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+    <subfield code="c">XD-MX</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ8519.O59</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">864</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">20</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Confesiones de un lector</subfield>
+    <subfield code="c">Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Santillana [u.a]</subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">1995</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">353 S</subfield>
+    <subfield code="c">22 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Textos de escritos</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Textos de escritor</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">"Edición de artículos periodísticos del escritor uruguayo compilados por su hijo, el periodista Jorge Onetti, muestran al Onetti lector en sus reflexiones sobre los libros que admiraba y que le interesaban leer. Este volumen agrega una dimensión más al perfil del admirado escritor uruguayo"--Handbook of Latin American Studies, v. 58</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20240324</subfield>
+    <subfield code="f">DE-4165</subfield>
+    <subfield code="z">3</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.loc.gov/catdir/enhancements/fy1115/95185930-b.html</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Autorenbiografie</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.loc.gov/hlas</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Review</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)082836248</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">SSG-OLC-pha</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4996607297</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 26 / 10433</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Uruguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren O</subfield>
+    <subfield code="k">Onetti, Juan Carlos</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271313642</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+    <subfield code="0">(DE-576)201313642</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>74</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1026034280</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260609221817.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">180706s1994    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8420481173</subfield>
+    <subfield code="9">84-204-8117-3</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788420481173</subfield>
+    <subfield code="9">978-84-204-8117-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1026034280</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV1026034280</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ8519.O59</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">20</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Short stories</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cuentos completos</subfield>
+    <subfield code="c">Onetti</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">[1994]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">© 1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">468 pages</subfield>
+    <subfield code="c">24 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references (pages 467-468)</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Avenida de Mayo-Diagonal Norte-Avenida de Mayo -- El obstáculo -- El posible Baldi -- Excursión -- Los niños en el bosque -- Convalecencia -- Un sueño realizado -- Mascarada -- Bienvenido, Bob -- La larga historia -- Regreso al Sur -- Esbjerg, en la costa -- La casa en la arena -- El álbum -- Historia del Caballero de la rosa y de la Virgen encinta que vino de Liliput -- El infierno tan temido -- La cara de la desgracia -- Jacob y el otro -- Tan triste como ella -- Justo el treintaiuno -- La novia robada -- Matías el telegrafista -- Las mellizas -- La muerte y la niña -- El perro tendrá su día -- Presencia -- El gato -- El mercado -- El cerdito -- Luna llena -- Los amigos -- Jabón -- El árbol -- Montaigne -- Ki no Tsurayuki -- Ella -- La araucaria</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Short stories, Spanish</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Spanish language</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://catdir.loc.gov/catdir/enhancements/fy1115/94202133-b.html</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Autorenbiografie</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1782513949</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 18 / 13942</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Uruguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren O</subfield>
+    <subfield code="k">Onetti, Juan Carlos</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271313642</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+    <subfield code="0">(DE-576)201313642</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>75</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     nam a22      c 4500</leader>
+  <controlfield tag="001">612133796</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20091104114347.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091104s1994    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8420618667</subfield>
+    <subfield code="9">84-206-1866-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)612133796</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Juntacadáveres</subfield>
+    <subfield code="c">Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3. reimpr.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Alianza Ed.</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">239 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">El libro de bolsillo</subfield>
+    <subfield code="v">866</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="3">
+    <subfield code="a">El libro de bolsillo</subfield>
+    <subfield code="v">866</subfield>
+    <subfield code="w">(DE-627)181995409</subfield>
+    <subfield code="w">(DE-576)010891625</subfield>
+    <subfield code="w">(DE-600)1181063-4</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">110150241X</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 09 / 18947</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>76</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">469429356</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260614205312.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">000101s1994    xx |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)469429356</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV469429356</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XC-UY</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">864</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Periquito, el aguador y otros textos</subfield>
+    <subfield code="b">1939 - 1984</subfield>
+    <subfield code="c">Juan Carlos Onetti</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Montevideo</subfield>
+    <subfield code="b">Cuadernos de Marcha</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Montevideo</subfield>
+    <subfield code="b">Intendencia Municipal, Div. Cultura</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">X, 195 S</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">680912185</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 95 / 4542</subfield>
+    <subfield code="g">A 95::4542</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>77</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">469288884</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260614205246.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">000101s1994    xxk|||||      00| ||spa c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   93047157 </subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">0719042127</subfield>
+    <subfield code="9">0-7190-4212-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)469288884</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV469288884</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+    <subfield code="h">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-GB</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ8519.O59</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Esbjerg, en la costa y otros cuentos</subfield>
+    <subfield code="c">Juan Carlos Onetti. Ed. with introd., critical analysis, notes and vocabulary by Peter Turton</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Manchester</subfield>
+    <subfield code="a">New York, NY</subfield>
+    <subfield code="b">Manchester Univ. Pr.</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">119 S</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Hispanic texts</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">Enth. u.a.: El infierno tan temido / Bob Bienvenido</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Text engl. u. span.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Spanish language</subfield>
+    <subfield code="x">Readers</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Turton, Peter</subfield>
+    <subfield code="0">(DE-588)1056762667</subfield>
+    <subfield code="0">(DE-627)794997821</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">680935355</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 95 / 4069</subfield>
+    <subfield code="g">A 95::4069</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>78</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">165468017</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260611210028.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">941015s1994    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   94202133 </subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8420481173</subfield>
+    <subfield code="9">84-204-8117-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)165468017</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV165468017</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ8519.O59</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">20</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Short stories</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cuentos completos</subfield>
+    <subfield code="c">Onetti</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3. ed</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Santillana</subfield>
+    <subfield code="c">c1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">490 S</subfield>
+    <subfield code="c">24 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references (p. [467]-468)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="t">Short stories</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.loc.gov/catdir/enhancements/fy1115/94202133-b.html</subfield>
+    <subfield code="v">2014-04-22</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Autorenbiografie</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1529535891</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 15 / 7059</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 84680</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Uruguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren O</subfield>
+    <subfield code="k">Onetti, Juan Carlos</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271313642</subfield>
+    <subfield code="0">(DE-625)rvk/66505:11639</subfield>
+    <subfield code="0">(DE-576)201313642</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>79</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">164114203</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20220427073231.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">940920s1994    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">94,A39,2021</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">941785505</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518221752</subfield>
+    <subfield code="q"> : DM 16.80 (Pp.)</subfield>
+    <subfield code="9">3-518-22175-2</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)164114203</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)040480364</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV164114203</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)75496505</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">59</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">7,34</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="0">(DE-588)118590022</subfield>
+    <subfield code="0">(DE-627)079383351</subfield>
+    <subfield code="0">(DE-576)162440219</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="4">
+    <subfield code="a">Los adioses &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Abschiede</subfield>
+    <subfield code="b">Roman</subfield>
+    <subfield code="c">Juan Carlos Onetti. Aus dem Span. von Wilhelm Muster</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. Aufl.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">1994</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">85 S</subfield>
+    <subfield code="c">18 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Bibliothek Suhrkamp</subfield>
+    <subfield code="v">1175</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4055964-6</subfield>
+    <subfield code="0">(DE-627)104616806</subfield>
+    <subfield code="0">(DE-576)209116080</subfield>
+    <subfield code="a">Spanien</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4005941-8</subfield>
+    <subfield code="0">(DE-627)106379135</subfield>
+    <subfield code="0">(DE-576)208863680</subfield>
+    <subfield code="a">Berufssportler</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4036660-1</subfield>
+    <subfield code="0">(DE-627)106241443</subfield>
+    <subfield code="0">(DE-576)209019719</subfield>
+    <subfield code="a">Lungenkrankheit</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="3">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4054423-0</subfield>
+    <subfield code="0">(DE-627)106162845</subfield>
+    <subfield code="0">(DE-576)209108606</subfield>
+    <subfield code="a">Suizid</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="4">
+    <subfield code="A">z</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="a">Geschichte 1954</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Muster, Wilhelm</subfield>
+    <subfield code="d">1916-1994</subfield>
+    <subfield code="e">Übers.</subfield>
+    <subfield code="0">(DE-588)119333996</subfield>
+    <subfield code="0">(DE-627)080142753</subfield>
+    <subfield code="0">(DE-576)21215253X</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">Onetti, Juan Carlos</subfield>
+    <subfield code="d">1909-1994</subfield>
+    <subfield code="t">Los adioses &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)468753923</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">675308356</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 94 / 7476</subfield>
+    <subfield code="g">A 94::7476</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>80</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.per="Onetti, Juan Carlos"</zs:query><zs:startRecord>61</zs:startRecord><zs:maximumRecords>20</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

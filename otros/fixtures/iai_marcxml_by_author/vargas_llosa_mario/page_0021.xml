@@ -1,0 +1,3880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>633</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1694505278</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20220629164222.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">200414s2019    pe |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9786124349881</subfield>
+    <subfield code="9">978-612-4349-88-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1694505278</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP1694505278</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-PE</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ8498.32.A65</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tiempos recios</subfield>
+    <subfield code="c">Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Lima]</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">setiembre 2019</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">© 2019</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">353 Seiten</subfield>
+    <subfield code="c">23 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Narrativa hispánica</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Guatemala, 1954. El golpe militar perpetrado por Carlos Castillo Armas y auspiciado por Estados Unidos a través de la CIA derroca el gobierno de Jacobo Árbenz. Detrás de este acto violento se encuentra una mentira que pasó por verdad y que cambió el devenir de América Latina: la acusación por parte del gobierno de Eisenhower de que Árbenz alentaba la entrada del comunismo soviético en el continente. Tiempos recios es una historia de conspiraciones internacionales e intereses encontrados, en los años de la Guerra Fría, cuyos ecos resuenan hasta la actualidad. Una historia que involucró a varios países y en la que algunos verdugos acabaron convirtiéndose en víctimas de la misma trama que habían ayudado a construir</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Arbenz Guzmán, Jacobo</subfield>
+    <subfield code="d">1913-1971</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="b">Central Intelligence Agency</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">United States</subfield>
+    <subfield code="b">Central Intelligence Agency</subfield>
+    <subfield code="v">Ficción</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Spanish language materials</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Cold War</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Arbenz Guzmán, Jacobo</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">United States</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Guatemala</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Fiction</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Historical fiction</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">History</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Historical fiction</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Historical fiction</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Guatemala</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">Revolution, 1954</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Guatemala</subfield>
+    <subfield code="x">Historia</subfield>
+    <subfield code="y">Revolución, 1954</subfield>
+    <subfield code="v">Ficción</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Guatemala</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">1945-1985</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1694505278.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2022-06-29</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3623094536</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 20 / 5822</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>21</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      cc4500</leader>
+  <controlfield tag="001">1680897713</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20251208230757.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">191104s2019    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783518242261</subfield>
+    <subfield code="9">978-3-518-24226-1</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783518242261</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1680897713</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP1680897713</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 72220</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11639</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cortázar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die Erzählungen</subfield>
+    <subfield code="n">Band 1</subfield>
+    <subfield code="p">Die Nacht auf dem Rücken / Julio Cortázar ; aus dem Spanischen von Rudolf Wittkopf und Wolfgang Promies ; mit einem Nachwort von Mario Vargas Llosa</subfield>
+    <subfield code="c">Julio Cortázar. Aus dem Span. von Rudolf Wittkopf ...</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Erste Auflage</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">2019</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">329 Seiten</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Suhrkamp-Taschenbuch</subfield>
+    <subfield code="v">2916</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Wittkopf, Rudolf</subfield>
+    <subfield code="d">1933-1997</subfield>
+    <subfield code="e">ÜbersetzerIn</subfield>
+    <subfield code="0">(DE-588)128755059</subfield>
+    <subfield code="0">(DE-627)379130831</subfield>
+    <subfield code="0">(DE-576)163602239</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Promies, Wolfgang</subfield>
+    <subfield code="d">1935-2002</subfield>
+    <subfield code="e">ÜbersetzerIn</subfield>
+    <subfield code="0">(DE-588)116304839</subfield>
+    <subfield code="0">(DE-627)077815637</subfield>
+    <subfield code="0">(DE-576)290436370</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn eines Nachworts</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">waw</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="w">(DE-627)116701037X</subfield>
+    <subfield code="w">(DE-576)097010375</subfield>
+    <subfield code="g">Band 1</subfield>
+    <subfield code="q">1,2019</subfield>
+    <subfield code="7">nnam</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3603940164</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 19 / 17321 : 1</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 72220</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren C</subfield>
+    <subfield code="k">Cortázar, Julio</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271290154</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11639</subfield>
+    <subfield code="0">(DE-576)201290154</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">MV</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>22</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">167800507X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260611214429.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">191001s2019    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788420435718</subfield>
+    <subfield code="q">20,90 €</subfield>
+    <subfield code="9">978-84-204-3571-8</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8420435716</subfield>
+    <subfield code="9">84-204-3571-6</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9788420435718</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)167800507X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP167800507X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)4561950</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tiempos recios</subfield>
+    <subfield code="c">Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">octubre de 2019</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">© 2019</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">353 Seiten</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Narrativa hispánica</subfield>
+    <subfield code="a">Premio Nobel de literatura</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Hier auch später erschienene, unveränderte Nachdrucke. - "Primera reimpresión" der 1. Auflage teilweise auf abnehmbarer Banderole als "2.a edición" bezeichnet</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Guatemala, 1954. El golpe militar perpetrado por Carlos Castillo Armas y auspiciado por Estados Unidos a través de la CIA derroca el gobierno de Jacobo Árbenz. Detrás de este acto violento se encuentra una mentira que pasó por verdad y que cambió el devenir de América Latina: la acusación por parte del gobierno de Eisenhower de que Árbenz alentaba la entrada del comunismo soviético en el continente. Tiempos recios es una historia de conspiraciones internacionales e intereses encontrados, en los años de la Guerra Fría, cuyos ecos resuenan hasta la actualidad. Un suceso que involucró a varios países y en el que algunos verdugos acabaron convirtiéndose en víctimas de la misma trama que habían ayudado a construir. En esta novela apasionante, que conecta con la aclamada La Fiesta del Chivo, Mario Vargas Llosa funde la realidad con dos ficciones: la del narrador que libremente recrea personajes y situaciones, y la diseñada por aquellos que quisieron controlar la política y la economía de un continente manipulando su historia</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4045312-1</subfield>
+    <subfield code="0">(DE-627)104189169</subfield>
+    <subfield code="0">(DE-576)209064633</subfield>
+    <subfield code="a">Peru</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4050479-7</subfield>
+    <subfield code="0">(DE-627)104137673</subfield>
+    <subfield code="0">(DE-576)209087579</subfield>
+    <subfield code="a">Roman</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/167800507X.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2019-11-25</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3530815403</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 19 / 18285</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271281864</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+    <subfield code="0">(DE-576)201281864</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>23</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1036403629</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260609222153.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">181024s2019    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">18,N43</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1169155936</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783518428689</subfield>
+    <subfield code="q"> : EUR 24.00 (DE), EUR 24.70 (AT), CHF 34.50 (freier Preis)</subfield>
+    <subfield code="9">978-3-518-42868-9</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518428683</subfield>
+    <subfield code="9">3-518-42868-3</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783518428689</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1036403629</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-603)448659115</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB1169155936</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1101164115</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1099930937</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-BE</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">320.51</subfield>
+    <subfield code="q">DE-101</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">320</subfield>
+    <subfield code="a">860</subfield>
+    <subfield code="q">DE-101</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Pyk Vargas Llosa, M</subfield>
+    <subfield code="2">asb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Pbk 1</subfield>
+    <subfield code="2">asb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">PYB 25 Vargas Llosa, Mario</subfield>
+    <subfield code="2">ssd</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">PBK 1</subfield>
+    <subfield code="2">ssd</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">LIT 552 VAR 8</subfield>
+    <subfield code="2">sfb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">R 11</subfield>
+    <subfield code="2">kab</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">H 910 Vargas Llosa, M</subfield>
+    <subfield code="2">kab</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">H 013</subfield>
+    <subfield code="2">kab</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="q">DE-14/sred</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">80.43</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.84</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="3">
+    <subfield code="a">La llamada de la tribu</subfield>
+    <subfield code="0">(DE-588)1187788384</subfield>
+    <subfield code="0">(DE-627)166670735X</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Der Ruf der Horde</subfield>
+    <subfield code="b">eine intellektuelle Autobiografie</subfield>
+    <subfield code="c">Mario Vargas Llosa ; aus dem Spanischen von Thomas Brovot</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Autobiographie</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Erste Auflage</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">2019</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">313 Seiten</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Gegen den "Ruf der Horde" (Karl Popper), gegen den weltweit grassierenden, primitiven Populismus vergegenwärtigt Mario Vargas Llosa die Traditionen des Liberalismus, die ihn geprägt, bereichert und ein ganzes Leben lang geleitet haben – als politischen Schriftsteller wie als schreibenden Politiker. Für seine politischen Überzeugungen ist der peruanische Nobelpreisträger jahrzehntelang kritisiert, beschimpft und angefeindet worden – aber was, wenn er recht hatte? Und welche Denker, welche Bücher haben ihm zu diesen Überzeugungen verholfen? Mit essayistischer Verve und analytischem Scharfsinn schreibt Mario Vargas Llosa über seine Heroen des historischen Liberalismus, über Adam Smith, José Ortega y Gasset, Friedrich Hayek, Karl Popper, Raymond Aron, Isaiah Berlin und Jean-François Revel. Denn sie haben ihn mit einer ganz anderen Denkungsart vertraut gemacht, mit einer Denkungsart, die das Individuum stets höher stellte als die »Horde«, die Nation, die Klasse oder die Partei und die die freie Meinungsäußerung immer schon als fundamentalen Wert für das Gedeihen von Demokratie zu verteidigen wusste.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="7">
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="0">(DE-588)4076217-8</subfield>
+    <subfield code="0">(DE-627)106083422</subfield>
+    <subfield code="0">(DE-576)209201207</subfield>
+    <subfield code="a">Politische Einstellung</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="0">(DE-588)4035582-2</subfield>
+    <subfield code="0">(DE-627)106246933</subfield>
+    <subfield code="0">(DE-576)209013524</subfield>
+    <subfield code="a">Liberalismus</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Autobiografie</subfield>
+    <subfield code="0">(DE-588)4003939-0</subfield>
+    <subfield code="0">(DE-627)106388258</subfield>
+    <subfield code="0">(DE-576)208853251</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Biografie</subfield>
+    <subfield code="0">(DE-588)4006804-3</subfield>
+    <subfield code="0">(DE-627)104213493</subfield>
+    <subfield code="0">(DE-576)208867147</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4035582-2</subfield>
+    <subfield code="0">(DE-627)106246933</subfield>
+    <subfield code="0">(DE-576)209013524</subfield>
+    <subfield code="a">Liberalismus</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="1">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4045312-1</subfield>
+    <subfield code="0">(DE-627)104189169</subfield>
+    <subfield code="0">(DE-576)209064633</subfield>
+    <subfield code="a">Peru</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4035964-5</subfield>
+    <subfield code="0">(DE-627)106245015</subfield>
+    <subfield code="0">(DE-576)209015608</subfield>
+    <subfield code="a">Literatur</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Brovot, Thomas</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="e">ÜbersetzerIn</subfield>
+    <subfield code="0">(DE-588)115047506</subfield>
+    <subfield code="0">(DE-627)589912704</subfield>
+    <subfield code="0">(DE-576)16784914X</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suhrkamp Verlag</subfield>
+    <subfield code="e">Verlag</subfield>
+    <subfield code="0">(DE-588)300755-8</subfield>
+    <subfield code="0">(DE-627)100688012</subfield>
+    <subfield code="0">(DE-576)191008214</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=e98939e48e474a7982d81bf55a2a3d1f&amp;prov=M&amp;dok_var=2&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2018-10-24</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/toc/1036403629.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2019-10-12</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=e98939e48e474a7982d81bf55a2a3d1f&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2018-10-24</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">350898740X</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 19 / 15439</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271281864</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+    <subfield code="0">(DE-576)201281864</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">80.43</subfield>
+    <subfield code="j">Intellektuelle Bildung</subfield>
+    <subfield code="0">(DE-627)106414399</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.84</subfield>
+    <subfield code="j">Sonstige literarische Gattungen</subfield>
+    <subfield code="0">(DE-627)181571692</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="936" ind1="s" ind2="n">
+    <subfield code="a">i100</subfield>
+    <subfield code="2">mzub</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>24</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1919748849</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250718030026.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">250313s2018    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788490625637</subfield>
+    <subfield code="9">978-84-9062-563-7</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8490625638</subfield>
+    <subfield code="9">84-9062-563-8</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1919748849</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP1919748849</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ8498.32.A65</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">821.134.2(85)-31"19"</subfield>
+    <subfield code="2">udc</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La fiesta del chivo</subfield>
+    <subfield code="c">Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición en Debolsillo, séptima reimpresión</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Barcelona]</subfield>
+    <subfield code="b">Debolsillo</subfield>
+    <subfield code="c">2018</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">525 p.</subfield>
+    <subfield code="c">19 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Contemporánea</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Trujillo Molina, Rafael Leónidas,</subfield>
+    <subfield code="d">1891-1961</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Balaguer, Joaquín,</subfield>
+    <subfield code="d">1906-2002</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="4">
+    <subfield code="a">Balaguer, Joaquín, - 1906-2002</subfield>
+    <subfield code="0">(OCoLC)fst00103428</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="4">
+    <subfield code="a">Trujillo Molina, Rafael Leónidas, - 1891-1961</subfield>
+    <subfield code="0">(OCoLC)fst00017561</subfield>
+  </datafield>
+  <datafield tag="648" ind1=" " ind2="4">
+    <subfield code="a">Since 1961</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Fiction</subfield>
+    <subfield code="0">(OCoLC)fst01423787</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">History</subfield>
+    <subfield code="0">(OCoLC)fst01411628</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Novelas históricas</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Dominican Republic</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">1961-</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">République dominicaine - Histoire - 1961- - Romans, nouvelles, etc.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">Dominican Republic</subfield>
+    <subfield code="0">(OCoLC)fst01206148</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1919748849.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2025-07-18</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4686725658</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 25 / 5424</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>25</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1037062019</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20191005000515.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">181029s2018    pe |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9786124607288</subfield>
+    <subfield code="9">978-612-46072-8-8</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1037062019</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV1037062019</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(LIB)com00016194</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-PE</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sánchez Carrión, José F.</subfield>
+    <subfield code="d">1787-1825</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118950606</subfield>
+    <subfield code="0">(DE-627)695606794</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">El tribuno de la república</subfield>
+    <subfield code="c">José F. Sánchez Carrión ; antología de textos por Gerardo Cailloma Navarrete ; presentación, Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Trujillo</subfield>
+    <subfield code="b">Fondo Editorial de la Municipalidad Provincial de Trujillo</subfield>
+    <subfield code="c">abril de 2018</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">161 pages</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Clásicos del pensamiento</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Antología</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cailloma Navarrete, Gerardo</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn eines Geleitwortes</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aui</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1037062019.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2019-10-03</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/toc/1037062019.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2019-10-04</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">183881910X</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 19 / 950</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>26</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1019788615</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260609221503.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">180428s2018    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8420431990</subfield>
+    <subfield code="9">84-204-3199-0</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9781947783393</subfield>
+    <subfield code="9">978-1-947783-39-3</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">1947783394</subfield>
+    <subfield code="9">1-947783-39-4</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788420431994</subfield>
+    <subfield code="q">Broschur, 15,99 €</subfield>
+    <subfield code="9">978-84-204-3199-4</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9788420431994</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1019788615</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)507362160</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV1019788615</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1028872809</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1028668565</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)4305822</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">JC574</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">860</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">320</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="q">DE-14/sred</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La llamada de la tribu</subfield>
+    <subfield code="c">Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">abril de 2018</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">313 Seiten</subfield>
+    <subfield code="c">24 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Narrativa hispánica</subfield>
+    <subfield code="a">Premio Nobel de Literatura</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"El Nobel peruano ha hecho una cartografía de los pensadores liberales que le ayudaron a desarrollar un nuevo cuerpo de ideas después del gran trauma ideológico que supuso, por un lado, el desencanto con la Revolución Cubana y, por otro, el distanciamiento de las ideas de Jean-Paul Sartre, el autor que más lo había inspirado en su juventud."--Page [4] of cover</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Hier auch später erschienene, unveränderte Nachdrucke</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">"La diferencia con libros como El pez en el agua es que aquí el protagonismo no lo tienen las vivencias del autor, sino las lecturas que moldearon su forma de pensar y de ver el mundo en los últimos cincuenta años.   El Nobel peruano ha hecho una cartografía de los pensadores liberales que lo ayudaron a desarrollar un nuevo cuerpo de ideas después del gran trauma ideológico que supuso, por un lado, el desencanto con la Revolución Cubana y, por otro, el distanciamiento de las ideas de Jean-Paul Sartre, el autor que más lo había inspirado en su juventud.   Los autores que analiza son Adam Smith, José Ortega y Gasset, Friedrich Hayek, Karl Popper, Raymond Aron, Isaiah Berlin y Jean-Fraçois Revel, quienes le fueron de enorme ayuda durante aquellos años de desazón, mostrándole otra tradición de pensamiento que privilegiaba al individuo frente a la tribu, la nación, la clase o el partido, y que defendía la libertad de expresión como valor fundamental para el ejercicio de la democracia." -- Back cover</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">The difference between this autobiography and others like El pez en el agua /A Fish in the Water is that this book's leading role is not necessarily the author's experiences, but rather the literature that shaped his way of thinking and his way of seeing the world in the last fifty years. The Peruvian Nobel laureate creates a roadmap of the liberal thinkers that helped him develop a new set of ideas after the great ideological disappointment that was, on the one hand, his disenchantment with the Cuban Revolution and, on the other, a distancing of sorts from an author who had greatly inspired him in his youth, Jean-Paul Sartre.   The authors which he analyzes are Adam Smith, Jose Ortega y Gasset, Friedrich Hayek, Karl Popper, Raymond Aron, Isaiah Berlin and Jean-Fraçois Revel, who were of great help during those disconcerting years, showing him a new train of thought which gave the individual more power than the "tribe", the nation, the class or the party, and that defended freedom of expression as a fundamental value for democracy. -- Provided by publisher</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">La llamada de la tribu -- Adam Smith (1723-1790) -- José Ortega y Gasset (1883-1955) -- Friedrich August von Hayek (1899-1992) -- Sir Karl Popper (1902-1994) -- Raymond Aron (1905-1983) -- Sir Isaiah Berlin (1909-19979) -- Jean-François Revel (1924-2006)</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Smith, Adam</subfield>
+    <subfield code="d">1723-1790</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Ortega y Gasset, José</subfield>
+    <subfield code="d">1883-1955</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hayek, Friedrich A. von</subfield>
+    <subfield code="q">(Friedrich August)</subfield>
+    <subfield code="d">1899-1992</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Popper, Karl R</subfield>
+    <subfield code="q">(Karl Raimund)</subfield>
+    <subfield code="d">1902-1994</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Aron, Raymond</subfield>
+    <subfield code="d">1905-1983</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Berlin, Isaiah</subfield>
+    <subfield code="d">1909-1997</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Revel, Jean-François</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Smith, Adam 1723-1790</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Ortega y Gasset, José 1883-1955</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hayek, Friedrich A. von 1899-1992</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Popper, Karl R. 1902-1994</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Aron, Raymond 1905-1983</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Berlin, Isaiah 1909-1997</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Revel, Jean-François</subfield>
+    <subfield code="x">Vargas Llosa, Mario 1936-</subfield>
+    <subfield code="x">Libros de láminas</subfield>
+    <subfield code="x">Vargas Llosa, Mario 1936-</subfield>
+    <subfield code="x">1900-1999</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Autores peruanos</subfield>
+    <subfield code="x">Biografía</subfield>
+    <subfield code="x">Siglo XX</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Peruvian</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">BIOGRAPHY &amp; AUTOBIOGRAPHY / Literary</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">LITERARY CRITICISM / European / Spanish &amp; Portuguese</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Liberalism</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Individualism</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Autobiografie</subfield>
+    <subfield code="0">(DE-588)4003939-0</subfield>
+    <subfield code="0">(DE-627)106388258</subfield>
+    <subfield code="0">(DE-576)208853251</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1019788615.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2018-07-24</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/1019788615.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="v">2018-07-30</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1767526385</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 18 / 9716</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271281864</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+    <subfield code="0">(DE-576)201281864</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>27</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1014730406</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260609221211.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">180226s2017    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788417048273</subfield>
+    <subfield code="q"> :  (32.00 EUR)</subfield>
+    <subfield code="9">978-84-17048-27-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1014730406</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV1014730406</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)4241115</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">NA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">725</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">KUNST</subfield>
+    <subfield code="q">DE-16</subfield>
+    <subfield code="2">fid</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="3">
+    <subfield code="a">El libro del Teatro Real</subfield>
+    <subfield code="c">textos de Mario Vargas Llosa, Gregorio Marañón, Ignacio García-Belenguer</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">La Fábrica</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">196 Seiten</subfield>
+    <subfield code="c">28 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">unbewegtes Bild</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Bildband</subfield>
+    <subfield code="0">(DE-588)4145395-5</subfield>
+    <subfield code="0">(DE-627)104450835</subfield>
+    <subfield code="0">(DE-576)209741139</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)1062588746</subfield>
+    <subfield code="0">(DE-627)805492151</subfield>
+    <subfield code="a">Conesa, Chema</subfield>
+    <subfield code="d">1952-</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">b</subfield>
+    <subfield code="0">(DE-588)3022654-5</subfield>
+    <subfield code="0">(DE-627)713049049</subfield>
+    <subfield code="a">Opera</subfield>
+    <subfield code="g">Madrid</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4199272-6</subfield>
+    <subfield code="0">(DE-627)104115084</subfield>
+    <subfield code="0">(DE-576)210127597</subfield>
+    <subfield code="a">Theaterfotografie</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn von Zusatztexten</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">wat</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Marañón, Gregorio</subfield>
+    <subfield code="e">VerfasserIn von ergänzendem Text</subfield>
+    <subfield code="4">wst</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">García-Belenguer, Ignacio</subfield>
+    <subfield code="e">VerfasserIn von ergänzendem Text</subfield>
+    <subfield code="4">wst</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1014730406.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2022-11-19</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/toc/1014730406.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2024-11-28</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1767492022</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">B 18 / 1734</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>28</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1003456383</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260609220626.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">171109s2017    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788417252007</subfield>
+    <subfield code="q"> :  (17.00 EUR)</subfield>
+    <subfield code="9">978-84-17252-00-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1003456383</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV1003456383</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)4221917</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ8498.32.A65</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52061</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.98</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Encuentros con Mario Vargas Llosa</subfield>
+    <subfield code="c">Juan Cruz Ruiz</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1.a edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Ediciones Deliberar</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">251 Seiten</subfield>
+    <subfield code="c">19 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Biblioteca Deliberar</subfield>
+    <subfield code="v">No. 1</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-</subfield>
+    <subfield code="v">Interviews</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Peruvian</subfield>
+    <subfield code="v">Interviews</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Interview</subfield>
+    <subfield code="0">(DE-588)4027503-6</subfield>
+    <subfield code="0">(DE-627)104767812</subfield>
+    <subfield code="0">(DE-576)208971211</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cruz Ruiz, Juan</subfield>
+    <subfield code="d">1948-</subfield>
+    <subfield code="e">InterviewerIn</subfield>
+    <subfield code="0">(DE-588)134284348</subfield>
+    <subfield code="0">(DE-627)566087618</subfield>
+    <subfield code="0">(DE-576)300424213</subfield>
+    <subfield code="4">ivr</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Biblioteca Deliberar</subfield>
+    <subfield code="v">No. 1</subfield>
+    <subfield code="9">1</subfield>
+    <subfield code="w">(DE-627)1017830258</subfield>
+    <subfield code="w">(DE-600)2925715-3</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/1003456383.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2018-02-02</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/1003456383.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="v">2018-02-15</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1724745948</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 17 / 21239</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52061</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271501953</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11640</subfield>
+    <subfield code="0">(DE-576)201501953</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.98</subfield>
+    <subfield code="j">Textsammlungen</subfield>
+    <subfield code="0">(DE-627)106404547</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>29</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">897031938</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260618004024.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">170905s2017    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788420431789</subfield>
+    <subfield code="q"> : 19.00 EUR</subfield>
+    <subfield code="9">978-84-204-3178-9</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)897031938</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)505892421</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV897031938</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1008661162</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)4208209</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PN59</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">7,34</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="q">BSZ</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52061</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Conversación en Princeton con Rubén Gallo</subfield>
+    <subfield code="c">Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">septiembre de 2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">287 Seiten</subfield>
+    <subfield code="c">24 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Lectures held at Princeton University</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">En estas conversaciones, el Nobel, con su brillantez acostumbrada, habla del oficio de escritor y de los retos a los que se enfrenta en la construcción de sus novelas, pero también ofrece un análisis inteligente de la actualidad. Es especialmente conmovedora la charla con Philippe Lançon, periodista del Charlie Hebdo que sobrevivió al atentado islamista perpetrado ese mismo año.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Literature</subfield>
+    <subfield code="x">Study and teaching</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Literature</subfield>
+    <subfield code="x">Study and teaching</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Politics and literature</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Journalism and literature</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Interview</subfield>
+    <subfield code="0">(DE-588)4027503-6</subfield>
+    <subfield code="0">(DE-627)104767812</subfield>
+    <subfield code="0">(DE-576)208971211</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4045312-1</subfield>
+    <subfield code="0">(DE-627)104189169</subfield>
+    <subfield code="0">(DE-576)209064633</subfield>
+    <subfield code="a">Peru</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4035964-5</subfield>
+    <subfield code="0">(DE-627)106245015</subfield>
+    <subfield code="0">(DE-576)209015608</subfield>
+    <subfield code="a">Literatur</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Gallo, Rubén</subfield>
+    <subfield code="d">1969-</subfield>
+    <subfield code="e">InterviewerIn</subfield>
+    <subfield code="0">(DE-588)188364455</subfield>
+    <subfield code="0">(DE-627)699294347</subfield>
+    <subfield code="0">(DE-576)181907054</subfield>
+    <subfield code="4">ivr</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/897031938.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2017-11-08</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.megustaleer.com/libros/conversacion-en-princeton-con-ruben-gallo/MES-087524</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsbeschreibung</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1720518424</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 17 / 19482</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271281864</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+    <subfield code="0">(DE-576)201281864</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52061</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271501953</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11640</subfield>
+    <subfield code="0">(DE-576)201501953</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>30</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">894218735</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260618003850.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">170725s2017    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788408172437</subfield>
+    <subfield code="9">978-84-08-17243-7</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8408172433</subfield>
+    <subfield code="9">84-08-17243-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)894218735</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV894218735</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)4135674</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">JC</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">320</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="3">
+    <subfield code="a">El estallido del populismo</subfield>
+    <subfield code="c">Álvaro Vargas Llosa, coord., prólogo de Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Editorial Planeta</subfield>
+    <subfield code="c">junio de 2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">413 Seiten</subfield>
+    <subfield code="c">23 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Collected essays</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4078704-7</subfield>
+    <subfield code="0">(DE-627)106076612</subfield>
+    <subfield code="0">(DE-576)209209682</subfield>
+    <subfield code="a">USA</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4074032-8</subfield>
+    <subfield code="0">(DE-627)104571632</subfield>
+    <subfield code="0">(DE-576)209192224</subfield>
+    <subfield code="a">Lateinamerika</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4015701-5</subfield>
+    <subfield code="0">(DE-627)104289007</subfield>
+    <subfield code="0">(DE-576)208913092</subfield>
+    <subfield code="a">Europa</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="3">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4129521-3</subfield>
+    <subfield code="0">(DE-627)104331216</subfield>
+    <subfield code="0">(DE-576)209611200</subfield>
+    <subfield code="a">Populismus</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="4">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4046517-2</subfield>
+    <subfield code="0">(DE-627)106197711</subfield>
+    <subfield code="0">(DE-576)209069961</subfield>
+    <subfield code="a">Politiker</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Álvaro</subfield>
+    <subfield code="d">1966-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="0">(DE-588)142526452</subfield>
+    <subfield code="0">(DE-627)704251272</subfield>
+    <subfield code="0">(DE-576)168565234</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/894218735.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2017-08-10</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/894218735.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="v">2017-08-14</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1703487486</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 17/ 13644</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>31</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">885122003</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240928203607.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">170426s2017    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">17,A38</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1130163563</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518468049</subfield>
+    <subfield code="q"> : (Broschur : EUR 11.00 (DE), EUR 11.40 (AT), CHF 16.50 (freier Preis))</subfield>
+    <subfield code="9">3-518-46804-9</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783518468043</subfield>
+    <subfield code="q"> : (Broschur : EUR 11.00 (DE), EUR 11.40 (AT), CHF 16.50 (freier Preis))</subfield>
+    <subfield code="9">978-3-518-46804-3</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783518468043</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)885122003</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB1130163563</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-BE</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">860</subfield>
+    <subfield code="a">B</subfield>
+    <subfield code="q">DE-101</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">800</subfield>
+    <subfield code="a">B</subfield>
+    <subfield code="q">DE-101</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cinco esquinas</subfield>
+    <subfield code="0">(DE-588)1117038009</subfield>
+    <subfield code="0">(DE-627)870908685</subfield>
+    <subfield code="0">(DE-576)478684002</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die Enthüllung</subfield>
+    <subfield code="b">Roman</subfield>
+    <subfield code="c">Mario Vargas Llosa ; aus dem Spanischen von Thomas Brovot</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Erste Auflage</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">298 Seiten</subfield>
+    <subfield code="c">19 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Suhrkamp-Taschenbuch</subfield>
+    <subfield code="v">4804</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Erzählende Literatur: Gegenwartsliteratur ab 1945</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Brovot, Thomas</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="e">ÜbersetzerIn</subfield>
+    <subfield code="0">(DE-588)115047506</subfield>
+    <subfield code="0">(DE-627)589912704</subfield>
+    <subfield code="0">(DE-576)16784914X</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suhrkamp Verlag</subfield>
+    <subfield code="e">Verlag</subfield>
+    <subfield code="0">(DE-588)300755-8</subfield>
+    <subfield code="0">(DE-627)100688012</subfield>
+    <subfield code="0">(DE-576)191008214</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=880de6a79b404b15858375c500572f02&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2017-10-09</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=880de6a79b404b15858375c500572f02&amp;prov=M&amp;dok_var=2&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2017-10-09</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/885122003.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2017-12-08</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/toc/885122003.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1715874242</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 17 / 18863</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>32</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">885119371</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250225022527.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">170426s2017    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">17,N17</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">18,A02</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1130160629</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518468170</subfield>
+    <subfield code="q"> : (Broschur : EUR 12.00 (DE), EUR 12.40 (AT), CHF 17.90 (freier Preis))</subfield>
+    <subfield code="9">3-518-46817-0</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783518468173</subfield>
+    <subfield code="q"> : (Broschur : EUR 12.00 (DE), EUR 12.40 (AT), CHF 17.90 (freier Preis))</subfield>
+    <subfield code="9">978-3-518-46817-3</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783518468173</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)885119371</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)502251298</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB1130160629</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1015673933</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-BE</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">860</subfield>
+    <subfield code="a">B</subfield>
+    <subfield code="q">DE-101</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">830</subfield>
+    <subfield code="a">B</subfield>
+    <subfield code="q">DE-101</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">a</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Travesuras de la niña mala</subfield>
+    <subfield code="0">(DE-588)1042645531</subfield>
+    <subfield code="0">(DE-627)769165702</subfield>
+    <subfield code="0">(DE-576)394087569</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Das böse Mädchen</subfield>
+    <subfield code="b">Roman</subfield>
+    <subfield code="c">Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Erste Auflage</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">559 Seiten</subfield>
+    <subfield code="c">15 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Suhrkamp-Taschenbuch</subfield>
+    <subfield code="v">4817</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Suhrkamp pocket</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="8">1\p</subfield>
+    <subfield code="a">Wehr, Elke</subfield>
+    <subfield code="d">1946-2008</subfield>
+    <subfield code="e">ÜbersetzerIn</subfield>
+    <subfield code="0">(DE-588)110128311</subfield>
+    <subfield code="0">(DE-627)572240686</subfield>
+    <subfield code="0">(DE-576)163500681</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suhrkamp Verlag</subfield>
+    <subfield code="e">Verlag</subfield>
+    <subfield code="0">(DE-588)300755-8</subfield>
+    <subfield code="0">(DE-627)100688012</subfield>
+    <subfield code="0">(DE-576)191008214</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=7218bfe048184b45a73e39cc586609b0&amp;prov=M&amp;dok_var=2&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2018-01-10</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=7218bfe048184b45a73e39cc586609b0&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2017-04-26</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=7218bfe048184b45a73e39cc586609b0&amp;prov=M&amp;dok_var=2&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2017-04-26</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=7218bfe048184b45a73e39cc586609b0&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2018-01-10</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/toc/885119371.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="883" ind1=" " ind2=" ">
+    <subfield code="8">1\p</subfield>
+    <subfield code="a">cgwrk</subfield>
+    <subfield code="d">20241001</subfield>
+    <subfield code="q">DE-101</subfield>
+    <subfield code="u">https://d-nb.info/provenance/plan#cgwrk</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1815862378</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 18 / 22290</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">sf</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>33</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1621114317</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260611204833.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">161017s2016    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788416624409</subfield>
+    <subfield code="9">978-84-16624-40-9</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8416624402</subfield>
+    <subfield code="9">84-16624-40-2</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9788416624409</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1621114317</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)478245351</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ478245351</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)962101479</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PN</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">JC585</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">860</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52061</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11640</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Ideas en libertad</subfield>
+    <subfield code="b">homenaje de 80 autores a Mario Vargas Llosa</subfield>
+    <subfield code="c">coordinadores de la obra: Gerardo Bongiovanni y Álvaro Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Festschrift</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="a">Bogotá</subfield>
+    <subfield code="a">México D.F.</subfield>
+    <subfield code="a">Monterrey</subfield>
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="a">Londres</subfield>
+    <subfield code="a">Nueva York</subfield>
+    <subfield code="a">San Francisco</subfield>
+    <subfield code="a">Shanghái</subfield>
+    <subfield code="b">LID</subfield>
+    <subfield code="c">marzo de 2016</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Fundación Internacional para la Libertad</subfield>
+    <subfield code="c">marzo de 2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">286 Seiten</subfield>
+    <subfield code="c">22 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Collected essays</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references and indexes</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Liberty</subfield>
+    <subfield code="v">Literary collections</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Liberalism</subfield>
+    <subfield code="v">Literary collections</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Festschrift</subfield>
+    <subfield code="0">(DE-588)4016928-5</subfield>
+    <subfield code="0">(DE-627)104400986</subfield>
+    <subfield code="0">(DE-576)208917802</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bongiovanni, Gerardo</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="0">(DE-588)171834011</subfield>
+    <subfield code="0">(DE-627)310966639</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Álvaro</subfield>
+    <subfield code="d">1966-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="0">(DE-588)142526452</subfield>
+    <subfield code="0">(DE-627)704251272</subfield>
+    <subfield code="0">(DE-576)168565234</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">GefeierteR</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">hnr</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/1001409965.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2018-06-13</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/1001409965.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="v">2018-06-22</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)1001409965</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1718404700</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 17 / 18936</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">mdedup</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52061</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271501953</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11640</subfield>
+    <subfield code="0">(DE-576)201501953</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>34</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1001401557</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20180115161253.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">171024s2016    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3668416699</subfield>
+    <subfield code="9">3-668-41669-9</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">Dokument Nr. V355938</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1001401557</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schulz, Friederike</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Das Anredeverhalten im Spanischen und Portugiesischen</subfield>
+    <subfield code="b">Untersuchungen in Mario Vargas Llosas Roman "Travesuras de la niña mala"</subfield>
+    <subfield code="c">Friederike Schulz</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Untersuchungen in Mario Vargas Llosas Roman "Travesuras de la niña mala"</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Erscheinungsort nicht ermittelbar]</subfield>
+    <subfield code="b">GRIN Verlag</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="3">
+    <subfield code="a">Norderstedt</subfield>
+    <subfield code="b">Books on Demand GmbH</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">23 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Sprachen</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">Rezensierte Person</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1718398905</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 17 / 20215</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>35</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">86445726X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20160928161206.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">160803s2016    pe |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)86445726X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-PE</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cinco esquinas</subfield>
+    <subfield code="c">Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Lima, Perú</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">febrero 2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">314 pages</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Novela</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1631351346</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 16 / 13536</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>36</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">859576876</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260618000144.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">160519s2016    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">16,N20</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">16,N20</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1100299238</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518425609</subfield>
+    <subfield code="9">3-518-42560-9</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783518425602</subfield>
+    <subfield code="q"> : EUR 24.00 (DE), EUR 24.70 (AT), sfr 34.50 (freier Preis)</subfield>
+    <subfield code="9">978-3-518-42560-2</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783518425602</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)859576876</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-603)386635935</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)475130251</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB1100299238</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)950030010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-Rt5)4749688</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-BE</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">800</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">B</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">860</subfield>
+    <subfield code="a">B</subfield>
+    <subfield code="q">DE-101</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Zba</subfield>
+    <subfield code="2">asb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ZAA</subfield>
+    <subfield code="2">ssd</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">S</subfield>
+    <subfield code="2">sfb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">R 11</subfield>
+    <subfield code="2">kab</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">7,34</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cinco esquinas</subfield>
+    <subfield code="0">(DE-588)1117038009</subfield>
+    <subfield code="0">(DE-627)870908685</subfield>
+    <subfield code="0">(DE-576)478684002</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die Enthüllung</subfield>
+    <subfield code="b">Roman</subfield>
+    <subfield code="c">Mario Vargas Llosa ; aus dem Spanischen von Thomas Brovot</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Erste Auflage</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">298 Seiten</subfield>
+    <subfield code="c">22 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="361" ind1="1" ind2=" ">
+    <subfield code="5">DE-18</subfield>
+    <subfield code="y">4379649369</subfield>
+    <subfield code="s">A/817217</subfield>
+    <subfield code="o">Vorbesitz</subfield>
+    <subfield code="a">Harbour Front e.V.</subfield>
+    <subfield code="0">(DE-588)1261906632</subfield>
+    <subfield code="0">(DE-627)1809295092</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Erscheint auch als Online-Ausgabe</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Enrique ist glücklich verheiratet, beruflich erfolgreich und hat ein Riesenproblem: Er wird erpresst. Von Garro, dem Besitzer eines Boulevardblatts, der belastende Fotos hat und Enrique zwingen will, in die strauchelnde Zeitschrift zu investieren. Enrique sucht Rat bei Luciano, seinem alten Weggefährten und Anwalt, verliert jedoch im entscheidenden Moment die Nerven und bietet dem Erpresser offen die Stirn. Der bringt darauf die Fotos und wird kurze Zeit später tot aufgefunden, brutal ermordet. Enrique, geschäftlich wie moralisch ruiniert, glaubt, das sei das Ende. Doch es ist erst der Anfang. Denn während die Polizei ihn der Bluttat verdächtigt und er in undurchsichtige Machenschaften gerät, die aus den allerhöchsten Regierungskreise gesteuert scheinen, kommen sich seine und Lucianos Frau mehr als nur freundschaftlich nahe... "Die Enthüllung" ist eine brisante Spannungsgeschichte, ein erotisches Kammerspiel und ein zeitpolitischer Schlüsselroman - voller Überraschungen, Wendungen, Abgründe und Verheissungen. verlagstext</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Erzählende Literatur: Gegenwartsliteratur ab 1945</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Brovot, Thomas</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="e">ÜbersetzerIn</subfield>
+    <subfield code="0">(DE-588)115047506</subfield>
+    <subfield code="0">(DE-627)589912704</subfield>
+    <subfield code="0">(DE-576)16784914X</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suhrkamp Verlag</subfield>
+    <subfield code="e">Verlag</subfield>
+    <subfield code="0">(DE-588)300755-8</subfield>
+    <subfield code="0">(DE-627)100688012</subfield>
+    <subfield code="0">(DE-576)191008214</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="z">9783518747742</subfield>
+    <subfield code="c">ebk</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/sub-hamburg/859576876.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-18</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="v">2017-01-04</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/859576876.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2017-02-23</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=7a6d43444e484a6995348485daf7237a&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2016-05-19</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1646436717</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 16 / 20999</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271281864</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+    <subfield code="0">(DE-576)201281864</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="936" ind1="s" ind2="n">
+    <subfield code="a">i100</subfield>
+    <subfield code="2">mzub</subfield>
+  </datafield>
+  <datafield tag="936" ind1="s" ind2="n">
+    <subfield code="a">e100</subfield>
+    <subfield code="2">mzub</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>37</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">849710413</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260617235125.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">160309s2016    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788420418964</subfield>
+    <subfield code="9">978-84-204-1896-4</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)849710413</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV849710413</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)3106374</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">7,34</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="q">OBV</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cinco esquinas</subfield>
+    <subfield code="c">Mario Vargas Llosa</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Alfaguara</subfield>
+    <subfield code="c">marzo de 2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">314 Seiten</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Narrative Hispánica</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Hier auch später erschienene, unveränderte Nachdrucke</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/849710413.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2016-04-19</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/849710413.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2016-04-25</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1608484068</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 16 / 5073</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52060</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vargas Llosa, Mario</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271281864</subfield>
+    <subfield code="0">(DE-625)rvk/65150:11639</subfield>
+    <subfield code="0">(DE-576)201281864</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>38</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">847925544</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260617234849.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">160219s2016    sp ||||| c    00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788492462452</subfield>
+    <subfield code="9">978-84-92462-45-2</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)847925544</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV847925544</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)3099042</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">Z</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">097</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">026</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 52105</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65153:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">NN 3930</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/126865:</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">15.88</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">06.24</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="3">
+    <subfield code="a">La biblioteca del Inca Garcilaso de la Vega</subfield>
+    <subfield code="b">(1616-2016)</subfield>
+    <subfield code="c">edición científica Esperanza López Parada, Marta Ortiz Canseco, Paul Firbas ; textos Mario Vargas Llosa, Esperanza López Parada, Marta Ortiz Canseco, Paul Firbas [und 4 weitere]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Biblioteca Nacional de España</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">239 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">23 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"Exposición Del 29 de enero al 2 de mayo de 2016" - Seite 5</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Ausstellungskatalog</subfield>
+    <subfield code="0">(DE-588)4135467-9</subfield>
+    <subfield code="0">(DE-627)10566491X</subfield>
+    <subfield code="0">(DE-576)209660988</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118716352</subfield>
+    <subfield code="0">(DE-627)134586239</subfield>
+    <subfield code="0">(DE-576)209331569</subfield>
+    <subfield code="a">Vega, Garcilaso de la</subfield>
+    <subfield code="d">1539-1616</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4135952-5</subfield>
+    <subfield code="0">(DE-627)105661236</subfield>
+    <subfield code="0">(DE-576)209665084</subfield>
+    <subfield code="a">Quelle</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">López Parada, Esperanza</subfield>
+    <subfield code="d">1962-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)1056186348</subfield>
+    <subfield code="0">(DE-627)794473105</subfield>
+    <subfield code="0">(DE-576)412706237</subfield>
+    <subfield code="4">edt</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Ortiz Canseco, Marta</subfield>
+    <subfield code="d">1983-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)140304800</subfield>
+    <subfield code="0">(DE-627)703632906</subfield>
+    <subfield code="0">(DE-576)314948562</subfield>
+    <subfield code="4">edt</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Firbas, Paul Phillip</subfield>
+    <subfield code="d">1968-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)1057517747</subfield>
+    <subfield code="0">(DE-627)79517229X</subfield>
+    <subfield code="0">(DE-576)413343138</subfield>
+    <subfield code="4">edt</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Vega, Garcilaso de la</subfield>
+    <subfield code="d">1539-1616</subfield>
+    <subfield code="e">VerfasserIn des Bezugswerks</subfield>
+    <subfield code="0">(DE-588)118716352</subfield>
+    <subfield code="0">(DE-627)134586239</subfield>
+    <subfield code="0">(DE-576)209331569</subfield>
+    <subfield code="4">ant</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Biblioteca Nacional de España</subfield>
+    <subfield code="e">VeranstalterIn</subfield>
+    <subfield code="0">(DE-588)1027025-5</subfield>
+    <subfield code="0">(DE-627)103639071</subfield>
+    <subfield code="0">(DE-576)191298441</subfield>
+    <subfield code="4">orm</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/847925544.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2016-02-26</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/847925544.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2016-02-29</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1602959544</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 16 / 2938</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 52105</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Peru</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren V</subfield>
+    <subfield code="k">Vega, Garcilaso de la</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1497977657</subfield>
+    <subfield code="0">(DE-625)rvk/65153:11640</subfield>
+    <subfield code="0">(DE-576)427977657</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">NN 3930</subfield>
+    <subfield code="b">Quellen</subfield>
+    <subfield code="k">Geschichte</subfield>
+    <subfield code="k">Neuere Geschichte</subfield>
+    <subfield code="k">Geschichte der auswärtigen Staaten im Zeitalter der Entdeckungen und der Glaubensspaltung</subfield>
+    <subfield code="k">Spanien, Portugal und Übersee</subfield>
+    <subfield code="k">Quellen</subfield>
+    <subfield code="0">(DE-627)1271466260</subfield>
+    <subfield code="0">(DE-625)rvk/126865:</subfield>
+    <subfield code="0">(DE-576)201466260</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">15.88</subfield>
+    <subfield code="j">Mittelamerika</subfield>
+    <subfield code="j">Südamerika</subfield>
+    <subfield code="x">Geschichte</subfield>
+    <subfield code="0">(DE-627)181570874</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">06.24</subfield>
+    <subfield code="j">Bibliophilie</subfield>
+    <subfield code="j">private Buchsammlungen</subfield>
+    <subfield code="0">(DE-627)106403125</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>39</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">840864213</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240928211412.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">151125s2016    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">15,N48</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">16,A12</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1079019472</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3458200185</subfield>
+    <subfield code="q"> : Festeinband : EUR 16.50 (AT), sfr 23.50 (freier Pr.), EUR 16.00 (DE)</subfield>
+    <subfield code="9">3-458-20018-5</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783458200185</subfield>
+    <subfield code="q"> : Festeinband : EUR 16.50 (AT), sfr 23.50 (freier Pr.), EUR 16.00 (DE)</subfield>
+    <subfield code="9">978-3-458-20018-5</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783458200185</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)840864213</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)462824535</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB1079019472</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)946565089</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-BE</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">860</subfield>
+    <subfield code="a">B</subfield>
+    <subfield code="q">DNB</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">800</subfield>
+    <subfield code="a">B</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Zba</subfield>
+    <subfield code="2">asb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ZAA</subfield>
+    <subfield code="2">ssd</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">S</subfield>
+    <subfield code="2">sfb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">R 11</subfield>
+    <subfield code="2">kab</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">a</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vargas Llosa, Mario</subfield>
+    <subfield code="d">1936-2025</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118803964</subfield>
+    <subfield code="0">(DE-627)035152516</subfield>
+    <subfield code="0">(DE-576)209499672</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Día domingo</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sonntag</subfield>
+    <subfield code="c">Mario Vargas Llosa ; aus dem Spanischen von Thomas Brovot ; mit Illustrationen von Kat Menschik</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Erste Auflage</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Insel Verlag</subfield>
+    <subfield code="c">[2016]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">© 2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">58 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">22 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Insel-Bücherei</subfield>
+    <subfield code="v">Nr. 2018</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Brovot, Thomas</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="e">ÜbersetzerIn</subfield>
+    <subfield code="0">(DE-588)115047506</subfield>
+    <subfield code="0">(DE-627)589912704</subfield>
+    <subfield code="0">(DE-576)16784914X</subfield>
+    <subfield code="4">trl</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Menschik, Kat</subfield>
+    <subfield code="d">1968-</subfield>
+    <subfield code="e">IllustratorIn</subfield>
+    <subfield code="0">(DE-588)124028136</subfield>
+    <subfield code="0">(DE-627)085591076</subfield>
+    <subfield code="0">(DE-576)185299091</subfield>
+    <subfield code="4">ill</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Insel Verlag Berlin</subfield>
+    <subfield code="e">Verlag</subfield>
+    <subfield code="0">(DE-588)16088280-1</subfield>
+    <subfield code="0">(DE-627)714785695</subfield>
+    <subfield code="0">(DE-576)332947904</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/840864213.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2016-06-14</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.dnb.de/cgi-bin/dokserv?id=ce659e68dab7460e964cbe33d9068379&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+    <subfield code="m">X: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2016-03-23</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1615620923</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 16 / 7716</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">sf</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>40</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.per="Vargas Llosa, Mario"</zs:query><zs:startRecord>21</zs:startRecord><zs:maximumRecords>20</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

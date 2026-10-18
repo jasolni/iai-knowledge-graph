@@ -1,0 +1,241 @@
+[
+  {
+    "author": "García Márquez, Gabriel",
+    "country": "Colombia",
+    "cql_query": "pica.per=\"García Márquez, Gabriel\"",
+    "status": "found",
+    "number_of_records_total": 671,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/garcia_marquez_gabriel/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/garcia_marquez_gabriel/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/garcia_marquez_gabriel/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/garcia_marquez_gabriel/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/garcia_marquez_gabriel/page_0081.xml"
+    ],
+    "preview": [
+      "GarcÃ­a MÃ¡rquez, Gabriel — Cuatro autores colombianos",
+      "GarcÃ­a MÃ¡rquez, Gabriel — El olor de la guayaba",
+      "GarcÃ­a MÃ¡rquez, Gabriel — Camino a Macondo"
+    ]
+  },
+  {
+    "author": "Vargas Llosa, Mario",
+    "country": "Peru",
+    "cql_query": "pica.per=\"Vargas Llosa, Mario\"",
+    "status": "found",
+    "number_of_records_total": 633,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/vargas_llosa_mario/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/vargas_llosa_mario/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/vargas_llosa_mario/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/vargas_llosa_mario/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/vargas_llosa_mario/page_0081.xml"
+    ],
+    "preview": [
+      "(sin autor en 100) — NÃºmero dedicado a la obra de Mario Vargas Llosa",
+      "Vargas Llosa, Mario — Die groÃe Versuchung",
+      "Vargas Llosa, Mario — El reverso de la utopÃ­a"
+    ]
+  },
+  {
+    "author": "Cortázar, Julio",
+    "country": "Argentina",
+    "cql_query": "pica.per=\"Cortázar, Julio\"",
+    "status": "found",
+    "number_of_records_total": 487,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/cortazar_julio/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/cortazar_julio/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/cortazar_julio/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/cortazar_julio/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/cortazar_julio/page_0081.xml"
+    ],
+    "preview": [
+      "(sin autor en 100) — TeorÃ­as del cuento",
+      "CortÃ¡zar, Julio — A ELENA PONIATOWSKA.",
+      "Rivero MartÃ­nez, HÃ©ctor R. — Las tejedoras"
+    ]
+  },
+  {
+    "author": "Fuentes, Carlos",
+    "country": "México",
+    "cql_query": "pica.per=\"Fuentes, Carlos\"",
+    "status": "found",
+    "number_of_records_total": 513,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/fuentes_carlos/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/fuentes_carlos/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/fuentes_carlos/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/fuentes_carlos/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/fuentes_carlos/page_0081.xml"
+    ],
+    "preview": [
+      "Fuentes, Carlos — A morte de Artemio Cruz",
+      "Kahlo, Frida — El diario de Frida Kahlo",
+      "Donoso, JosÃ© — Correspondencia"
+    ]
+  },
+  {
+    "author": "Rulfo, Juan",
+    "country": "México",
+    "cql_query": "pica.per=\"Rulfo, Juan\"",
+    "status": "found",
+    "number_of_records_total": 158,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/rulfo_juan/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/rulfo_juan/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/rulfo_juan/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/rulfo_juan/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/rulfo_juan/page_0081.xml"
+    ],
+    "preview": [
+      "Rulfo, Juan — Una mentira que dice la verdad",
+      "Rulfo, Juan — El Gallo de oro y otros relatos",
+      "Kuhn, Toni — Jueves de cine en Casa BuÃ±uel"
+    ]
+  },
+  {
+    "author": "Donoso, José",
+    "country": "Chile",
+    "cql_query": "pica.per=\"Donoso, José\"",
+    "status": "found",
+    "number_of_records_total": 133,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/donoso_jose/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/donoso_jose/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/donoso_jose/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/donoso_jose/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/donoso_jose/page_0081.xml"
+    ],
+    "preview": [
+      "Delgado, Josefina — Atravesar el tiempo",
+      "Donoso, JosÃ© — Correspondencia",
+      "Donoso, JosÃ© — Diarios centrales"
+    ]
+  },
+  {
+    "author": "Puig, Manuel",
+    "country": "Argentina",
+    "cql_query": "pica.per=\"Puig, Manuel\"",
+    "status": "found",
+    "number_of_records_total": 114,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/puig_manuel/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/puig_manuel/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/puig_manuel/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/puig_manuel/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/puig_manuel/page_0081.xml"
+    ],
+    "preview": [
+      "(sin autor en 100) — The Buenos Aires affair, Manuel Puig",
+      "Puig, Manuel — Cae la noche tropical",
+      "MartÃ­ Puig, Manuel — Matilde Escuder"
+    ]
+  },
+  {
+    "author": "Carpentier, Alejo",
+    "country": "Cuba",
+    "cql_query": "pica.per=\"Carpentier, Alejo\"",
+    "status": "found",
+    "number_of_records_total": 349,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/carpentier_alejo/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/carpentier_alejo/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/carpentier_alejo/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/carpentier_alejo/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/carpentier_alejo/page_0081.xml"
+    ],
+    "preview": [
+      "Carpentier, Alejo — O recurso do mÃ©todo",
+      "Susi Sarfati, SalomÃ³n — Anecdotario",
+      "Carpentier, Alejo — LITURGIA"
+    ]
+  },
+  {
+    "author": "Onetti, Juan Carlos",
+    "country": "Uruguay",
+    "cql_query": "pica.per=\"Onetti, Juan Carlos\"",
+    "status": "found",
+    "number_of_records_total": 184,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/onetti_juan_carlos/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/onetti_juan_carlos/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/onetti_juan_carlos/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/onetti_juan_carlos/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/onetti_juan_carlos/page_0081.xml"
+    ],
+    "preview": [
+      "Onetti, Juan Carlos — Los adioses",
+      "Onetti, Juan Carlos — La vida breve",
+      "Onetti, Juan Carlos — Wenn es nicht mehr wichtig ist"
+    ]
+  },
+  {
+    "author": "Garro, Elena",
+    "country": "México",
+    "cql_query": "pica.per=\"Garro, Elena\"",
+    "status": "found",
+    "number_of_records_total": 67,
+    "number_of_records_retrieved": 67,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/garro_elena/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/garro_elena/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/garro_elena/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/garro_elena/page_0061.xml"
+    ],
+    "preview": [
+      "Garro, Elena — Elena Garro",
+      "Garro, Elena — Memorias de EspaÃ±a 1937",
+      "Garro, Elena — Entre actos"
+    ]
+  },
+  {
+    "author": "Castellanos, Rosario",
+    "country": "México",
+    "cql_query": "pica.per=\"Castellanos, Rosario\"",
+    "status": "found",
+    "number_of_records_total": 118,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/castellanos_rosario/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/castellanos_rosario/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/castellanos_rosario/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/castellanos_rosario/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/castellanos_rosario/page_0081.xml"
+    ],
+    "preview": [
+      "Castellanos, Rosario — La rueda del hambriento y otros cuentos",
+      "Castellanos, Rosario — BALÃN CANÃN (FRAGMENTO).",
+      "Castellanos, Rosario — LÃ­vida luz"
+    ]
+  },
+  {
+    "author": "Lispector, Clarice",
+    "country": "Brazil",
+    "cql_query": "pica.per=\"Lispector, Clarice\"",
+    "status": "found",
+    "number_of_records_total": 156,
+    "number_of_records_retrieved": 100,
+    "fixture_files": [
+      "fixtures/iai_marcxml_by_author/lispector_clarice/page_0001.xml",
+      "fixtures/iai_marcxml_by_author/lispector_clarice/page_0021.xml",
+      "fixtures/iai_marcxml_by_author/lispector_clarice/page_0041.xml",
+      "fixtures/iai_marcxml_by_author/lispector_clarice/page_0061.xml",
+      "fixtures/iai_marcxml_by_author/lispector_clarice/page_0081.xml"
+    ],
+    "preview": [
+      "Lispector, Clarice — WofÃ¼r ich mein Leben gebe",
+      "Lispector, Clarice — Ich und Jimmy",
+      "(sin autor en 100) — O canto de MacabÃ©a ou a hora da estrela"
+    ]
+  }
+]

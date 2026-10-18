@@ -1,0 +1,3162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>114</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1909772844</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250115034319.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">241128s2023    ag ||||| c    00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789877281859</subfield>
+    <subfield code="9">978-987-728-185-9</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9877281856</subfield>
+    <subfield code="9">987-728-185-6</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1909772844</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP1909772844</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7798.26.U4</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">The Buenos Aires affair, Manuel Puig</subfield>
+    <subfield code="b">50 anõs : diciembre 2023-julio 2024</subfield>
+    <subfield code="c">equipo de curaduría y realización: Esteban Bitesnik, Inés Girola, Pablo Licheri [und 4 andere] ; textos: María Moreno, Graciela Goldchluk, Luis Gusmán, Juan Pablo Canala y Martín Villagarcía</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2=" ">
+    <subfield code="i">Abweichender Titel im Impressum</subfield>
+    <subfield code="a">Manuel Puig: The Buenos Aires affaire 50 años</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2=" ">
+    <subfield code="i">Abweichender Titel auf den Seitenrändern</subfield>
+    <subfield code="a">The Buenos Aires affair, 50 años</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">cincuenta</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">The Buenos Aires affair, Manuel Puig, 50 anõs</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">The Buenos Aires affair</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1a ed.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">CABA [Ciudad Autónoma de Buenos Aires]</subfield>
+    <subfield code="b">Biblioteca Nacional Mariano Moreno</subfield>
+    <subfield code="c">[2023]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Buenos Aires]</subfield>
+    <subfield code="b">Museo del Libro y de la Lengua</subfield>
+    <subfield code="c">[2023]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">© 2023</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">96 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">27 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Literaturangaben</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"La muestra organizada por el Museo del libro y de la lengua celebra a Manuel Puig cuando se cumplen 50 años de la publicación del libro The Buenos Aires Affair." - Homepage der Biblioteca Nacional Mariano Moreno (https://www.bn.gov.ar/agenda-cultural/the-buenos-aires-affair-50-anos-1)</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="t">Buenos Aires affair</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Argentine literature</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Argentine</subfield>
+    <subfield code="v">Biography</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Ausstellungskatalog</subfield>
+    <subfield code="0">(DE-588)4135467-9</subfield>
+    <subfield code="0">(DE-627)10566491X</subfield>
+    <subfield code="0">(DE-576)209660988</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Aufsatzsammlung</subfield>
+    <subfield code="0">(DE-588)4143413-4</subfield>
+    <subfield code="0">(DE-627)105605727</subfield>
+    <subfield code="0">(DE-576)209726091</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bitesnik, Esteban</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Girola, Inés</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Licheri, Pablo</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Moreno, María</subfield>
+    <subfield code="d">1947-</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)1057097314</subfield>
+    <subfield code="0">(DE-627)795629443</subfield>
+    <subfield code="0">(DE-576)413763099</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Goldchluk, Graciela</subfield>
+    <subfield code="d">1955-</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)1033717142</subfield>
+    <subfield code="0">(DE-627)742436764</subfield>
+    <subfield code="0">(DE-576)18422859X</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Gusmán, Luis</subfield>
+    <subfield code="d">1944-</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)1056427906</subfield>
+    <subfield code="0">(DE-627)794692001</subfield>
+    <subfield code="0">(DE-576)171593553</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Canala, Juan Pablo</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Villagarcía, Martín</subfield>
+    <subfield code="d">1986-</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="e">ErwähnteR</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/toc/1909772844.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2025-01-15</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1909772844.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2025-01-15</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4624158024</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">B 24 / 3570</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">185307117X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260612211616.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">230719s2022    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788432241000</subfield>
+    <subfield code="9">978-84-322-4100-0</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8432241008</subfield>
+    <subfield code="9">84-322-4100-8</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)185307117X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP185307117X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)5559611</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="2">14</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cae la noche tropical</subfield>
+    <subfield code="0">(DE-588)4402592-0</subfield>
+    <subfield code="0">(DE-627)192836765</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cae la noche tropical</subfield>
+    <subfield code="c">Manuel Puig ; prólogo de Tamara Tenenbaum</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Primera edición</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Seix Barral</subfield>
+    <subfield code="c">septiembre de 2022</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">284 Seiten</subfield>
+    <subfield code="c">23 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Biblioteca breve</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Teilweise auf lose beiliegender Verlagsbanderole: "Edición conmemorativa 90 aniversario"</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Roman argentin</subfield>
+    <subfield code="0">(IdRef)028408454</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Tenenbaum, Tamara</subfield>
+    <subfield code="d">1989-</subfield>
+    <subfield code="e">VerfasserIn eines Vorworts</subfield>
+    <subfield code="0">(DE-588)1229558462</subfield>
+    <subfield code="0">(DE-627)1751639827</subfield>
+    <subfield code="4">wpr</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/185307117X.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2025-07-19</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4737697982</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 25 / 12865</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>2</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">1799323080</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260612205121.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">220412s2019    xx |||||o     00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788416546855</subfield>
+    <subfield code="q">pdf</subfield>
+    <subfield code="9">978-84-16546-85-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1799323080</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KEP063843854</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)4860561</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627-1)063843854</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">LA</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">371</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Martí Puig, Manuel</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Matilde Escuder</subfield>
+    <subfield code="b">maestra libertaria y racionalista : una historia de vida</subfield>
+    <subfield code="c">Manuel Martí Puig ; prólogo de Carme Agulló</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Catelló de la Plana</subfield>
+    <subfield code="b">Universitat Jaume I</subfield>
+    <subfield code="c">2019</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 Online-Ressource (192 p)</subfield>
+    <subfield code="b">ill</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Fundació Càtedra Enric Soler i Godes</subfield>
+    <subfield code="v">10</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Biography of M. Escuder Vicente (1913-2006), Spanish teacher</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">M. Martí Puig teaches at the Universitat Jaume I</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references (pages 191-192)</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="z">9788416546848</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Erscheint auch als</subfield>
+    <subfield code="a">Martí Puig, Manuel, author</subfield>
+    <subfield code="t">Matilde Escuder</subfield>
+    <subfield code="z">9788416546848</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://digital.casalini.it/9788416546855</subfield>
+    <subfield code="m">X:CAS</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="z">lizenzpflichtig</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-21-EIL</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">ZDB-75-TOE</subfield>
+    <subfield code="b">2021</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">4116864196</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="h">NET</subfield>
+    <subfield code="k">http://online-db.iai.spk-berlin.de/han/torro/digital.casalini.it/9788416546855</subfield>
+    <subfield code="y">E-Book</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>3</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1049456874</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260609222529.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">190220s2018    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788494812170</subfield>
+    <subfield code="9">978-84-948121-7-0</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1049456874</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV1049456874</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ZDB-21-EIL)4452898</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">860</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 71801</subfield>
+    <subfield code="q">D</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65882:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 72221</subfield>
+    <subfield code="q">DE-25/sred22</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 14451</subfield>
+    <subfield code="q">DE-25/sred22</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/63452:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 74367</subfield>
+    <subfield code="q">DE-25/sred22</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 70831</subfield>
+    <subfield code="q">DE-25/sred22</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65721:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 71761</subfield>
+    <subfield code="q">DE-25/sred22</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65875:11640</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sosnowski, Saúl</subfield>
+    <subfield code="d">1945-</subfield>
+    <subfield code="e">InterviewerIn</subfield>
+    <subfield code="0">(DE-588)1056503254</subfield>
+    <subfield code="0">(DE-627)794760368</subfield>
+    <subfield code="0">(DE-576)412389215</subfield>
+    <subfield code="4">ivr</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Escrito con voces</subfield>
+    <subfield code="b">entrevistas a Adolfo Bioy Casares, Jorge Luis Borges, Julio Cortázar, Carlos Fuentes, Manuel Puig, Augusto Roa Bastos</subfield>
+    <subfield code="c">Saul Sosnowski</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Del Centro Editores</subfield>
+    <subfield code="c">[2018]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">218 ungezählte Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">28 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)115824499</subfield>
+    <subfield code="0">(DE-627)077496663</subfield>
+    <subfield code="0">(DE-576)160301092</subfield>
+    <subfield code="a">Bioy Casares, Adolfo</subfield>
+    <subfield code="d">1914-1999</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118513532</subfield>
+    <subfield code="0">(DE-627)035156694</subfield>
+    <subfield code="0">(DE-576)160372194</subfield>
+    <subfield code="a">Borges, Jorge Luis</subfield>
+    <subfield code="d">1899-1986</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="a">Cortázar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="3">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118703420</subfield>
+    <subfield code="0">(DE-627)079485383</subfield>
+    <subfield code="0">(DE-576)209313269</subfield>
+    <subfield code="a">Fuentes, Carlos</subfield>
+    <subfield code="d">1928-2012</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="4">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="5">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118601415</subfield>
+    <subfield code="0">(DE-627)079393160</subfield>
+    <subfield code="0">(DE-576)209085959</subfield>
+    <subfield code="a">Roa Bastos, Augusto</subfield>
+    <subfield code="d">1917-2005</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bioy Casares, Adolfo</subfield>
+    <subfield code="d">1914-1999</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)115824499</subfield>
+    <subfield code="0">(DE-627)077496663</subfield>
+    <subfield code="0">(DE-576)160301092</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Borges, Jorge Luis</subfield>
+    <subfield code="d">1899-1986</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118513532</subfield>
+    <subfield code="0">(DE-627)035156694</subfield>
+    <subfield code="0">(DE-576)160372194</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cortázar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Fuentes, Carlos</subfield>
+    <subfield code="d">1928-2012</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118703420</subfield>
+    <subfield code="0">(DE-627)079485383</subfield>
+    <subfield code="0">(DE-576)209313269</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Roa Bastos, Augusto</subfield>
+    <subfield code="d">1917-2005</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118601415</subfield>
+    <subfield code="0">(DE-627)079393160</subfield>
+    <subfield code="0">(DE-576)209085959</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1049456874.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2022-06-29</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3479232469</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">B 19 / 1112</subfield>
+    <subfield code="h">SEK</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 71801</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren B</subfield>
+    <subfield code="k">Borges, Jorge Luis</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271319047</subfield>
+    <subfield code="0">(DE-625)rvk/65882:11640</subfield>
+    <subfield code="0">(DE-576)201319047</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 72221</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren C</subfield>
+    <subfield code="k">Cortázar, Julio</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271577860</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11640</subfield>
+    <subfield code="0">(DE-576)201577860</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 14451</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Mexiko</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren F</subfield>
+    <subfield code="k">Fuentes, Carlos</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271515091</subfield>
+    <subfield code="0">(DE-625)rvk/63452:11640</subfield>
+    <subfield code="0">(DE-576)201515091</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 74367</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren P</subfield>
+    <subfield code="k">Puig, Manuel</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271936291</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11640</subfield>
+    <subfield code="0">(DE-576)201936291</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 70831</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Paraguay</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren</subfield>
+    <subfield code="k">Autoren R</subfield>
+    <subfield code="k">Roa Bastos, Augusto</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271991985</subfield>
+    <subfield code="0">(DE-625)rvk/65721:11640</subfield>
+    <subfield code="0">(DE-576)201991985</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 71761</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren B</subfield>
+    <subfield code="k">Bioy Casares, Adolfo</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271502143</subfield>
+    <subfield code="0">(DE-625)rvk/65875:11640</subfield>
+    <subfield code="0">(DE-576)201502143</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>4</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1032238852</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20241105231206.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">181004s2017    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789873972478</subfield>
+    <subfield code="9">978-987-3972-47-8</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9873972471</subfield>
+    <subfield code="9">987-3972-47-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1032238852</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV1032238852</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7798.26.U4</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Works</subfield>
+    <subfield code="g">Selections</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Álbum Puig</subfield>
+    <subfield code="c">edición literaria, María Eugenia Rasic ; diseño, Paula Calvente</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1a ed.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">La Plata</subfield>
+    <subfield code="b">Malisia Editorial</subfield>
+    <subfield code="c">2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">159 Seiten</subfield>
+    <subfield code="b">Illustrationen (some color)</subfield>
+    <subfield code="c">20 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">unbewegtes Bild</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Biblioteca de arte y comunicación</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">El caj́on se abre -- Vitalidad</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="x">Archives</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="v">Manuscripts</subfield>
+    <subfield code="v">Facsimiles</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="8">1\p</subfield>
+    <subfield code="a">Rasic, María Eugenia</subfield>
+    <subfield code="d">1977-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="0">(DE-588)1179958748</subfield>
+    <subfield code="0">(DE-627)1067569421</subfield>
+    <subfield code="0">(DE-576)518423778</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Calvente, Paula</subfield>
+    <subfield code="e">DesignerIn</subfield>
+    <subfield code="4">dsr</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1032238852.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2018-11-23</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/1032238852.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="v">2018-11-26</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="883" ind1=" " ind2=" ">
+    <subfield code="8">1\p</subfield>
+    <subfield code="a">cgwrk</subfield>
+    <subfield code="d">20241001</subfield>
+    <subfield code="q">DE-101</subfield>
+    <subfield code="u">https://d-nb.info/provenance/plan#cgwrk</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1810452996</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 18 / 19269</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>5</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">738032824</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260617204858.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">130312s2012    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788492816675</subfield>
+    <subfield code="q"> : 25.00 EUR</subfield>
+    <subfield code="9">978-84-92816-67-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)738032824</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV738032824</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PN</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">791</subfield>
+    <subfield code="2">21</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 74367</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11640</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Manzi, Italo</subfield>
+    <subfield code="0">(DE-588)1046241184</subfield>
+    <subfield code="0">(DE-627)775993379</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">El cine de Manuel Puig</subfield>
+    <subfield code="c">Italo Manzi</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Del Centro Editores</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[51] Bl.</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">A través de la trama</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Die Ausgabe umfaßt 100 nummerierte und signierte Exemplare</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4017102-4</subfield>
+    <subfield code="0">(DE-627)104559683</subfield>
+    <subfield code="0">(DE-576)208918531</subfield>
+    <subfield code="a">Film</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/738032824.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="v">2018-04-13</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1501490826</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 15 / 3752</subfield>
+    <subfield code="h">SEK</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 74367</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren P</subfield>
+    <subfield code="k">Puig, Manuel</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271936291</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11640</subfield>
+    <subfield code="0">(DE-576)201936291</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>6</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cgm a22      c 4500</leader>
+  <controlfield tag="001">798853980</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20251029213915.0</controlfield>
+  <controlfield tag="007">vd uvuuuu</controlfield>
+  <controlfield tag="008">141022s2011    xx ||| |      |   v|eng c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="q"> : EUR 13,95</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">4010324028808</subfield>
+  </datafield>
+  <datafield tag="028" ind1="5" ind2="2">
+    <subfield code="a">2880</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)798853980</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)340195290</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV798853980</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)723410958</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 74366</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">AP 51400</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/7700:</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">AP 59489</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/7791:749</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 74367</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">AP 53000</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/7721:</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">24.34</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kuss der Spinnenfrau</subfield>
+    <subfield code="b">nach dem Roman von Manuel Puig</subfield>
+    <subfield code="c">William Hurt; Raul Julia; Sonia Braga. Drehbuch Leonard Schrader. Regie Hector Babenco</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">El beso de la mujer araña</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Beijo da a mulher aranha</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2 disc collector's edition</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Grünwald</subfield>
+    <subfield code="b">Concorde Home Entertainment</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 DVD-Videos (PAL 116 Min. + 153 Min. Bonus) mit Schuber</subfield>
+    <subfield code="b">farb., Dolby Digital 1.0, 5.1, Bildformat: 1.85:1(16:9), Ländercode 2, FSK 16</subfield>
+    <subfield code="c">12 cm</subfield>
+    <subfield code="e">Beih. ([4] Bl.], Beibl. (11 x 15 cm)</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">zweidimensionales bewegtes Bild</subfield>
+    <subfield code="b">tdi</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">video</subfield>
+    <subfield code="b">v</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Videodisk</subfield>
+    <subfield code="b">vd</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Classic Selection</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Sprachen: dt., engl. - Untertitel: dt. (ausblendbar). - Extras: Disc. 1 - Trivia Track; Disc. 2 - Tangled Web - Making-of; Vom Roman zum Film; Manuel Puig - Geheimnisse der Spinnenfrau; Fotogalerie; Trailer. - FSK ab 16 freigegeben</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Spielfilm. - Literaturverfilmung. USA. Brasilien. 1985</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">USA/BR 1985</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Luis Molina and Valentin Arregui are cell mates in a South American prison. Luis, a homosexual, is found guilty of immoral behaviour and Valentin is a political prisoner. To escape reality Luis invents romantic movies, while Valentin tries to keep his mind on the situation he's in. During the time they spend together, the two men come to understand and respect one another. (Leon Wolters für IMDb)</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Sprachen: engl., dt. - Untertitel: dt. (ausblendbar)</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Film</subfield>
+    <subfield code="0">(DE-588)4017102-4</subfield>
+    <subfield code="0">(DE-627)104559683</subfield>
+    <subfield code="0">(DE-576)208918531</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">DVD-Video</subfield>
+    <subfield code="0">(DE-588)4585125-6</subfield>
+    <subfield code="0">(DE-627)325263515</subfield>
+    <subfield code="0">(DE-576)213973456</subfield>
+    <subfield code="2">gnd-carrier</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Schrader, Leonard</subfield>
+    <subfield code="d">1943-2006</subfield>
+    <subfield code="0">(DE-588)119017342</subfield>
+    <subfield code="0">(DE-627)079803806</subfield>
+    <subfield code="0">(DE-576)16506983X</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Babenco, Hector</subfield>
+    <subfield code="d">1946-2016</subfield>
+    <subfield code="0">(DE-588)128402601</subfield>
+    <subfield code="0">(DE-627)372643655</subfield>
+    <subfield code="0">(DE-576)216040612</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hurt, William</subfield>
+    <subfield code="d">1950-2022</subfield>
+    <subfield code="0">(DE-588)118917099</subfield>
+    <subfield code="0">(DE-627)07969408X</subfield>
+    <subfield code="0">(DE-576)165069791</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Juliá, Raúl</subfield>
+    <subfield code="d">1940-1994</subfield>
+    <subfield code="0">(DE-588)1013559983</subfield>
+    <subfield code="0">(DE-627)705050661</subfield>
+    <subfield code="0">(DE-576)165069805</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Braga, Sônia</subfield>
+    <subfield code="d">1950-</subfield>
+    <subfield code="0">(DE-588)133420159</subfield>
+    <subfield code="0">(DE-627)54425001X</subfield>
+    <subfield code="0">(DE-576)299835928</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Sánchez, Rodolfo</subfield>
+    <subfield code="d">1944-</subfield>
+    <subfield code="0">(DE-588)140228608</subfield>
+    <subfield code="0">(DE-627)616952813</subfield>
+    <subfield code="0">(DE-576)315352221</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Neschling, John</subfield>
+    <subfield code="d">1947-</subfield>
+    <subfield code="0">(DE-588)134769465</subfield>
+    <subfield code="0">(DE-627)576026603</subfield>
+    <subfield code="0">(DE-576)317075004</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="730" ind1="0" ind2="2">
+    <subfield code="a">Kiss of the spider woman</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1593140029</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD 2016 / 137</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="c">vide</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 74366</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren P</subfield>
+    <subfield code="k">Puig, Manuel</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271311089</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11639</subfield>
+    <subfield code="0">(DE-576)201311089</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">AP 51400</subfield>
+    <subfield code="b">Sonstige Regisseure (einzelne)</subfield>
+    <subfield code="k">Allgemeines</subfield>
+    <subfield code="k">Medien- und Kommunikationswissenschaften, Kommunikationsdesign</subfield>
+    <subfield code="k">Film</subfield>
+    <subfield code="k">Inszenierung und Regie</subfield>
+    <subfield code="k">Einzelne Regisseure</subfield>
+    <subfield code="k">Sonstige Regisseure (einzelne)</subfield>
+    <subfield code="0">(DE-627)1270690523</subfield>
+    <subfield code="0">(DE-625)rvk/7700:</subfield>
+    <subfield code="0">(DE-576)200690523</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">AP 59489</subfield>
+    <subfield code="b">Brasilien</subfield>
+    <subfield code="k">Allgemeines</subfield>
+    <subfield code="k">Medien- und Kommunikationswissenschaften, Kommunikationsdesign</subfield>
+    <subfield code="k">Film</subfield>
+    <subfield code="k">Film in einzelnen Ländern</subfield>
+    <subfield code="k">Spielfilm</subfield>
+    <subfield code="k">Amerika, Indianische Welt</subfield>
+    <subfield code="k">Lateinamerika</subfield>
+    <subfield code="k">Südamerika</subfield>
+    <subfield code="k">Brasilien</subfield>
+    <subfield code="0">(DE-627)127337245X</subfield>
+    <subfield code="0">(DE-625)rvk/7791:749</subfield>
+    <subfield code="0">(DE-576)20337245X</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 74367</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren P</subfield>
+    <subfield code="k">Puig, Manuel</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271936291</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11640</subfield>
+    <subfield code="0">(DE-576)201936291</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">AP 53000</subfield>
+    <subfield code="b">Literarischer Film (Roman, Theaterstück verfilmt)</subfield>
+    <subfield code="k">Allgemeines</subfield>
+    <subfield code="k">Medien- und Kommunikationswissenschaften, Kommunikationsdesign</subfield>
+    <subfield code="k">Film</subfield>
+    <subfield code="k">Spielfilm</subfield>
+    <subfield code="k">Literarischer Film (Roman, Theaterstück verfilmt)</subfield>
+    <subfield code="0">(DE-627)1270690698</subfield>
+    <subfield code="0">(DE-625)rvk/7721:</subfield>
+    <subfield code="0">(DE-576)200690698</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">24.34</subfield>
+    <subfield code="j">Filmgattungen</subfield>
+    <subfield code="j">Filmsparten</subfield>
+    <subfield code="0">(DE-627)106405918</subfield>
+  </datafield>
+  <datafield tag="937" ind1=" " ind2=" ">
+    <subfield code="a">Spielfilm</subfield>
+    <subfield code="a">Literaturverfilmung</subfield>
+    <subfield code="b">USA</subfield>
+    <subfield code="b">Brasilien</subfield>
+    <subfield code="c">1985</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>7</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">611633183</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260616205954.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091027s2010    xxu|||||      00| ||eng c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">  2009044882</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9781564785534</subfield>
+    <subfield code="q">pbk. : alk. paper</subfield>
+    <subfield code="9">978-1-56478-553-4</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">156478553X</subfield>
+    <subfield code="q">pbk. : alk. paper</subfield>
+    <subfield code="9">1-56478-553-X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)611633183</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV611633183</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-US</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7798.26.U4</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">862/.64</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">22</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Boquitas pintadas. &lt;engl.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Heartbreak tango</subfield>
+    <subfield code="c">Manuel Puig; translated by Suzanne Jill Levine; [introduction by Francisco Goldman]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1st Dalkey Archive ed</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Champaign [Ill.]</subfield>
+    <subfield code="b">Dalkey Archive Press</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xxi, 224 Seiten</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Argentinian literature series</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Translated from the Spanish</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Tuberculosis</subfield>
+    <subfield code="x">Patients</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Death</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Buenos Aires (Argentina)</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Levine, Suzanne Jill</subfield>
+    <subfield code="d">1946-</subfield>
+    <subfield code="0">(DE-588)1056788690</subfield>
+    <subfield code="0">(DE-627)795021852</subfield>
+    <subfield code="0">(DE-576)169411109</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="t">Boquitas pintadas. &lt;engl.&gt;</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/611633183.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2011-08-02</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1165368374</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 10 / 15278</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>8</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     caa a22      c 4500</leader>
+  <controlfield tag="001">614496802</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20181215012404.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091208s2009    xx |||||      00| ||und c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)614496802</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">Un espía en mi corazón</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2="8">
+    <subfield code="a">Puig, Manuel, 1932 - 1990</subfield>
+    <subfield code="t">Teatro reunido. Enthalten in</subfield>
+    <subfield code="b">1. ed</subfield>
+    <subfield code="d">Buenos Aires : Editorial Entropía, 2009</subfield>
+    <subfield code="g">(2009), 5</subfield>
+    <subfield code="h">236 p</subfield>
+    <subfield code="w">(DE-627)614496721</subfield>
+    <subfield code="z">978-987-24797-3-2</subfield>
+    <subfield code="z">9872479739</subfield>
+    <subfield code="7">nnam</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="g">year:2009</subfield>
+    <subfield code="g">number:5</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1106115767</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">AR</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>9</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     caa a22      c 4500</leader>
+  <controlfield tag="001">614496780</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20181215012404.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091208s2009    xx |||||      00| ||und c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)614496780</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Triste golondrina macho</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2="8">
+    <subfield code="a">Puig, Manuel, 1932 - 1990</subfield>
+    <subfield code="t">Teatro reunido. Enthalten in</subfield>
+    <subfield code="b">1. ed</subfield>
+    <subfield code="d">Buenos Aires : Editorial Entropía, 2009</subfield>
+    <subfield code="g">(2009), 4</subfield>
+    <subfield code="h">236 p</subfield>
+    <subfield code="w">(DE-627)614496721</subfield>
+    <subfield code="z">978-987-24797-3-2</subfield>
+    <subfield code="z">9872479739</subfield>
+    <subfield code="7">nnam</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="g">year:2009</subfield>
+    <subfield code="g">number:4</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1106115708</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">AR</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>10</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     caa a22      c 4500</leader>
+  <controlfield tag="001">614496772</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20181215012404.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091208s2009    xx |||||      00| ||und c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)614496772</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Misterio del ramo de rosas</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2="8">
+    <subfield code="a">Puig, Manuel, 1932 - 1990</subfield>
+    <subfield code="t">Teatro reunido. Enthalten in</subfield>
+    <subfield code="b">1. ed</subfield>
+    <subfield code="d">Buenos Aires : Editorial Entropía, 2009</subfield>
+    <subfield code="g">(2009), 3</subfield>
+    <subfield code="h">236 p</subfield>
+    <subfield code="w">(DE-627)614496721</subfield>
+    <subfield code="z">978-987-24797-3-2</subfield>
+    <subfield code="z">9872479739</subfield>
+    <subfield code="7">nnam</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="g">year:2009</subfield>
+    <subfield code="g">number:3</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1106115643</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">AR</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>11</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     caa a22      c 4500</leader>
+  <controlfield tag="001">614496756</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20181215012405.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091208s2009    xx |||||      00| ||und c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)614496756</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bajo un manto de estrellas</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2="8">
+    <subfield code="a">Puig, Manuel, 1932 - 1990</subfield>
+    <subfield code="t">Teatro reunido. Enthalten in</subfield>
+    <subfield code="b">1. ed</subfield>
+    <subfield code="d">Buenos Aires : Editorial Entropía, 2009</subfield>
+    <subfield code="g">(2009), 2</subfield>
+    <subfield code="h">236 p</subfield>
+    <subfield code="w">(DE-627)614496721</subfield>
+    <subfield code="z">978-987-24797-3-2</subfield>
+    <subfield code="z">9872479739</subfield>
+    <subfield code="7">nnam</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="g">year:2009</subfield>
+    <subfield code="g">number:2</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1106115619</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">AR</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>12</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     caa a22      c 4500</leader>
+  <controlfield tag="001">614496748</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20181215012405.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091208s2009    xx |||||      00| ||und c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)614496748</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">El beso de la mujer araña</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2="8">
+    <subfield code="a">Puig, Manuel, 1932 - 1990</subfield>
+    <subfield code="t">Teatro reunido. Enthalten in</subfield>
+    <subfield code="b">1. ed</subfield>
+    <subfield code="d">Buenos Aires : Editorial Entropía, 2009</subfield>
+    <subfield code="g">(2009), 1</subfield>
+    <subfield code="h">236 p</subfield>
+    <subfield code="w">(DE-627)614496721</subfield>
+    <subfield code="z">978-987-24797-3-2</subfield>
+    <subfield code="z">9872479739</subfield>
+    <subfield code="7">nnam</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="g">year:2009</subfield>
+    <subfield code="g">number:1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1106115554</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">AR</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>13</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">614496721</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260616210459.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091208s2009    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">  2013373219</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789872479732</subfield>
+    <subfield code="9">978-987-24797-3-2</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9872479739</subfield>
+    <subfield code="9">987-24797-3-9</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)614496721</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV614496721</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7798.26.U4</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">862/.64</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">23</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="243" ind1="1" ind2="0">
+    <subfield code="a">Sammlung</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Teatro reunido</subfield>
+    <subfield code="c">Manuel Puig. Prólogo, Jorge Dubatti</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. ed</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">Editorial Entropía</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">236 p</subfield>
+    <subfield code="c">23 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Colección Puig</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Die Vorlage enth. insgesamt 5 Werke</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signed by the author</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">El beso de la mujer arañaBajo un manto de estrellas -- Misterio del ramo de rosas -- Triste golondrina macho -- Un espía en mi corazón.</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20240324</subfield>
+    <subfield code="f">DE-4165</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Puig, Manuel</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Motion pictures and literature</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Argentine</subfield>
+    <subfield code="y">20th century</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dubatti, Jorge</subfield>
+    <subfield code="d">1963-</subfield>
+    <subfield code="0">(DE-588)140455590</subfield>
+    <subfield code="0">(DE-627)618398635</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/614496721.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2009-12-11</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/614496721.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2009-12-14</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/614496721.jpg</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2013-12-17</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">93</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/toc/614496721.pdf</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2013-12-17</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="z">lizenzfrei</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">110611549X</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 09 / 22542</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>14</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">584804733</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260615231742.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">081112s2009    xxu|||||      00| ||eng c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">  2008048697</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9781564785305</subfield>
+    <subfield code="q">pbk. : alk. paper</subfield>
+    <subfield code="9">978-1-56478-530-5</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">1564785300</subfield>
+    <subfield code="q">pbk. : alk. paper</subfield>
+    <subfield code="9">1-56478-530-0</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)584804733</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV584804733</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-US</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7798.26.U4</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">862/.64</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">22</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Traición de Rita Hayworth. &lt;engl.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Betrayed by Rita Hayworth</subfield>
+    <subfield code="c">Manuel Puig; translated by Suzanne Jill Levine; introduction by Alan Cheuse</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1st Dalkey Archive ed</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Champaign</subfield>
+    <subfield code="b">Dalkey Archive Press</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">vi, 222 p</subfield>
+    <subfield code="c">20 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Latin American literature series</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Translated from the Spanish</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Motion picture audiences</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Argentina</subfield>
+    <subfield code="v">Fiction</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Levine, Suzanne Jill</subfield>
+    <subfield code="d">1946-</subfield>
+    <subfield code="0">(DE-588)1056788690</subfield>
+    <subfield code="0">(DE-627)795021852</subfield>
+    <subfield code="0">(DE-576)169411109</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="t">Traición de Rita Hayworth. &lt;engl.&gt;</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1165454009</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 10 / 15355</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>15</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cgm a22      c 4500</leader>
+  <controlfield tag="001">54309491X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240831234159.0</controlfield>
+  <controlfield tag="007">vd uvuuuu</controlfield>
+  <controlfield tag="008">070906s2007    sp ||| |      |   v|spa c</controlfield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">8421394523739</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)54309491X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV54309491X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 74366</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11639</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Boquitas pintadas</subfield>
+    <subfield code="c">una película de Leopoldo Torre Nilsson ; según la novela de Manuel Puig ; [Darsteller:] Alfredo Alcón, Martha González, Luisina Brando, Leonor Manso [und weitere] ; guión: Leopoldo Torre Nilsson, Manuel Puig ; música: Waldo de los Ríos ; fotografía: Anibal di Salvo ; dirección: Leopoldo Torre Nilsson</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Valladolid</subfield>
+    <subfield code="b">Divisa Home Video</subfield>
+    <subfield code="c">[2007]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">© 2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 DVD-Video (PAL, ca. 118 min.)</subfield>
+    <subfield code="b">farbig, Dolby Digital, 2.0 Mono, DVD 5, Regionalcode: 2</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">zweidimensionales bewegtes Bild</subfield>
+    <subfield code="b">tdi</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">video</subfield>
+    <subfield code="b">v</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Videodisk</subfield>
+    <subfield code="b">vd</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Colección Autor</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bildformat: 1,33:1 (Breitbild)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Extras: El beso del hombre araña - Torre Nilsson, director - Fichas y Filmografías</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Altersfreigabe Argentinien: NRM de 18 años</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Spielfilm, Literaturverfilmung</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Original: Argentinien 1974</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Sprachfassung: Spanisch</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Film</subfield>
+    <subfield code="0">(DE-588)4017102-4</subfield>
+    <subfield code="0">(DE-627)104559683</subfield>
+    <subfield code="0">(DE-576)208918531</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">DVD-Video</subfield>
+    <subfield code="0">(DE-588)4585125-6</subfield>
+    <subfield code="0">(DE-627)325263515</subfield>
+    <subfield code="0">(DE-576)213973456</subfield>
+    <subfield code="2">gnd-carrier</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Torre Nilsson, Leopoldo</subfield>
+    <subfield code="d">1924-1978</subfield>
+    <subfield code="e">FilmregisseurIn</subfield>
+    <subfield code="e">DrehbuchautorIn</subfield>
+    <subfield code="0">(DE-588)1046524445</subfield>
+    <subfield code="0">(DE-627)776564455</subfield>
+    <subfield code="4">fmd</subfield>
+    <subfield code="4">aus</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Alcón, Alfredo</subfield>
+    <subfield code="d">1930-</subfield>
+    <subfield code="e">SchauspielerIn</subfield>
+    <subfield code="0">(DE-588)132213869</subfield>
+    <subfield code="0">(DE-627)519084802</subfield>
+    <subfield code="4">act</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">González, Martha</subfield>
+    <subfield code="e">SchauspielerIn</subfield>
+    <subfield code="4">act</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Brando, Luisina</subfield>
+    <subfield code="e">SchauspielerIn</subfield>
+    <subfield code="0">(DE-588)14148165X</subfield>
+    <subfield code="0">(DE-627)629425752</subfield>
+    <subfield code="4">act</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Manso, Leonor</subfield>
+    <subfield code="e">SchauspielerIn</subfield>
+    <subfield code="0">(DE-588)1056426780</subfield>
+    <subfield code="0">(DE-627)794690882</subfield>
+    <subfield code="4">act</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Ríos, Waldo de los</subfield>
+    <subfield code="d">1934-1977</subfield>
+    <subfield code="e">KomponistIn</subfield>
+    <subfield code="0">(DE-588)134498437</subfield>
+    <subfield code="0">(DE-627)575806206</subfield>
+    <subfield code="0">(DE-576)316820210</subfield>
+    <subfield code="4">cmp</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Salvo, Aníbal di</subfield>
+    <subfield code="d">1924-2010</subfield>
+    <subfield code="e">Kameramann/Kamerafrau</subfield>
+    <subfield code="0">(DE-588)1046527444</subfield>
+    <subfield code="0">(DE-627)776569163</subfield>
+    <subfield code="0">(DE-576)399866906</subfield>
+    <subfield code="4">cng</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="e">VerfasserIn des Bezugswerks</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">ant$B</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="a">SSG-OPC-mbf</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">833417703</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD-2007 / 297</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="c">vide</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 74366</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren P</subfield>
+    <subfield code="k">Puig, Manuel</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271311089</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11639</subfield>
+    <subfield code="0">(DE-576)201311089</subfield>
+  </datafield>
+  <datafield tag="937" ind1=" " ind2=" ">
+    <subfield code="a">Spielfilm, Literaturverfilmung</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>16</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     nam a22      c 4500</leader>
+  <controlfield tag="001">573173982</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20080731144445.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">080731s2006    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)573173982</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Pubis angelical</subfield>
+    <subfield code="c">un film de Raul de la Torre. Guión cinematográfico Raúl de la Torre y Manuel Puig. con Carlos Latreyte; Alfredo Alcon; ...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">S.l., Argentina</subfield>
+    <subfield code="b">International DVD Group S.A.</subfield>
+    <subfield code="b">Ed. y distribuido por GLD Distribuidora S.A</subfield>
+    <subfield code="c">c2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 DVD (NTSC 115 Min.)</subfield>
+    <subfield code="b">farb., dolby system, Multizona</subfield>
+    <subfield code="c">4 3/4 in</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Orig.: RA1982</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Based on: Pubis angelical / Manuel Puig</subfield>
+  </datafield>
+  <datafield tag="511" ind1="0" ind2=" ">
+    <subfield code="a">Alfredo Alcón, Graciela Borges, Pepe Soriano</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">While in her hospital bed, a woman reflects on her life and the roles men have played in her life, against a backdrop of Argentine political events</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Sprache: span.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women</subfield>
+    <subfield code="z">Argentina</subfield>
+    <subfield code="v">Drama</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Reflection (Philosophy)</subfield>
+    <subfield code="v">Drama</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Man-woman relationships</subfield>
+    <subfield code="v">Drama</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Feature films</subfield>
+    <subfield code="z">Argentina</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Fiction films</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Torre, Raul de la</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Latreyte, Carlos</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Alcón, Alfredo</subfield>
+    <subfield code="d">1930-</subfield>
+    <subfield code="0">(DE-588)132213869</subfield>
+    <subfield code="0">(DE-627)519084802</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Arte 10 (Firm)</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">International DVD Group</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">884327507</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD 2008 / 308</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>17</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      cb4500</leader>
+  <controlfield tag="001">52092746X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20241128123606.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">061206s2006    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9872104085</subfield>
+    <subfield code="9">987-21040-8-5</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789872104085</subfield>
+    <subfield code="9">978-987-21040-8-5</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)52092746X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV52092746X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Cartas americanas</subfield>
+    <subfield code="b">New York (1963 - 1967), Río de Janeiro (1980 - 1983)</subfield>
+    <subfield code="c">comp. y notas: Graciela Goldchluk</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. ed.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">Ed. Entropía</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">460 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Querida familia / Manuel Puig</subfield>
+    <subfield code="v">T. 2</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Colección Puig</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Goldchluk, Graciela</subfield>
+    <subfield code="d">1955-</subfield>
+    <subfield code="0">(DE-588)1033717142</subfield>
+    <subfield code="0">(DE-627)742436764</subfield>
+    <subfield code="0">(DE-576)18422859X</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="800" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="t">Querida familia.</subfield>
+    <subfield code="v">T. 2</subfield>
+    <subfield code="9">2.2006</subfield>
+    <subfield code="w">(DE-627)503923842</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">802861598</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 05 / 12764 : 2</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">MV</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>18</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">509999204</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260615215757.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">060404s2006    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9788484891857</subfield>
+    <subfield code="q"> : 28.00 € (Iberoamericana)</subfield>
+    <subfield code="9">978-84-8489-185-7</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8484891852</subfield>
+    <subfield code="q"> : 28.00 € (Iberoamericana)</subfield>
+    <subfield code="9">84-8489-185-2</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">386527191X</subfield>
+    <subfield code="q"> (Vervuert)</subfield>
+    <subfield code="9">3-86527-191-X</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9788484891857</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)509999204</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)252709705</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV509999204</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)314949333</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)254827120</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(AT-OBV)AC05063270</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-604)BV021570500</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7798.26.U4</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">860</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">860</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 74366</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 74367</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">a</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Puig por Puig</subfield>
+    <subfield code="b">imágenes de un escritor</subfield>
+    <subfield code="c">investigación, compilación, notas a cargo de Julia Romero</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Vervuert</subfield>
+    <subfield code="c">2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">450 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+    <subfield code="c">23 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bibliogr. M. Puig S. 445 - 449</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20240324</subfield>
+    <subfield code="f">DE-4165</subfield>
+    <subfield code="z">2</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="x">Interviews</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Argentine</subfield>
+    <subfield code="x">Interviews</subfield>
+    <subfield code="x">20th century</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Interview</subfield>
+    <subfield code="0">(DE-588)4027503-6</subfield>
+    <subfield code="0">(DE-627)104767812</subfield>
+    <subfield code="0">(DE-576)208971211</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Quelle</subfield>
+    <subfield code="0">(DE-588)4135952-5</subfield>
+    <subfield code="0">(DE-627)105661236</subfield>
+    <subfield code="0">(DE-576)209665084</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Aufsatzsammlung</subfield>
+    <subfield code="0">(DE-588)4143413-4</subfield>
+    <subfield code="0">(DE-627)105605727</subfield>
+    <subfield code="0">(DE-576)209726091</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="2" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="2" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="3" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="3" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Romero, Julia</subfield>
+    <subfield code="e">Bearb.</subfield>
+    <subfield code="0">(DE-588)132037912</subfield>
+    <subfield code="0">(DE-627)517291150</subfield>
+    <subfield code="4">adp</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/hbz/toc/ht014676646.pdf</subfield>
+    <subfield code="m">V:DE-605</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2008-11-15</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">769629172</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 06 / 6471</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">sf</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 74366</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren P</subfield>
+    <subfield code="k">Puig, Manuel</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271311089</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11639</subfield>
+    <subfield code="0">(DE-576)201311089</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 74367</subfield>
+    <subfield code="b">Sekundärliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewählte Anonyma</subfield>
+    <subfield code="k">Autoren P</subfield>
+    <subfield code="k">Puig, Manuel</subfield>
+    <subfield code="k">Sekundärliteratur</subfield>
+    <subfield code="0">(DE-627)1271936291</subfield>
+    <subfield code="0">(DE-625)rvk/66229:11640</subfield>
+    <subfield code="0">(DE-576)201936291</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur außerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>19</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cgm a22      c 4500</leader>
+  <controlfield tag="001">1898868425</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240830111917.0</controlfield>
+  <controlfield tag="007">vd uvuuuu</controlfield>
+  <controlfield tag="008">240816s2005    sp ||| |      |   v|spa c</controlfield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">8431588090558</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">8431588085158</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1898868425</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP1898868425</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">929 Mujica Láinez, Manuel (086.82)</subfield>
+    <subfield code="2">udc</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">929 Puig, Manuel (086.82)</subfield>
+    <subfield code="2">udc</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Manuel Mujica Láinez, Manuel Puig</subfield>
+    <subfield code="b">grandes personajes a fondo</subfield>
+    <subfield code="c">[dirección y presentación: Joaquín Soler Serrano ; realización: Ricardo Arias]</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Manuel Puig</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Barcelona]</subfield>
+    <subfield code="b">Editrama</subfield>
+    <subfield code="c">[2005]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Madrid]</subfield>
+    <subfield code="b">Gran Vía Musical de Ediciones</subfield>
+    <subfield code="b">Impulso Records</subfield>
+    <subfield code="c">[2005]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">© 2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 DVD-Video (90 min,  41 min.)</subfield>
+    <subfield code="b">PAL, schwarz-weiss, Stereo 2.0, Regionalcode: 0</subfield>
+    <subfield code="c">12 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">zweidimensionales bewegtes Bild</subfield>
+    <subfield code="b">tdi</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">video</subfield>
+    <subfield code="b">v</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Videodisk</subfield>
+    <subfield code="b">vd</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Grandes personajes A fondo</subfield>
+    <subfield code="v">27</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">La memoria de las letras, las artes y las ciencias. España e hispanoamérica</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bildformat: 4:3</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Enthält Extras</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Altersfreigabe Spanien: Para todos los públicos</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Interview. Spanien</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Fernsehmitschnitt, Original: Radiotelevisión Española 1977</subfield>
+  </datafield>
+  <datafield tag="518" ind1=" " ind2=" ">
+    <subfield code="a">Entrevistas realizadas el 19 de junio y el 30 de octubre de 1977 en el programa de televisión "A fondo" de RTVE.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Aunque Manuel Mujica Láinez y Manuel Puig pertenecen a generaciones diferentes, exite entre ellos varios nexsos importantes: ambos son argentinos, sus narraciones están llenas de sensibilidad y los dos tienen un carácter cosmopolita</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Sprachfassung: Spanisch</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Escritores argentinos - Entrevistas - Videograbaciones</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Entrevistas televisadas - España</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Programas de televisión culturales - España</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Film</subfield>
+    <subfield code="0">(DE-588)4017102-4</subfield>
+    <subfield code="0">(DE-627)104559683</subfield>
+    <subfield code="0">(DE-576)208918531</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Interview</subfield>
+    <subfield code="0">(DE-588)4027503-6</subfield>
+    <subfield code="0">(DE-627)104767812</subfield>
+    <subfield code="0">(DE-576)208971211</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">DVD-Video</subfield>
+    <subfield code="0">(DE-588)4585125-6</subfield>
+    <subfield code="0">(DE-627)325263515</subfield>
+    <subfield code="0">(DE-576)213973456</subfield>
+    <subfield code="2">gnd-carrier</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118785311</subfield>
+    <subfield code="0">(DE-627)079562248</subfield>
+    <subfield code="0">(DE-576)162321937</subfield>
+    <subfield code="a">Mujica Láinez, Manuel</subfield>
+    <subfield code="d">1910-1984</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4154057-8</subfield>
+    <subfield code="0">(DE-627)105526274</subfield>
+    <subfield code="0">(DE-576)209808322</subfield>
+    <subfield code="a">Fernsehinterview</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Mujica Láinez, Manuel</subfield>
+    <subfield code="d">1910-1984</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118785311</subfield>
+    <subfield code="0">(DE-627)079562248</subfield>
+    <subfield code="0">(DE-576)162321937</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Puig, Manuel</subfield>
+    <subfield code="d">1932-1990</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118793667</subfield>
+    <subfield code="0">(DE-627)079569668</subfield>
+    <subfield code="0">(DE-576)162628560</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Soler Serrano, Joaquín</subfield>
+    <subfield code="d">1919-2010</subfield>
+    <subfield code="e">InterviewerIn</subfield>
+    <subfield code="e">GeistigeR SchöpferIn</subfield>
+    <subfield code="0">(DE-588)1057072370</subfield>
+    <subfield code="0">(DE-627)795133960</subfield>
+    <subfield code="0">(DE-576)413788016</subfield>
+    <subfield code="4">ivr</subfield>
+    <subfield code="4">cre</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Arias, Ricardo</subfield>
+    <subfield code="e">FernsehregisseurIn</subfield>
+    <subfield code="4">tld</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4548168206</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD 2024 / 134</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="c">vide</subfield>
+  </datafield>
+  <datafield tag="937" ind1=" " ind2=" ">
+    <subfield code="a">Interview</subfield>
+    <subfield code="b">Spanien</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>20</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.per="Puig, Manuel"</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>20</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

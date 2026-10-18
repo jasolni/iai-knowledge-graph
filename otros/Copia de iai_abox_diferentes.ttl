@@ -1,0 +1,260 @@
+@prefix : <http://www.iai.spk-berlin.de/abox/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix iai: <http://www.iai.spk-berlin.de/tbox#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix iair: <http://www.iai.spk-berlin.de/abox/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@base <http://www.iai.spk-berlin.de/abox/> .
+
+<http://www.iai.spk-berlin.de/abox/> rdf:type owl:Ontology ;
+                                      owl:imports iai: .
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.iai.spk-berlin.de/abox/alejo_carpentier
+iair:alejo_carpentier rdf:type owl:NamedIndividual ,
+                               <http://schema.org/Person> ;
+                      <http://schema.org/memberOf> iair:realismo_magico ;
+                      <http://schema.org/name> "Alejo Carpentier"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/armas_secretas
+iair:armas_secretas rdf:type owl:NamedIndividual ,
+                             <http://schema.org/Book> ;
+                    <http://schema.org/datePublished> "1959"^^xsd:gYear ;
+                    <http://schema.org/name> "Las armas secretas"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/babas_del_diablo
+iair:babas_del_diablo rdf:type owl:NamedIndividual ,
+                               <http://schema.org/ShortStory> ;
+                      <http://schema.org/author> iair:julio_cortazar ;
+                      <http://schema.org/isPartOf> iair:armas_secretas ;
+                      <http://schema.org/name> "Las babas del diablo"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/blow_up
+iair:blow_up rdf:type owl:NamedIndividual ,
+                      <http://schema.org/Movie> ;
+             <http://schema.org/actor> iair:david_hemmings ,
+                                       iair:vanessa_redgrave ;
+             <http://schema.org/director> iair:michelangelo_antonioni ;
+             <http://schema.org/isBasedOn> iair:babas_del_diablo ;
+             <http://schema.org/datePublished> "1966"^^xsd:gYear ;
+             <http://schema.org/name> "Blow-Up"@en .
+
+
+###  http://www.iai.spk-berlin.de/abox/boom_latinoamericano
+iair:boom_latinoamericano rdf:type owl:NamedIndividual ,
+                                   iai:LiteraryMovement ;
+                          <http://schema.org/name> "Boom Latinoamericano"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/cien_anos_de_soledad
+iair:cien_anos_de_soledad rdf:type owl:NamedIndividual ,
+                                   bf:Work ;
+                          bf:hasInstance iair:cien_anos_de_soledad_book ;
+                          <http://schema.org/author> iair:gabriel_garcia_marquez ;
+                          <http://schema.org/name> "Cien años de soledad" .
+
+
+###  http://www.iai.spk-berlin.de/abox/cien_anos_de_soledad_TVSerie
+iair:cien_anos_de_soledad_TVSerie rdf:type owl:NamedIndividual ,
+                                           <http://schema.org/TVSeries> ;
+                                  <http://schema.org/director> iair:laura_mora_ortega ;
+                                  <http://schema.org/isBasedOn> iair:cien_anos_de_soledad_book ;
+                                  <http://schema.org/datePublished> "2024"^^xsd:gYear ;
+                                  <http://schema.org/name> "Cien años de soledad (serie)"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/cien_anos_de_soledad_book
+iair:cien_anos_de_soledad_book rdf:type owl:NamedIndividual ,
+                                        <http://schema.org/Book> ;
+                               <http://schema.org/author> iair:gabriel_garcia_marquez ;
+                               iai:influencedBy iair:reino_este_mundo ;
+                               <http://schema.org/datePublished> "1967"^^xsd:gYear ;
+                               <http://schema.org/name> "Cien años de soledad (libro)"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/david_hemmings
+iair:david_hemmings rdf:type owl:NamedIndividual ,
+                             <http://schema.org/Person> ;
+                    <http://schema.org/name> "David Hemmings"@en .
+
+
+###  http://www.iai.spk-berlin.de/abox/elena_garro
+iair:elena_garro rdf:type owl:NamedIndividual ,
+                          <http://schema.org/Person> ;
+                 <http://schema.org/memberOf> iair:boom_latinoamericano ;
+                 <http://schema.org/name> "Elena Garro"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/gabriel_garcia_marquez
+iair:gabriel_garcia_marquez rdf:type owl:NamedIndividual ,
+                                     <http://schema.org/Person> ;
+                            <http://schema.org/memberOf> iair:boom_latinoamericano ,
+                                                         iair:realismo_magico ;
+                            <http://schema.org/name> "Gabriel García Márquez"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/iberoamerikanisches_institut
+iair:iberoamerikanisches_institut rdf:type owl:NamedIndividual ,
+                                           <http://schema.org/Library> ;
+                                  <http://schema.org/name> "Iberoamerikanisches Institut"@de ,
+                                                           "Instituto Iberoamericano"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/juan_rulfo
+iair:juan_rulfo rdf:type owl:NamedIndividual ,
+                         <http://schema.org/Person> ;
+                <http://schema.org/name> "Juan Rulfo"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/julio_cortazar
+iair:julio_cortazar rdf:type owl:NamedIndividual ,
+                             <http://schema.org/Person> ;
+                    <http://schema.org/memberOf> iair:boom_latinoamericano ;
+                    <http://schema.org/name> "Julio Cortázar"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/lateinamerika_institut
+iair:lateinamerika_institut rdf:type owl:NamedIndividual ,
+                                     <http://schema.org/EducationalOrganization> ;
+                            <http://schema.org/name> "Instituto Latinoamericano, FUBerlín"@es ,
+                                                     "Lateinamerika Institut, FUBerlin"@de .
+
+
+###  http://www.iai.spk-berlin.de/abox/laura_mora_ortega
+iair:laura_mora_ortega rdf:type owl:NamedIndividual ,
+                                <http://schema.org/Person> ;
+                       <http://schema.org/name> "Laura Morales Ortega"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/los_adioses
+iair:los_adioses rdf:type owl:NamedIndividual ,
+                          <http://schema.org/Movie> ;
+                 <http://schema.org/about> iair:rosario_castellanos ;
+                 <http://schema.org/datePublished> "2017"^^xsd:gYear ;
+                 <http://schema.org/name> "Los adioses"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/macondo
+iair:macondo rdf:type owl:NamedIndividual ,
+                      <http://schema.org/MusicRecording> ;
+             <http://schema.org/byArtist> iair:oscar_chavez ;
+             <http://schema.org/isBasedOn> iair:cien_anos_de_soledad_book ;
+             <http://schema.org/name> "Macondo"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/michelangelo_antonioni
+iair:michelangelo_antonioni rdf:type owl:NamedIndividual ,
+                                     <http://schema.org/Person> ;
+                            <http://schema.org/name> "Michelangelo Antonioni"@it .
+
+
+###  http://www.iai.spk-berlin.de/abox/mujer_que_sabe_latin
+iair:mujer_que_sabe_latin rdf:type owl:NamedIndividual ;
+                          <http://schema.org/author> iair:rosario_castellanos ;
+                          <http://schema.org/datePublished> "1973"^^xsd:gYear ;
+                          <http://schema.org/name> "Mujer que sabe latín"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/oscar_chavez
+iair:oscar_chavez rdf:type owl:NamedIndividual ,
+                           <http://schema.org/Person> ;
+                  <http://schema.org/name> "Óscar Chávez"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/realismo_magico
+iair:realismo_magico rdf:type owl:NamedIndividual ,
+                              iai:LiteraryMovement ;
+                     <http://schema.org/name> "Realismo mágico"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/recuerdos_del_porvenir
+iair:recuerdos_del_porvenir rdf:type owl:NamedIndividual ,
+                                     <http://schema.org/Book> ;
+                            <http://schema.org/author> iair:elena_garro ;
+                            <http://schema.org/datePublished> "1963"^^xsd:gYear ;
+                            <http://schema.org/name> "Los recuerdos del porvenir"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/reino_este_mundo
+iair:reino_este_mundo rdf:type owl:NamedIndividual ,
+                               <http://schema.org/Book> ;
+                      <http://schema.org/author> iair:alejo_carpentier ;
+                      <http://schema.org/datePublished> "1949"^^xsd:gYear ;
+                      <http://schema.org/name> "El reino de este mundo"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/rosario_castellanos
+iair:rosario_castellanos rdf:type owl:NamedIndividual ,
+                                  <http://schema.org/Person> ;
+                         <http://schema.org/memberOf> iair:boom_latinoamericano ;
+                         <http://schema.org/name> "Rosario Castellanos"@es .
+
+
+###  http://www.iai.spk-berlin.de/abox/surrealismus_lateinamerika
+iair:surrealismus_lateinamerika rdf:type owl:NamedIndividual ,
+                                         <http://schema.org/ExhibitionEvent> ;
+                                <http://schema.org/about> iair:alejo_carpentier ;
+                                <http://schema.org/organizer> iair:iberoamerikanisches_institut ,
+                                                              iair:lateinamerika_institut ;
+                                <http://schema.org/name> "Surrealismo en América Latina – revistas y libros de artista"@es ,
+                                                         "Surrealismus in Lateinamerika. Zeitschriften und Künstlerbücher"@de .
+
+
+###  http://www.iai.spk-berlin.de/abox/vanessa_redgrave
+iair:vanessa_redgrave rdf:type owl:NamedIndividual ,
+                               <http://schema.org/Person> ;
+                      <http://schema.org/name> "Vanessa Redgrave"@en .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
+
+#####################Dado que este minidaset es una muestra para mostrar 
+#algunas de las declaraciones de la ontología en funcionamiento,
+#, se declara que todos los individuos son diferentes entre sí.
+#Pues de otra manera, las reglas SWRL S1 y S3 de la ontología no podrían inferir 
+#correctamente las relaciones entre los individuos.
+#Lo suyo sería, en producción, declarar estas diferencias en la implementación de las consultas,
+#por ejemplo mediante SPARQL CONSTRUCT,
+#por ahora, y para fines únicamente de esta prueba de concepto, esta declaración resuelve el funcionamiento.
+#####################
+[ rdf:type owl:AllDifferent ;
+  owl:members ( iair:alejo_carpentier
+                iair:armas_secretas
+                iair:babas_del_diablo
+                iair:blow_up
+                iair:boom_latinoamericano
+                iair:cien_anos_de_soledad
+                iair:cien_anos_de_soledad_TVSerie
+                iair:cien_anos_de_soledad_book
+                iair:david_hemmings
+                iair:elena_garro
+                iair:gabriel_garcia_marquez
+                iair:iberoamerikanisches_institut
+                iair:juan_rulfo
+                iair:julio_cortazar
+                iair:lateinamerika_institut
+                iair:laura_mora_ortega
+                iair:los_adioses
+                iair:macondo
+                iair:michelangelo_antonioni
+                iair:mujer_que_sabe_latin
+                iair:oscar_chavez
+                iair:realismo_magico
+                iair:recuerdos_del_porvenir
+                iair:reino_este_mundo
+                iair:rosario_castellanos
+                iair:surrealismus_lateinamerika
+                iair:vanessa_redgrave
+              )
+] .

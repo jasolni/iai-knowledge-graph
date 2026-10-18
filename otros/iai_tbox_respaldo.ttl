@@ -1,0 +1,873 @@
+@prefix : <http://www.iai.spk-berlin.de/tbox#> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix iai: <http://www.iai.spk-berlin.de/tbox#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@base <http://www.iai.spk-berlin.de/tbox#> .
+
+<http://www.iai.spk-berlin.de/tbox#> rdf:type owl:Ontology .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled
+<http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled> rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.w3.org/2001/XMLSchema#date
+xsd:date rdf:type rdfs:Datatype .
+
+
+###  http://www.w3.org/2001/XMLSchema#gYear
+xsd:gYear rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://id.loc.gov/ontologies/bibframe/hasInstance
+bf:hasInstance rdf:type owl:ObjectProperty ;
+               owl:inverseOf bf:instanceOf ;
+               rdfs:domain bf:Work ;
+               rdfs:range bf:Instance .
+
+
+###  http://id.loc.gov/ontologies/bibframe/hasItem
+bf:hasItem rdf:type owl:ObjectProperty ;
+           owl:inverseOf bf:itemOf ;
+           rdfs:domain bf:Instance ;
+           rdfs:range bf:Item .
+
+
+###  http://id.loc.gov/ontologies/bibframe/instanceOf
+bf:instanceOf rdf:type owl:ObjectProperty .
+
+
+###  http://id.loc.gov/ontologies/bibframe/itemOf
+bf:itemOf rdf:type owl:ObjectProperty .
+
+
+###  http://schema.org/about
+schema:about rdf:type owl:ObjectProperty ;
+             rdfs:domain schema:CreativeWork ;
+             rdfs:range schema:Thing .
+
+
+###  http://schema.org/actor
+schema:actor rdf:type owl:ObjectProperty ;
+             owl:inverseOf iai:actedIn ;
+             rdfs:domain [ rdf:type owl:Class ;
+                           owl:unionOf ( schema:Movie
+                                         schema:TVSeries
+                                         iai:TheatricalAdaptation
+                                       )
+                         ] ;
+             rdfs:range schema:Person .
+
+
+###  http://schema.org/attendee
+schema:attendee rdf:type owl:ObjectProperty ;
+                rdfs:domain schema:Event ;
+                rdfs:range schema:Person .
+
+
+###  http://schema.org/author
+schema:author rdf:type owl:ObjectProperty ;
+              owl:equivalentProperty iai:hasAuthor ;
+              owl:inverseOf iai:authorOf ;
+              rdfs:domain schema:CreativeWork ;
+              rdfs:range [ rdf:type owl:Class ;
+                           owl:unionOf ( schema:Organization
+                                         schema:Person
+                                       )
+                         ] .
+
+
+###  http://schema.org/birthPlace
+schema:birthPlace rdf:type owl:ObjectProperty ;
+                  rdfs:domain schema:Person ;
+                  rdfs:range schema:Place .
+
+
+###  http://schema.org/byArtist
+schema:byArtist rdf:type owl:ObjectProperty ;
+                owl:inverseOf iai:hasInterpreted ;
+                rdfs:domain schema:MusicRecording ;
+                rdfs:range [ rdf:type owl:Class ;
+                             owl:unionOf ( schema:MusicGroup
+                                           schema:Person
+                                         )
+                           ] .
+
+
+###  http://schema.org/character
+schema:character rdf:type owl:ObjectProperty ;
+                 rdfs:domain schema:CreativeWork ;
+                 rdfs:range iai:FictionalCharacter .
+
+
+###  http://schema.org/composer
+schema:composer rdf:type owl:ObjectProperty ;
+                owl:inverseOf iai:hasComposed ;
+                rdfs:domain schema:MusicComposition ;
+                rdfs:range schema:Person .
+
+
+###  http://schema.org/director
+schema:director rdf:type owl:ObjectProperty ;
+                owl:equivalentProperty iai:hasDirector ;
+                owl:inverseOf iai:directorOf ;
+                rdfs:domain [ rdf:type owl:Class ;
+                              owl:unionOf ( schema:Movie
+                                            schema:TVSeries
+                                            iai:TheatricalAdaptation
+                                          )
+                            ] ;
+                rdfs:range schema:Person .
+
+
+###  http://schema.org/editor
+schema:editor rdf:type owl:ObjectProperty ;
+              owl:inverseOf iai:hasEdited ;
+              rdfs:domain schema:CreativeWork ;
+              rdfs:range schema:Person .
+
+
+###  http://schema.org/illustrator
+schema:illustrator rdf:type owl:ObjectProperty ;
+                   owl:inverseOf iai:hasIllustrated ;
+                   rdfs:domain schema:CreativeWork ;
+                   rdfs:range schema:Person .
+
+
+###  http://schema.org/isBasedOn
+schema:isBasedOn rdf:type owl:ObjectProperty ;
+                 rdfs:domain schema:CreativeWork ;
+                 rdfs:range schema:CreativeWork .
+
+
+###  http://schema.org/isPartOf
+schema:isPartOf rdf:type owl:ObjectProperty ;
+                rdfs:domain schema:CreativeWork ;
+                rdfs:range schema:CreativeWork .
+
+
+###  http://schema.org/location
+schema:location rdf:type owl:ObjectProperty ;
+                rdfs:domain [ rdf:type owl:Class ;
+                              owl:unionOf ( schema:Event
+                                            schema:Organization
+                                          )
+                            ] ;
+                rdfs:range schema:Place .
+
+
+###  http://schema.org/memberOf
+schema:memberOf rdf:type owl:ObjectProperty ;
+                rdfs:domain schema:Person ;
+                rdfs:range [ rdf:type owl:Class ;
+                             owl:unionOf ( schema:Organization
+                                           iai:LiteraryMovement
+                                         )
+                           ] .
+
+
+###  http://schema.org/organizer
+schema:organizer rdf:type owl:ObjectProperty ;
+                 rdfs:domain schema:Event ;
+                 rdfs:range [ rdf:type owl:Class ;
+                              owl:unionOf ( schema:Organization
+                                            schema:Person
+                                          )
+                            ] .
+
+
+###  http://schema.org/performer
+schema:performer rdf:type owl:ObjectProperty ;
+                 rdfs:domain schema:Event ;
+                 rdfs:range [ rdf:type owl:Class ;
+                              owl:unionOf ( schema:PerformingGroup
+                                            schema:Person
+                                          )
+                            ] .
+
+
+###  http://schema.org/publisher
+schema:publisher rdf:type owl:ObjectProperty ;
+                 owl:inverseOf iai:hasPublished ;
+                 rdfs:domain bf:Instance ,
+                             schema:CreativeWork ;
+                 rdfs:range [ rdf:type owl:Class ;
+                              owl:unionOf ( schema:Organization
+                                            schema:Person
+                                          )
+                            ] .
+
+
+###  http://schema.org/recordingOf
+schema:recordingOf rdf:type owl:ObjectProperty ;
+                   rdfs:domain schema:MusicRecording ;
+                   rdfs:range schema:MusicComposition .
+
+
+###  http://schema.org/translator
+schema:translator rdf:type owl:ObjectProperty ;
+                  owl:inverseOf iai:hasTranslated ;
+                  rdfs:domain schema:CreativeWork ;
+                  rdfs:range schema:Person .
+
+
+###  http://schema.org/workPresented
+schema:workPresented rdf:type owl:ObjectProperty ;
+                     rdfs:domain schema:Event ;
+                     rdfs:range schema:CreativeWork .
+
+
+###  http://www.iai.spk-berlin.de/tbox#actedIn
+iai:actedIn rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#authorOf
+iai:authorOf rdf:type owl:ObjectProperty ;
+             owl:inverseOf iai:hasAuthor .
+
+
+###  http://www.iai.spk-berlin.de/tbox#collaboratesWith
+iai:collaboratesWith rdf:type owl:ObjectProperty ,
+                              owl:SymmetricProperty ;
+                     rdfs:domain [ rdf:type owl:Class ;
+                                   owl:unionOf ( schema:Organization
+                                                 schema:Person
+                                               )
+                                 ] ;
+                     rdfs:range [ rdf:type owl:Class ;
+                                  owl:unionOf ( schema:Organization
+                                                schema:Person
+                                              )
+                                ] .
+
+
+###  http://www.iai.spk-berlin.de/tbox#createdBy
+iai:createdBy rdf:type owl:ObjectProperty ;
+              owl:inverseOf iai:hasCreatedCharacter ;
+              owl:propertyChainAxiom ( [ owl:inverseOf schema:character
+                                       ]
+                                       schema:author
+                                     ) .
+
+
+###  http://www.iai.spk-berlin.de/tbox#directorOf
+iai:directorOf rdf:type owl:ObjectProperty ;
+               owl:inverseOf iai:hasDirector .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasAuthor
+iai:hasAuthor rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasComposed
+iai:hasComposed rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasCreatedCharacter
+iai:hasCreatedCharacter rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasDirector
+iai:hasDirector rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasEdited
+iai:hasEdited rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasIllustrated
+iai:hasIllustrated rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasInfluenced
+iai:hasInfluenced rdf:type owl:ObjectProperty ;
+                  owl:inverseOf iai:influencedBy ;
+                  rdf:type owl:TransitiveProperty ;
+                  rdfs:domain [ rdf:type owl:Class ;
+                                owl:unionOf ( schema:CreativeWork
+                                              schema:Person
+                                            )
+                              ] ;
+                  rdfs:range [ rdf:type owl:Class ;
+                               owl:unionOf ( schema:CreativeWork
+                                             schema:Person
+                                           )
+                             ] .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasInterpreted
+iai:hasInterpreted rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasPublished
+iai:hasPublished rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#hasTranslated
+iai:hasTranslated rdf:type owl:ObjectProperty .
+
+
+###  http://www.iai.spk-berlin.de/tbox#influencedBy
+iai:influencedBy rdf:type owl:ObjectProperty ;
+                 owl:propertyChainAxiom ( [ owl:inverseOf schema:author
+                                          ]
+                                          schema:isBasedOn
+                                          schema:author
+                                        ) ,
+                                        ( [ owl:inverseOf schema:director
+                                          ]
+                                          schema:isBasedOn
+                                          schema:author
+                                        ) .
+
+
+###  http://www.iai.spk-berlin.de/tbox#mentorOf
+iai:mentorOf rdf:type owl:ObjectProperty ;
+             rdfs:domain schema:Person ;
+             rdfs:range schema:Person .
+
+
+###  http://www.iai.spk-berlin.de/tbox#receivedAward
+iai:receivedAward rdf:type owl:ObjectProperty ;
+                  rdfs:domain [ rdf:type owl:Class ;
+                                owl:unionOf ( schema:CreativeWork
+                                              schema:Person
+                                            )
+                              ] ;
+                  rdfs:range iai:Award .
+
+
+###  http://xmlns.com/foaf/0.1/knows
+foaf:knows rdf:type owl:ObjectProperty ;
+           rdfs:domain schema:Person ;
+           rdfs:range schema:Person .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://id.loc.gov/ontologies/bibframe/classification
+bf:classification rdf:type owl:DatatypeProperty ;
+                  rdfs:domain bf:Instance ,
+                              schema:ArchiveComponent .
+
+
+###  http://id.loc.gov/ontologies/bibframe/shelfMark
+bf:shelfMark rdf:type owl:DatatypeProperty ;
+             rdfs:domain bf:Item ;
+             rdfs:range xsd:string .
+
+
+###  http://schema.org/birthDate
+schema:birthDate rdf:type owl:DatatypeProperty ;
+                 rdfs:range xsd:date .
+
+
+###  http://schema.org/datePublished
+schema:datePublished rdf:type owl:DatatypeProperty ;
+                     rdfs:domain [ rdf:type owl:Class ;
+                                   owl:unionOf ( bf:Instance
+                                                 schema:CreativeWork
+                                               )
+                                 ] ;
+                     rdfs:range xsd:gYear .
+
+
+###  http://schema.org/deathDate
+schema:deathDate rdf:type owl:DatatypeProperty ;
+                 rdfs:range xsd:date .
+
+
+###  http://schema.org/description
+schema:description rdf:type owl:DatatypeProperty ;
+                   rdfs:domain schema:Thing .
+
+
+###  http://schema.org/endDate
+schema:endDate rdf:type owl:DatatypeProperty ;
+               rdfs:domain schema:Event ;
+               rdfs:range xsd:dateTime .
+
+
+###  http://schema.org/genre
+schema:genre rdf:type owl:DatatypeProperty ;
+             rdfs:domain schema:CreativeWork .
+
+
+###  http://schema.org/identifier
+schema:identifier rdf:type owl:DatatypeProperty ;
+                  rdfs:domain [ rdf:type owl:Class ;
+                                owl:unionOf ( bf:Item
+                                              schema:Movie
+                                              schema:MusicRecording
+                                              schema:Person
+                                            )
+                              ] .
+
+
+###  http://schema.org/inLanguage
+schema:inLanguage rdf:type owl:DatatypeProperty ;
+                  rdfs:domain schema:CreativeWork ;
+                  rdfs:range xsd:string .
+
+
+###  http://schema.org/isbn
+schema:isbn rdf:type owl:DatatypeProperty ;
+            rdfs:domain bf:Instance ,
+                        schema:Book ;
+            rdfs:range xsd:string .
+
+
+###  http://schema.org/issn
+schema:issn rdf:type owl:DatatypeProperty ;
+            rdfs:domain bf:Instance ,
+                        schema:Periodical ;
+            rdfs:range xsd:string .
+
+
+###  http://schema.org/lyrics
+schema:lyrics rdf:type owl:DatatypeProperty ;
+              rdfs:domain schema:MusicComposition .
+
+
+###  http://schema.org/maximumAttendeeCapacity
+schema:maximumAttendeeCapacity rdf:type owl:DatatypeProperty ;
+                               rdfs:domain schema:Event ;
+                               rdfs:range xsd:integer .
+
+
+###  http://schema.org/name
+schema:name rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf rdfs:label ;
+            rdfs:domain schema:Thing .
+
+
+###  http://schema.org/numberOfPages
+schema:numberOfPages rdf:type owl:DatatypeProperty ;
+                     rdfs:domain [ rdf:type owl:Class ;
+                                   owl:unionOf ( bf:Instance
+                                                 schema:Article
+                                                 schema:Book
+                                                 schema:Thesis
+                                               )
+                                 ] ;
+                     rdfs:range xsd:integer .
+
+
+###  http://schema.org/startDate
+schema:startDate rdf:type owl:DatatypeProperty ;
+                 rdfs:domain schema:Event ;
+                 rdfs:range xsd:dateTime .
+
+
+###  http://schema.org/url
+schema:url rdf:type owl:DatatypeProperty ;
+           rdfs:domain schema:Thing ;
+           rdfs:range xsd:anyURI .
+
+
+###  http://www.iai.spk-berlin.de/tbox#attendeeCount
+iai:attendeeCount rdf:type owl:DatatypeProperty ;
+                  rdfs:domain schema:Event ;
+                  rdfs:range xsd:integer .
+
+
+###  http://www.iai.spk-berlin.de/tbox#awardYear
+iai:awardYear rdf:type owl:DatatypeProperty ;
+              rdfs:domain iai:Award ;
+              rdfs:range xsd:gYear .
+
+
+###  http://www.iai.spk-berlin.de/tbox#readerCount
+iai:readerCount rdf:type owl:DatatypeProperty ;
+                rdfs:domain [ rdf:type owl:Class ;
+                              owl:unionOf ( bf:Instance
+                                            bf:Item
+                                            schema:Book
+                                          )
+                            ] ;
+                rdfs:range xsd:integer .
+
+
+###  http://www.w3.org/2000/01/rdf-schema#label
+rdfs:label rdf:type owl:DatatypeProperty ;
+           rdfs:domain schema:Thing .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://id.loc.gov/ontologies/bibframe/Instance
+bf:Instance rdf:type owl:Class ;
+            rdfs:subClassOf schema:CreativeWork ;
+            owl:disjointWith bf:Item ,
+                             bf:Work .
+
+
+###  http://id.loc.gov/ontologies/bibframe/Item
+bf:Item rdf:type owl:Class ;
+        rdfs:subClassOf schema:Thing .
+
+
+###  http://id.loc.gov/ontologies/bibframe/Work
+bf:Work rdf:type owl:Class ;
+        rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/AdministrativeArea
+schema:AdministrativeArea rdf:type owl:Class ;
+                          rdfs:subClassOf schema:Place .
+
+
+###  http://schema.org/ArchiveComponent
+schema:ArchiveComponent rdf:type owl:Class ;
+                        rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/Article
+schema:Article rdf:type owl:Class ;
+               rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/Book
+schema:Book rdf:type owl:Class ;
+            rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/Country
+schema:Country rdf:type owl:Class ;
+               rdfs:subClassOf schema:AdministrativeArea .
+
+
+###  http://schema.org/CreativeWork
+schema:CreativeWork rdf:type owl:Class ;
+                    rdfs:subClassOf schema:Thing .
+
+
+###  http://schema.org/CreativeWorkSeries
+schema:CreativeWorkSeries rdf:type owl:Class ;
+                          rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/EducationEvent
+schema:EducationEvent rdf:type owl:Class ;
+                      rdfs:subClassOf schema:Event .
+
+
+###  http://schema.org/EducationalOrganization
+schema:EducationalOrganization rdf:type owl:Class ;
+                               rdfs:subClassOf schema:Organization .
+
+
+###  http://schema.org/Event
+schema:Event rdf:type owl:Class ;
+             rdfs:subClassOf schema:Thing .
+
+
+###  http://schema.org/ExhibitionEvent
+schema:ExhibitionEvent rdf:type owl:Class ;
+                       rdfs:subClassOf schema:Event .
+
+
+###  http://schema.org/GovernmentOrganization
+schema:GovernmentOrganization rdf:type owl:Class ;
+                              rdfs:subClassOf schema:Organization .
+
+
+###  http://schema.org/Library
+schema:Library rdf:type owl:Class ;
+               rdfs:subClassOf schema:Organization .
+
+
+###  http://schema.org/LiteraryEvent
+schema:LiteraryEvent rdf:type owl:Class ;
+                     rdfs:subClassOf schema:Event .
+
+
+###  http://schema.org/MediaObject
+schema:MediaObject rdf:type owl:Class ;
+                   rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/Movie
+schema:Movie rdf:type owl:Class ;
+             rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/MusicComposition
+schema:MusicComposition rdf:type owl:Class ;
+                        rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/MusicGroup
+schema:MusicGroup rdf:type owl:Class ;
+                  rdfs:subClassOf schema:PerformingGroup .
+
+
+###  http://schema.org/MusicRecording
+schema:MusicRecording rdf:type owl:Class ;
+                      rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/Organization
+schema:Organization rdf:type owl:Class ;
+                    rdfs:subClassOf schema:Thing ;
+                    owl:disjointWith schema:Person .
+
+
+###  http://schema.org/PerformingGroup
+schema:PerformingGroup rdf:type owl:Class ;
+                       rdfs:subClassOf schema:Organization .
+
+
+###  http://schema.org/Periodical
+schema:Periodical rdf:type owl:Class ;
+                  rdfs:subClassOf schema:CreativeWorkSeries .
+
+
+###  http://schema.org/Person
+schema:Person rdf:type owl:Class ;
+              rdfs:subClassOf schema:Thing ;
+              owl:disjointWith iai:FictionalCharacter .
+
+
+###  http://schema.org/Place
+schema:Place rdf:type owl:Class ;
+             rdfs:subClassOf schema:Thing .
+
+
+###  http://schema.org/Project
+schema:Project rdf:type owl:Class ;
+               rdfs:subClassOf schema:Organization .
+
+
+###  http://schema.org/Review
+schema:Review rdf:type owl:Class ;
+              rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/ScholarlyArticle
+schema:ScholarlyArticle rdf:type owl:Class ;
+                        rdfs:subClassOf schema:Article .
+
+
+###  http://schema.org/ScreeningEvent
+schema:ScreeningEvent rdf:type owl:Class ;
+                      rdfs:subClassOf schema:Event .
+
+
+###  http://schema.org/SocialEvent
+schema:SocialEvent rdf:type owl:Class ;
+                   rdfs:subClassOf schema:Event .
+
+
+###  http://schema.org/TVSeries
+schema:TVSeries rdf:type owl:Class ;
+                rdfs:subClassOf schema:CreativeWorkSeries .
+
+
+###  http://schema.org/Thesis
+schema:Thesis rdf:type owl:Class ;
+              rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://schema.org/Thing
+schema:Thing rdf:type owl:Class .
+
+
+###  http://schema.org/VideoObject
+schema:VideoObject rdf:type owl:Class ;
+                   rdfs:subClassOf schema:MediaObject .
+
+
+###  http://schema.org/VisualArtwork
+schema:VisualArtwork rdf:type owl:Class ;
+                     rdfs:subClassOf schema:CreativeWork .
+
+
+###  http://www.iai.spk-berlin.de/tbox#Author
+iai:Author rdf:type owl:Class ;
+           owl:equivalentClass [ owl:intersectionOf ( schema:Person
+                                                      [ rdf:type owl:Restriction ;
+                                                        owl:onProperty [ owl:inverseOf schema:author
+                                                                       ] ;
+                                                        owl:someValuesFrom schema:CreativeWork
+                                                      ]
+                                                    ) ;
+                                 rdf:type owl:Class
+                               ] ;
+           rdfs:subClassOf schema:Person .
+
+
+###  http://www.iai.spk-berlin.de/tbox#Award
+iai:Award rdf:type owl:Class ;
+          rdfs:subClassOf schema:Thing .
+
+
+###  http://www.iai.spk-berlin.de/tbox#Director
+iai:Director rdf:type owl:Class ;
+             owl:equivalentClass [ owl:intersectionOf ( schema:Person
+                                                        [ rdf:type owl:Restriction ;
+                                                          owl:onProperty [ owl:inverseOf schema:director
+                                                                         ] ;
+                                                          owl:someValuesFrom [ rdf:type owl:Class ;
+                                                                               owl:unionOf ( schema:Movie
+                                                                                             iai:TheatricalAdaptation
+                                                                                           )
+                                                                             ]
+                                                        ]
+                                                      ) ;
+                                   rdf:type owl:Class
+                                 ] ;
+             rdfs:subClassOf schema:Person .
+
+
+###  http://www.iai.spk-berlin.de/tbox#FictionalCharacter
+iai:FictionalCharacter rdf:type owl:Class ;
+                       rdfs:subClassOf schema:Thing .
+
+
+###  http://www.iai.spk-berlin.de/tbox#LiteraryMovement
+iai:LiteraryMovement rdf:type owl:Class ;
+                     rdfs:subClassOf schema:Thing .
+
+
+###  http://www.iai.spk-berlin.de/tbox#Musician
+iai:Musician rdf:type owl:Class ;
+             owl:equivalentClass [ rdf:type owl:Class ;
+                                   owl:unionOf ( [ owl:intersectionOf ( schema:Person
+                                                                        [ rdf:type owl:Restriction ;
+                                                                          owl:onProperty [ owl:inverseOf schema:byArtist
+                                                                                         ] ;
+                                                                          owl:someValuesFrom schema:MusicRecording
+                                                                        ]
+                                                                      ) ;
+                                                   rdf:type owl:Class
+                                                 ]
+                                                 [ rdf:type owl:Restriction ;
+                                                   owl:onProperty [ owl:inverseOf schema:composer
+                                                                  ] ;
+                                                   owl:someValuesFrom schema:MusicComposition
+                                                 ]
+                                               )
+                                 ] ;
+             rdfs:subClassOf schema:Person .
+
+
+###  http://www.iai.spk-berlin.de/tbox#TheatricalAdaptation
+iai:TheatricalAdaptation rdf:type owl:Class ;
+                         rdfs:subClassOf schema:CreativeWork .
+
+
+#################################################################
+#    Rules
+#################################################################
+
+<w> rdf:type <http://www.w3.org/2003/11/swrl#Variable> .
+
+<p1> rdf:type <http://www.w3.org/2003/11/swrl#Variable> .
+
+<p2> rdf:type <http://www.w3.org/2003/11/swrl#Variable> .
+
+<a> rdf:type <http://www.w3.org/2003/11/swrl#Variable> .
+
+<mov> rdf:type <http://www.w3.org/2003/11/swrl#Variable> .
+
+<b> rdf:type <http://www.w3.org/2003/11/swrl#Variable> .
+
+[ <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled> "true"^^xsd:boolean ;
+   rdfs:comment "Influencia de movimientos literarios por mentoría" ;
+   rdfs:label "InferencedMovInfluence" ;
+   rdf:type <http://www.w3.org/2003/11/swrl#Imp> ;
+   <http://www.w3.org/2003/11/swrl#body> [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                           rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#ClassAtom> ;
+                                                       <http://www.w3.org/2003/11/swrl#classPredicate> schema:Person ;
+                                                       <http://www.w3.org/2003/11/swrl#argument1> <a>
+                                                     ] ;
+                                           rdf:rest [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                                      rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#IndividualPropertyAtom> ;
+                                                                  <http://www.w3.org/2003/11/swrl#propertyPredicate> schema:memberOf ;
+                                                                  <http://www.w3.org/2003/11/swrl#argument1> <a> ;
+                                                                  <http://www.w3.org/2003/11/swrl#argument2> <mov>
+                                                                ] ;
+                                                      rdf:rest [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                                                 rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#IndividualPropertyAtom> ;
+                                                                             <http://www.w3.org/2003/11/swrl#propertyPredicate> iai:mentorOf ;
+                                                                             <http://www.w3.org/2003/11/swrl#argument1> <a> ;
+                                                                             <http://www.w3.org/2003/11/swrl#argument2> <b>
+                                                                           ] ;
+                                                                 rdf:rest rdf:nil
+                                                               ]
+                                                    ]
+                                         ] ;
+   <http://www.w3.org/2003/11/swrl#head> [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                           rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#IndividualPropertyAtom> ;
+                                                       <http://www.w3.org/2003/11/swrl#propertyPredicate> iai:influencedBy ;
+                                                       <http://www.w3.org/2003/11/swrl#argument1> <b> ;
+                                                       <http://www.w3.org/2003/11/swrl#argument2> <a>
+                                                     ] ;
+                                           rdf:rest rdf:nil
+                                         ]
+ ] .
+
+[ <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled> "true"^^xsd:boolean ;
+   rdfs:comment "Inferencia razonada de iai:collaboratesWith" ;
+   rdfs:label "InferencedCollab" ;
+   rdf:type <http://www.w3.org/2003/11/swrl#Imp> ;
+   <http://www.w3.org/2003/11/swrl#body> [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                           rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#ClassAtom> ;
+                                                       <http://www.w3.org/2003/11/swrl#classPredicate> schema:CreativeWork ;
+                                                       <http://www.w3.org/2003/11/swrl#argument1> <w>
+                                                     ] ;
+                                           rdf:rest [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                                      rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#IndividualPropertyAtom> ;
+                                                                  <http://www.w3.org/2003/11/swrl#propertyPredicate> schema:author ;
+                                                                  <http://www.w3.org/2003/11/swrl#argument1> <w> ;
+                                                                  <http://www.w3.org/2003/11/swrl#argument2> <p1>
+                                                                ] ;
+                                                      rdf:rest [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                                                 rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#IndividualPropertyAtom> ;
+                                                                             <http://www.w3.org/2003/11/swrl#propertyPredicate> schema:author ;
+                                                                             <http://www.w3.org/2003/11/swrl#argument1> <w> ;
+                                                                             <http://www.w3.org/2003/11/swrl#argument2> <p2>
+                                                                           ] ;
+                                                                 rdf:rest [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                                                            rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#DifferentIndividualsAtom> ;
+                                                                                        <http://www.w3.org/2003/11/swrl#argument1> <p1> ;
+                                                                                        <http://www.w3.org/2003/11/swrl#argument2> <p2>
+                                                                                      ] ;
+                                                                            rdf:rest rdf:nil
+                                                                          ]
+                                                               ]
+                                                    ]
+                                         ] ;
+   <http://www.w3.org/2003/11/swrl#head> [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                           rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#IndividualPropertyAtom> ;
+                                                       <http://www.w3.org/2003/11/swrl#propertyPredicate> iai:collaboratesWith ;
+                                                       <http://www.w3.org/2003/11/swrl#argument1> <p1> ;
+                                                       <http://www.w3.org/2003/11/swrl#argument2> <p2>
+                                                     ] ;
+                                           rdf:rest rdf:nil
+                                         ]
+ ] .
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

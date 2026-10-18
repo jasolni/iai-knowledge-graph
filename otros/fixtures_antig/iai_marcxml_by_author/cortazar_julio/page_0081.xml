@@ -1,0 +1,2700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>487</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">091578566</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260609220433.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">060130s2006    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">06,N05,2373</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">06,N05,2373</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">977873838</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3518457896</subfield>
+    <subfield code="q">Pb. : ca. EUR 7.50, ca. EUR 7.80 (AT), ca. sfr 13.90</subfield>
+    <subfield code="9">3-518-45789-6</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783518457894</subfield>
+    <subfield code="9">978-3-518-45789-4</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783518457894</subfield>
+  </datafield>
+  <datafield tag="028" ind1="5" ind2="2">
+    <subfield code="a">45789</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)091578566</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)252366603</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV091578566</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)180016786</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-605)HT014624048</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(AT-OBV)AC05769856</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-478)952351452</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-HE</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">860</subfield>
+    <subfield code="q">BSZ</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">B</subfield>
+    <subfield code="q">BSZ</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">860</subfield>
+    <subfield code="a">B</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Zba</subfield>
+    <subfield code="2">asb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ZAA</subfield>
+    <subfield code="2">ssd</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">S</subfield>
+    <subfield code="2">sfb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">R 11</subfield>
+    <subfield code="2">kab</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 72220</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11639</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cuentos completos &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Liebesgeschichten</subfield>
+    <subfield code="c">Julio CortÃ¡zar. Aus dem Span. von Rudolf Wittkopf. Ausgew. von Michi Strausfeld</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Dt. Erstausg., 1. Aufl.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+    <subfield code="c">c 2006</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">189 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Suhrkamp-Taschenbuch</subfield>
+    <subfield code="v">3789</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prÃ¼fen</subfield>
+    <subfield code="c">20231104</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">2</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prÃ¼fen</subfield>
+    <subfield code="c">20240324</subfield>
+    <subfield code="f">DE-4165</subfield>
+    <subfield code="z">2</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Anthologie</subfield>
+    <subfield code="0">(DE-588)4002214-6</subfield>
+    <subfield code="0">(DE-627)106394134</subfield>
+    <subfield code="0">(DE-576)208846182</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4167620-8</subfield>
+    <subfield code="0">(DE-627)104324627</subfield>
+    <subfield code="0">(DE-576)209910003</subfield>
+    <subfield code="a">Liebesgeschichte</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Strausfeld, Michi</subfield>
+    <subfield code="d">1945-</subfield>
+    <subfield code="e">Hrsg.</subfield>
+    <subfield code="0">(DE-588)122127951</subfield>
+    <subfield code="0">(DE-627)081753500</subfield>
+    <subfield code="0">(DE-576)165194545</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Wittkopf, Rudolf</subfield>
+    <subfield code="d">1933-1997</subfield>
+    <subfield code="e">Ãbers.</subfield>
+    <subfield code="0">(DE-588)128755059</subfield>
+    <subfield code="0">(DE-627)379130831</subfield>
+    <subfield code="0">(DE-576)163602239</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="t">Cuentos completos &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/hbz/toc/ht014624048.pdf</subfield>
+    <subfield code="m">V:DE-605</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="v">2008-11-15</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">892190728</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 08 / 16571</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 72220</subfield>
+    <subfield code="b">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewÃ¤hlte Anonyma</subfield>
+    <subfield code="k">Autoren C</subfield>
+    <subfield code="k">CortÃ¡zar, Julio</subfield>
+    <subfield code="k">Gesammelte Werke und Einzelwerke</subfield>
+    <subfield code="0">(DE-627)1271290154</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11639</subfield>
+    <subfield code="0">(DE-576)201290154</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur auÃerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>81</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cgm a22      c 4500</leader>
+  <controlfield tag="001">71658848X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240831234336.0</controlfield>
+  <controlfield tag="007">vd uvuuuu</controlfield>
+  <controlfield tag="008">120531s2005    ag ||| |      |   v|spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)71658848X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV71658848X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+    <subfield code="a">fre</subfield>
+    <subfield code="j">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">AP 52600</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/7717:</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">AP 59485</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/7791:745</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 72221</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11640</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">CortÃ¡zar</subfield>
+    <subfield code="c">un film de TristÃ¡n Bauer ; [text: Julio CortÃ¡zar, Jorge Denti ; production: VerÃ³nica Cura ; photography: Marcelo Camorino ; narration: Julio CortÃ¡zar, Alfredo AlcÃ³n]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">Blakman</subfield>
+    <subfield code="c">[2005?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 DVD-Video (NTSC, 85 min.)</subfield>
+    <subfield code="b">farbig, schwarz-weiÃ</subfield>
+    <subfield code="c">12 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">zweidimensionales bewegtes Bild</subfield>
+    <subfield code="b">tdi</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">video</subfield>
+    <subfield code="b">v</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Videodisk</subfield>
+    <subfield code="b">vd</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Films de colecciÃ³n Blakman--Video no Convencional</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Dokumentarfilm, Biografie</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Original: Argentinien 1994</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Julio CortÃ¡zar talks about life, literary work and ideology in this film which reconstructs his life using archival footage and sound recordings</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Sprachfassung: Spanisch, FranzÃ¶sisch - Untertitel: Spanisch</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="v">Interviews</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Argentine</subfield>
+    <subfield code="y">20th century</subfield>
+    <subfield code="v">Biography</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Argentine</subfield>
+    <subfield code="y">20th century</subfield>
+    <subfield code="v">Interviews</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Film</subfield>
+    <subfield code="0">(DE-588)4017102-4</subfield>
+    <subfield code="0">(DE-627)104559683</subfield>
+    <subfield code="0">(DE-576)208918531</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">DVD-Video</subfield>
+    <subfield code="0">(DE-588)4585125-6</subfield>
+    <subfield code="0">(DE-627)325263515</subfield>
+    <subfield code="0">(DE-576)213973456</subfield>
+    <subfield code="2">gnd-carrier</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bauer, TristÃ¡n</subfield>
+    <subfield code="d">1959-</subfield>
+    <subfield code="e">FilmregisseurIn</subfield>
+    <subfield code="e">DrehbuchautorIn</subfield>
+    <subfield code="0">(DE-588)141477563</subfield>
+    <subfield code="0">(DE-627)703988247</subfield>
+    <subfield code="0">(DE-576)324052774</subfield>
+    <subfield code="4">fmd</subfield>
+    <subfield code="4">aus</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Denti, Jorge</subfield>
+    <subfield code="d">1943-</subfield>
+    <subfield code="e">DrehbuchautorIn</subfield>
+    <subfield code="0">(DE-588)1061303497</subfield>
+    <subfield code="0">(DE-627)805726462</subfield>
+    <subfield code="0">(DE-576)418217521</subfield>
+    <subfield code="4">aus</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cura, Veronica</subfield>
+    <subfield code="e">FilmproduzentIn</subfield>
+    <subfield code="0">(DE-588)1061504360</subfield>
+    <subfield code="0">(DE-627)805910867</subfield>
+    <subfield code="0">(DE-576)418015414</subfield>
+    <subfield code="4">fmp</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Camorino, Marcelo</subfield>
+    <subfield code="e">Kameramann/Kamerafrau</subfield>
+    <subfield code="0">(DE-588)139986375</subfield>
+    <subfield code="0">(DE-627)703527975</subfield>
+    <subfield code="0">(DE-576)314075356</subfield>
+    <subfield code="4">cng</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">AlcÃ³n, Alfredo</subfield>
+    <subfield code="d">1930-</subfield>
+    <subfield code="e">ErzÃ¤hlerIn</subfield>
+    <subfield code="0">(DE-588)132213869</subfield>
+    <subfield code="0">(DE-627)519084802</subfield>
+    <subfield code="4">nrt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="e">GefeierteR</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">ive</subfield>
+    <subfield code="4">hnr</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Instituto Nacional de Cine y Artes Audiovisuales</subfield>
+    <subfield code="g">Buenos Aires</subfield>
+    <subfield code="0">(DE-588)6510918-1</subfield>
+    <subfield code="0">(DE-627)514038489</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">FundaciÃ³n Banco Mercantil Argentino</subfield>
+    <subfield code="0">(DE-588)5189476-2</subfield>
+    <subfield code="0">(DE-627)219078580</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1303530333</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD 2012 / 123</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="c">vide</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">AP 52600</subfield>
+    <subfield code="b">Historischer und biografischer Film</subfield>
+    <subfield code="k">Allgemeines</subfield>
+    <subfield code="k">Medien- und Kommunikationswissenschaften, Kommunikationsdesign</subfield>
+    <subfield code="k">Film</subfield>
+    <subfield code="k">Spielfilm</subfield>
+    <subfield code="k">Historischer und biografischer Film</subfield>
+    <subfield code="0">(DE-627)1270690655</subfield>
+    <subfield code="0">(DE-625)rvk/7717:</subfield>
+    <subfield code="0">(DE-576)200690655</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">AP 59485</subfield>
+    <subfield code="b">Lateinamerika</subfield>
+    <subfield code="k">Allgemeines</subfield>
+    <subfield code="k">Medien- und Kommunikationswissenschaften, Kommunikationsdesign</subfield>
+    <subfield code="k">Film</subfield>
+    <subfield code="k">Film in einzelnen LÃ¤ndern</subfield>
+    <subfield code="k">Spielfilm</subfield>
+    <subfield code="k">Amerika, Indianische Welt</subfield>
+    <subfield code="k">Lateinamerika</subfield>
+    <subfield code="0">(DE-627)1273372425</subfield>
+    <subfield code="0">(DE-625)rvk/7791:745</subfield>
+    <subfield code="0">(DE-576)203372425</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 72221</subfield>
+    <subfield code="b">SekundÃ¤rliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewÃ¤hlte Anonyma</subfield>
+    <subfield code="k">Autoren C</subfield>
+    <subfield code="k">CortÃ¡zar, Julio</subfield>
+    <subfield code="k">SekundÃ¤rliteratur</subfield>
+    <subfield code="0">(DE-627)1271577860</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11640</subfield>
+    <subfield code="0">(DE-576)201577860</subfield>
+  </datafield>
+  <datafield tag="937" ind1=" " ind2=" ">
+    <subfield code="a">Dokumentarfilm, Biografie</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>82</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">51805778X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20130618182348.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">060927s2005    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)51805778X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Intimidad de los parques</subfield>
+    <subfield code="c">de Manuel AntÃ­n. Francisco Rabal; Dora Baret; Ricardo Blume. AdaptaciÃ³n de los cuentos "El Ã­dolo de las cÃ­cladas" y "Continuidad de los parques" del libro "Final del juego" de Julio CortÃ¡zar</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Intimidades</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">El Ã­dolo de las cicladas</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Continuidad de los parques</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Final del juego</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="c">[ca. 2005]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 DVD-Video (70 min.)</subfield>
+    <subfield code="c">12 cm, in BehÃ¤ltnis 19 x 14 x 2 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Argentinien 1964</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">AntÃ­n, Manuel</subfield>
+    <subfield code="d">1926-</subfield>
+    <subfield code="0">(DE-588)1018674462</subfield>
+    <subfield code="0">(DE-627)690654138</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rabal, Francisco</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Baret, Dora</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Blume, Ricardo</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">778949249</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD 2006 / 69</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>83</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">517991403</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20140808163345.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">060926s2005    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)517991403</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Circe</subfield>
+    <subfield code="c">by Manuel AntÃ­n. With Graciela Borges; Alberto Argibay, Sergio RenÃ¡n ... From the short-story of Julio CortÃ¡zar</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">S.l. [Argentina]</subfield>
+    <subfield code="c">[ca. 2005]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 DVD-Video (90 min.)</subfield>
+    <subfield code="c">12 cm, in BehÃ¤ltnis 19 x 14 x 2 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Argentinien 1963</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Sprache: span. Untertitel: engl.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">AntÃ­n, Manuel</subfield>
+    <subfield code="d">1926-</subfield>
+    <subfield code="0">(DE-588)1018674462</subfield>
+    <subfield code="0">(DE-627)690654138</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Borges, Graciela</subfield>
+    <subfield code="d">1941-</subfield>
+    <subfield code="0">(DE-588)132263254</subfield>
+    <subfield code="0">(DE-627)519681487</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Argibay, Alberto</subfield>
+    <subfield code="d">1932-</subfield>
+    <subfield code="0">(DE-588)13222416X</subfield>
+    <subfield code="0">(DE-627)519166825</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">RenÃ¡n, Sergio</subfield>
+    <subfield code="0">(DE-588)141473517</subfield>
+    <subfield code="0">(DE-627)627802974</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">778921050</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD 2006 / 70</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>84</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">515564192</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20130618182348.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">060815s2005    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)515564192</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="3">
+    <subfield code="a">La cifra impar</subfield>
+    <subfield code="c">un film de Manuel AntÃ­n [segÃºn el cuento "Cartas de mamÃ¡" de Julio CortÃ¡zar]. Interpretada por Lautaro MurÃºa; Sergio RenÃ¡n; Maria Rosa Gallo ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Cartas de mamÃ¡</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">S.l. [Argentina]</subfield>
+    <subfield code="c">[ca. 2005]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 DVD-Video</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Argentinien 1960 [1962]</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Untertitel: engl.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">AntÃ­n, Manuel</subfield>
+    <subfield code="d">1926-</subfield>
+    <subfield code="0">(DE-588)1018674462</subfield>
+    <subfield code="0">(DE-627)690654138</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">MurÃºa, Lautaro</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">RenÃ¡n, Sergio</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Gallo, Maria Rosa</subfield>
+    <subfield code="4">prf</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">778956261</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD 2006 / 67</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>85</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">498480372</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260615212944.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">050909s2005    xxu|||||      00| ||eng c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">  2005923938</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">0974968064</subfield>
+    <subfield code="9">0-9749680-6-4</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)498480372</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV498480372</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-US</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7797.C7145</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863.64</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Diario de AndrÃ©s Fava &lt;engl.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Diary of AndrÃ©s Fava</subfield>
+    <subfield code="c">Julio CortÃ¡zar ; translated from the Spanish by Anne McLean</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1.ed</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Brooklyn, NY</subfield>
+    <subfield code="b">Archipelago Books</subfield>
+    <subfield code="c">c2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">103 S</subfield>
+    <subfield code="c">18 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Translated from the Spanish</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">McLean, Anne</subfield>
+    <subfield code="d">1962-</subfield>
+    <subfield code="0">(DE-588)114665099X</subfield>
+    <subfield code="0">(DE-627)1008091308</subfield>
+    <subfield code="0">(DE-576)18886721X</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/498480372.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2010-01-14</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.loc.gov/catdir/enhancements/fy1007/2005923938-d.html</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Verlagsangaben</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.loc.gov/catdir/enhancements/fy1007/2005923938-b.html</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Autorenbiografie</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.loc.gov/catdir/enhancements/fy1311/2005923938-s.html</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Sample text</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">735939705</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 05 / 10732</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>86</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cgm a22      c 4500</leader>
+  <controlfield tag="001">1898463069</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260612224155.0</controlfield>
+  <controlfield tag="007">vd uvuuuu</controlfield>
+  <controlfield tag="008">240812s2004    sp ||| |      |   v|spa c</controlfield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">8431588083956</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1898463069</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP1898463069</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7797.C714</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="q">OCoLC</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Julio CortÃ¡zar</subfield>
+    <subfield code="b">grandes personajes a fondo</subfield>
+    <subfield code="c">[direcciÃ³n y presentaciÃ³n: JoaquÃ­n Soler Serrano ; realizaciÃ³n: Ricardo Arias]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Barcelona]</subfield>
+    <subfield code="b">Editrama</subfield>
+    <subfield code="c">[2004]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Madrid]</subfield>
+    <subfield code="b">Gran VÃ­a Musical de Ediciones</subfield>
+    <subfield code="b">Impulso Records</subfield>
+    <subfield code="c">[2004]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">Â© 2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 DVD-Video (127 min)</subfield>
+    <subfield code="b">PAL, schwarz-weiss, Stereo 2.0, Regionalcode: 0</subfield>
+    <subfield code="c">12 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">zweidimensionales bewegtes Bild</subfield>
+    <subfield code="b">tdi</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">video</subfield>
+    <subfield code="b">v</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Videodisk</subfield>
+    <subfield code="b">vd</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Grandes personajes A fondo</subfield>
+    <subfield code="v">3</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">La memoria de las letras, las artes y las ciencias. EspaÃ±a e HispanoamÃ©rica</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bildformat: 4:3</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">EnthÃ¤lt Extras</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Altersfreigabe Spanien: Para todos los pÃºblicos</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Interview. Spanien</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Fernsehmitschnitt, Original: RadiotelevisiÃ³n EspaÃ±ola 1977</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">JoaquÃ­n Soler Serrano interviews Argentinian writer Julio CortÃ¡zar on the Spanish television program A fondo: March 20, 1977.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="v">Interviews</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="4">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="0">(OCoLC)fst00033471</subfield>
+  </datafield>
+  <datafield tag="648" ind1=" " ind2="4">
+    <subfield code="a">1900-1999</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Argentine</subfield>
+    <subfield code="y">20th century</subfield>
+    <subfield code="v">Interviews</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Documentary films</subfield>
+    <subfield code="z">Spain</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Ãcrivains argentins - 20e siÃ¨cle - Entretiens</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Authors, Argentine</subfield>
+    <subfield code="0">(OCoLC)fst00821801</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Documentary films</subfield>
+    <subfield code="0">(OCoLC)fst00896079</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Interviews</subfield>
+    <subfield code="0">(OCoLC)fst01423832</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="4">
+    <subfield code="a">Spain</subfield>
+    <subfield code="0">(OCoLC)fst01204303</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">DVD-video discs</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Film</subfield>
+    <subfield code="0">(DE-588)4017102-4</subfield>
+    <subfield code="0">(DE-627)104559683</subfield>
+    <subfield code="0">(DE-576)208918531</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Interview</subfield>
+    <subfield code="0">(DE-588)4027503-6</subfield>
+    <subfield code="0">(DE-627)104767812</subfield>
+    <subfield code="0">(DE-576)208971211</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">DVD-Video</subfield>
+    <subfield code="0">(DE-588)4585125-6</subfield>
+    <subfield code="0">(DE-627)325263515</subfield>
+    <subfield code="0">(DE-576)213973456</subfield>
+    <subfield code="2">gnd-carrier</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4154057-8</subfield>
+    <subfield code="0">(DE-627)105526274</subfield>
+    <subfield code="0">(DE-576)209808322</subfield>
+    <subfield code="a">Fernsehinterview</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="e">InterviewteR</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">ive</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Soler Serrano, JoaquÃ­n</subfield>
+    <subfield code="d">1919-2010</subfield>
+    <subfield code="e">InterviewerIn</subfield>
+    <subfield code="e">GeistigeR SchÃ¶pferIn</subfield>
+    <subfield code="0">(DE-588)1057072370</subfield>
+    <subfield code="0">(DE-627)795133960</subfield>
+    <subfield code="0">(DE-576)413788016</subfield>
+    <subfield code="4">ivr</subfield>
+    <subfield code="4">cre</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Arias, Ricardo</subfield>
+    <subfield code="e">FernsehregisseurIn</subfield>
+    <subfield code="4">tld</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4547386080</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">DVD 2024 / 115</subfield>
+    <subfield code="h">PHV</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="c">vide</subfield>
+  </datafield>
+  <datafield tag="937" ind1=" " ind2=" ">
+    <subfield code="a">Interview</subfield>
+    <subfield code="b">Spanien</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>87</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1725513420</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20220706143548.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">200724s2004    ck |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">8482804030</subfield>
+    <subfield code="9">84-8280-403-0</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1725513420</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KXP1725513420</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-CO</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Rayuela</subfield>
+    <subfield code="c">Julio CortÃ¡zar</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Cali, Colombia</subfield>
+    <subfield code="b">Ediciones Guajiro</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">493 Seiten</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">https://www.gbv.de/dms/spk/iai/cov/1725513420.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2022-06-29</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3729185276</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 20 / 9719</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>88</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1615434321</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260611203513.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">030909s2004    xxu||||| b    00| ||eng c</controlfield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">007153287</subfield>
+    <subfield code="2">UK</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">0791459551</subfield>
+    <subfield code="q">hc : alk. paper</subfield>
+    <subfield code="9">0-7914-5955-1</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">079145956X</subfield>
+    <subfield code="q">(pbk. : alk. paper)</subfield>
+    <subfield code="9">0-7914-5956-X</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">2003052615</subfield>
+    <subfield code="q">Identnummer</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1615434321</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-603)118340042</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)115364021</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ115364021</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)52216265</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-604)BV017154329</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-US</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7797.C7145</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7797.C7145</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7797.C7145Z7758 2003</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7797</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863.64</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863.64</subfield>
+    <subfield code="2">DDC22eng</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">IQ 72221</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11640</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schmidt-Cruz, Cynthia</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)1056492600</subfield>
+    <subfield code="0">(DE-627)794750702</subfield>
+    <subfield code="0">(DE-576)412399865</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Mothers, lovers, and others</subfield>
+    <subfield code="b">the short stories of Julio CortÃ¡zar</subfield>
+    <subfield code="c">Cynthia Schmidt-Cruz</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Albany</subfield>
+    <subfield code="b">State University of New York Press</subfield>
+    <subfield code="c">[2004]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">Â© 2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xii, 209 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">24 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">SUNY series in Latin American and Iberian thought and culture</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Literaturverzeichnis: Seite 187-200</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">Bibliogr. und Literaturverz. Julio CortÃ¡zar S. 187 - 200</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prÃ¼fen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prÃ¼fen</subfield>
+    <subfield code="c">20240324</subfield>
+    <subfield code="f">DE-4165</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewÃ¤hrleistet</subfield>
+    <subfield code="c">20240722</subfield>
+    <subfield code="f">NI-LastCopies</subfield>
+    <subfield code="x">XA-DE-NI</subfield>
+    <subfield code="z">Potenzieller Alleinbesitz Niedersachsen</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-89</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="x">Criticism and interpretation</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="7">
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Women in literature</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="0">(DE-588)4033842-3</subfield>
+    <subfield code="0">(DE-627)10625569X</subfield>
+    <subfield code="0">(DE-576)209003774</subfield>
+    <subfield code="a">Kurzgeschichte</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Individual fiction writers-crit</subfield>
+    <subfield code="0">(Blackwell)17150670</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">CortÃ¡zar, Julio--Criticism and interpretation</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">PQ 7000-8929 Spanish lit-local</subfield>
+    <subfield code="0">(Blackwell)97583735</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4">
+    <subfield code="a">Women in literature</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Bibliografie</subfield>
+    <subfield code="0">(DE-588)4006432-3</subfield>
+    <subfield code="0">(DE-627)104814519</subfield>
+    <subfield code="0">(DE-576)208865578</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4033842-3</subfield>
+    <subfield code="0">(DE-627)10625569X</subfield>
+    <subfield code="0">(DE-576)209003774</subfield>
+    <subfield code="a">Kurzgeschichte</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="e">Sonstige Person, Familie und KÃ¶rperschaft</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.loc.gov/catdir/toc/fy045/2003052615.html</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Table of contents</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)399707271</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)370118049</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">677956274</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 04 / 6258</subfield>
+    <subfield code="g">A 04::6258</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">mdedup</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">IQ 72221</subfield>
+    <subfield code="b">SekundÃ¤rliteratur</subfield>
+    <subfield code="k">Romanistik</subfield>
+    <subfield code="k">Lateinamerikanische Literaturen</subfield>
+    <subfield code="k">Argentinien</subfield>
+    <subfield code="k">Literaturgeschichte und Interpretation</subfield>
+    <subfield code="k">Einzelne Autoren und ausgewÃ¤hlte Anonyma</subfield>
+    <subfield code="k">Autoren C</subfield>
+    <subfield code="k">CortÃ¡zar, Julio</subfield>
+    <subfield code="k">SekundÃ¤rliteratur</subfield>
+    <subfield code="0">(DE-627)1271577860</subfield>
+    <subfield code="0">(DE-625)rvk/65940:11640</subfield>
+    <subfield code="0">(DE-576)201577860</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur auÃerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="936" ind1="s" ind2="n">
+    <subfield code="a">i100</subfield>
+    <subfield code="2">mzub</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>89</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      cb4500</leader>
+  <controlfield tag="001">731476344</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20151204000839.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">121206s2004    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)731476344</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Final del juego</subfield>
+    <subfield code="c">Julio CortÃ¡zar</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">Ministerio de EducaciÃ³n, Ciencia y TecnologÃ­a</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">8 S</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Latinoamerica lee</subfield>
+    <subfield code="v">[2] $ Argentina</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Argentinien</subfield>
+    <subfield code="b">Ministerio de EducaciÃ³n, Ciencia y TecnologÃ­a</subfield>
+    <subfield code="0">(DE-588)16059670-1</subfield>
+    <subfield code="0">(DE-627)622832042</subfield>
+    <subfield code="0">(DE-576)321164105</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2="8">
+    <subfield code="a">Los venenos y otros textos. In</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Latinoamerica lee</subfield>
+    <subfield code="v">[2] $ Argentina</subfield>
+    <subfield code="9">2.2004</subfield>
+    <subfield code="w">(DE-627)731476069</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1344616216</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 12 / 23221 : 2</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">MV</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>90</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">625308794</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20100527093833.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">100505s2004    mx |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9684112041</subfield>
+    <subfield code="9">968-411-204-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)625308794</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-MX</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lezama Lima, JosÃ©</subfield>
+    <subfield code="d">1910-1976</subfield>
+    <subfield code="0">(DE-588)118572547</subfield>
+    <subfield code="0">(DE-627)035171871</subfield>
+    <subfield code="0">(DE-576)161980317</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Paradiso</subfield>
+    <subfield code="c">JosÃ© Lezama Lima. Ilustraciones de RenÃ© Portocarrero</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. ed. en Biblioteca Era, 13. reimpr.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">MÃ©xico, DF</subfield>
+    <subfield code="b">Ed. Era</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">489 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Biblioteca Era</subfield>
+    <subfield code="v">32/14-1</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Portocarrero, RenÃ©</subfield>
+    <subfield code="d">1912-1985</subfield>
+    <subfield code="0">(DE-588)118826298</subfield>
+    <subfield code="0">(DE-627)079600751</subfield>
+    <subfield code="0">(DE-576)210081341</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Biblioteca Era</subfield>
+    <subfield code="v">32/14-1</subfield>
+    <subfield code="w">(DE-627)487951891</subfield>
+    <subfield code="w">(DE-600)2190504-6</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1159596034</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 10 / 9013</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>91</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     ckm a22      c 4500</leader>
+  <controlfield tag="001">605770700</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260707092315.0</controlfield>
+  <controlfield tag="007">kk |||</controlfield>
+  <controlfield tag="008">090731s2004    ag ||| |      |   ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)605770700</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV605770700</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">CortÃ¡zar</subfield>
+    <subfield code="b">Nuevo elogio de la locura : [fragmentos]</subfield>
+    <subfield code="c">CortÃ¡zar ; AsociaciÃ³n Madres de Plaza de Mayo</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">[Buenos Aires]</subfield>
+    <subfield code="b">AsociaciÃ³n Madres de Plaza de Mayo</subfield>
+    <subfield code="c">[2004?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 Blatt</subfield>
+    <subfield code="b">farbig</subfield>
+    <subfield code="c">42 x 32 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">unbewegtes Bild</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Blatt</subfield>
+    <subfield code="b">nb</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Plakat</subfield>
+    <subfield code="0">(DE-588)4046198-1</subfield>
+    <subfield code="0">(DE-627)104141603</subfield>
+    <subfield code="0">(DE-576)209068558</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="e">VerfasserIn von Zusatztexten</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">wat</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">AsociaciÃ³n Madres de Plaza de Mayo</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)5251563-1</subfield>
+    <subfield code="0">(DE-627)235253189</subfield>
+    <subfield code="0">(DE-576)196608457</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">944234704</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="g">P Arg ba CortÃ¡zar, Julio 1</subfield>
+    <subfield code="h">PS</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="c">bild</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>92</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">531308588</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20180316183350.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">070612s2004    sp |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)531308588</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-ES</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">20 aÃ±os sin CortÃ¡zar</subfield>
+    <subfield code="c">director: JosÃ© Manuel GarcÃ­a Gil</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Veinte aÃ±os sin CortÃ¡zar</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">CÃ¡diz</subfield>
+    <subfield code="b">DiputaciÃ³n de CÃ¡diz</subfield>
+    <subfield code="c">[2004]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">CÃ¡diz</subfield>
+    <subfield code="b">Universidad de Cadiz</subfield>
+    <subfield code="c">[2004]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">199 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Caleta</subfield>
+    <subfield code="v">2.a Ã©poca, 2004</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">NÃºmero monogrÃ¡fico de la Revista Caleta dedicado al autor argentino. Incluye articulos de Yurkievich, AndrÃ©s Neuman, Antonio MuÃ±oz Molina, JosÃ© Lezama Lima o Roberto FernÃ¡</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">GarcÃ­a Gil, JosÃ© Manuel</subfield>
+    <subfield code="d">1965-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="0">(DE-588)141535563</subfield>
+    <subfield code="0">(DE-627)629449015</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="e">GefeierteR</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">hnr</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Caleta</subfield>
+    <subfield code="v">2.a Ã©poca, 2004</subfield>
+    <subfield code="w">(DE-627)1006378987</subfield>
+    <subfield code="w">(DE-576)495914592</subfield>
+    <subfield code="w">(DE-600)2913185-6</subfield>
+    <subfield code="x">1135-5719</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1759758957</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">Z / 30555 : 2004</subfield>
+    <subfield code="h">MAZ</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>93</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      cc4500</leader>
+  <controlfield tag="001">513249338</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20200531230326.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">060615s2004    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9875504653</subfield>
+    <subfield code="9">987-550-465-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)513249338</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV513249338</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">Los mejores poemas de amor</subfield>
+    <subfield code="n">2</subfield>
+    <subfield code="p">Versiones completas</subfield>
+    <subfield code="c">Julio CortÃ¡zar ...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">Longseller</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">155 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">ClÃ¡sicos de siempre</subfield>
+    <subfield code="v">8</subfield>
+    <subfield code="a">PoesÃ­a</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Blumenfeld, Diana</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="w">(DE-627)513249133</subfield>
+    <subfield code="g">2</subfield>
+    <subfield code="q">2.2004</subfield>
+    <subfield code="7">nnam</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">ClÃ¡sicos de siempre</subfield>
+    <subfield code="v">8</subfield>
+    <subfield code="9">8</subfield>
+    <subfield code="w">(DE-627)545816246</subfield>
+    <subfield code="w">(DE-600)2390116-0</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">768462681</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 08 / 118 : 2</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">MV</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>94</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      ca4500</leader>
+  <controlfield tag="001">513249133</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20071001112033.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">060615m20049999ag |||||      00| ||spa c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)513249133</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">Los mejores poemas de amor</subfield>
+    <subfield code="c">Julio CortÃ¡zar ... Ed.: Diana Blumenfeld</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">Longseller</subfield>
+    <subfield code="c">2004-</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">ClÃ¡sicos de siempre</subfield>
+    <subfield code="v">...</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Blumenfeld, Diana</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">76846224X</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">A 08 / 118</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">MC</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>95</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">503914002</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20070803120923.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">051205s2004    ag |||||      00| ||spa c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9872129401</subfield>
+    <subfield code="9">987-21294-0-1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)503914002</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3">
+    <subfield code="a">La raÃ­z del ombÃº</subfield>
+    <subfield code="c">Julio CortÃ¡zar; Alberto CedrÃ³n</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. ed</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">Fund. Internacional Argentina</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">53 S</subfield>
+    <subfield code="b">Ill</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CedrÃ³n, Alberto</subfield>
+    <subfield code="d">1937-2007</subfield>
+    <subfield code="0">(DE-588)133244814</subfield>
+    <subfield code="0">(DE-627)538713909</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">746621302</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">B 05 / 1659</subfield>
+    <subfield code="h">MA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>96</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">47540808X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260615203454.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">000101s2004    ag ||||| b    00| ||spa c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">  2005413501</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">987212941X</subfield>
+    <subfield code="9">987-21294-1-X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)47540808X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)117581747</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV47540808X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XD-AR</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">PQ7797.C7145</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">863/.64</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">22</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">B</subfield>
+    <subfield code="q">LOC</subfield>
+    <subfield code="2">22</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">CortÃ¡zar</subfield>
+    <subfield code="b">presencias</subfield>
+    <subfield code="c">dir. e investigaciÃ³n Facundo de Almeida ; Liliana PiÃ±eiro</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. ed</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">FundaciÃ³n Internat. Argentina</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">83, 155 S</subfield>
+    <subfield code="b">zahlr. Ill</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">CortÃ¡zar o los ojos del deseo / Francisca NoguerolJulio CortÃ¡zar, la creaciÃ³n como goce y aventura / Graciela Maturo -- Recordando a Julio / Carlos MarÃ­a Gabel -- El espacio autobiogÃ¡fico en cartas del joven CortÃ¡zar a un mÃ©dico de BolÃ­var / Mignon DomÃ­nguez -- La inclusiÃ³n de lo exclusivo para una lectura de la poesÃ­a cortazariana / Daniel Mesa Gancedo -- La etapa chivilcoyana de Julio Florencio CortÃ¡zar / Daniel Emilio Pastorino -- Julio CortÃ¡zar, traductor / Sylvie Protin -- Vivo mundo al derecho y al revÃ©s / SaÃºl Yurkievich -- Un perseguidor infatigable / Mario Goloboff -- Van los ecos en busca de la voz / Eduardo Galeano -- Mis encuentros con Julio / Claribel AlegrÃ­a -- CortÃ¡zar, la mÃºsica y las cartas / Sergio Baur -- El que nunca deja de crecer / Sergio RamÃ­rez -- La plenitud del ser / Pablo Armando FernÃ¡ndez</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">CortÃ¡zar por dos / Alberto Mario PerroneTexto en homenaje a Julio CortÃ¡zar / Manuel AntÃ­n -- La pluma y la tijera : entrevista con Julio Silva / SaÃºl Yurkievich -- Ultima carta a Julio CortÃ¡zar / Roberto FernÃ¡ndez Retamar -- Enviando una carta a Julio / Carmen Waugh -- Julio CortÃ¡zar, de su experiencia histÃ³rica camino a la revoluciÃ³n / Pablo Montanaro -- Diez instantÃ¡neas de Julio CortÃ¡zar / Guillermo Schavelzon -- La verdadera historia del origen del libro Alto del PerÃº / Manja Offerhaus -- CortÃ¡zar, siempre / SaÃºl Sosnowski -- Crear algo entre dos / NoÃ© Jitrik -- Por tratarse de Julio : CortÃ¡zar en Polonia / Marta Jordan -- Julio y yo / Pat Andrea -- Compromiso de escritor / Daniel Cabezas -- SoÃ±ar y nada mÃ¡s : acerca de Julio CortÃ¡zar / Juan "Tata" CedrÃ³n -- Sobre "Sin censura" : una publicaciÃ³n del exilio sudamericano / Carlos Gabetta -- Hoy es siempre todavÃ­a / Alberto Szpunberg -- Final del juego / Jorge Enrique Adoum -- Recordando a Julio CortÃ¡zar en Solentiname / Ernesto Cardenal -- Recuerdos de Nicaragua / TomÃ¡s Borge.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Authors, Argentine</subfield>
+    <subfield code="y">20th century</subfield>
+    <subfield code="v">Biography</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Bibliografie</subfield>
+    <subfield code="0">(DE-588)4006432-3</subfield>
+    <subfield code="0">(DE-627)104814519</subfield>
+    <subfield code="0">(DE-576)208865578</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Almeida, Facundo de</subfield>
+    <subfield code="0">(DE-588)1057592110</subfield>
+    <subfield code="0">(DE-627)795177828</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">PiÃ±eiro, Liliana</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">692871500</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 04 / 11473</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>97</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">39988498X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20180317215814.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">000101s2004    ru |||||      00| ||rus c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">5352006433</subfield>
+    <subfield code="9">5-352-00643-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)39988498X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV39988498X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-RU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Bestiario &lt;russ.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Zverinec</subfield>
+    <subfield code="c">Chulio Kortasar. [Perevod: V. Andreev]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Sankt-Peterburg, Russland</subfield>
+    <subfield code="b">Azbuka-Klassika</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">448 S</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Azbuka-klassika</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">Enth. auÃerdem Gedichte in Spanisch mit russischer Ãbers.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Andreev, Viktor NikolaeviÄ</subfield>
+    <subfield code="d">1948-</subfield>
+    <subfield code="0">(DE-588)1035579278</subfield>
+    <subfield code="0">(DE-627)748757538</subfield>
+    <subfield code="0">(DE-576)383362849</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="t">Bestiario &lt;russ.&gt;</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/spk/iai/cov/39988498X.jpg</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-204</subfield>
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="v">2009-11-02</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="3">Cover</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">680469451</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 04 / 6759</subfield>
+    <subfield code="g">A 04::6759</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>98</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     caa a22      c 4500</leader>
+  <controlfield tag="001">392570661</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20181216104816.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">040819s2004    xx |||||      00| ||und c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)392570661</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Ãltimo round &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Letzte Runde</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zzz</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">z</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">nicht spezifiziert</subfield>
+    <subfield code="b">zu</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="2">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="t">Ãltimo round &lt;dt.&gt;</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2="8">
+    <subfield code="a">CortÃ¡zar, Julio, 1914 - 1984</subfield>
+    <subfield code="t">Reise um den Tag in 80 Welten. Enthalten in</subfield>
+    <subfield code="b">1. Aufl.</subfield>
+    <subfield code="d">Frankfurt am Main : Suhrkamp, 2004</subfield>
+    <subfield code="g">(2004), 1</subfield>
+    <subfield code="h">322 S</subfield>
+    <subfield code="w">(DE-627)378196014</subfield>
+    <subfield code="w">(DE-576)110787285</subfield>
+    <subfield code="z">3-518-41590-5</subfield>
+    <subfield code="7">nnam</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="g">year:2004</subfield>
+    <subfield code="g">number:1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">727000993</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">AR</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>99</zs:recordPosition></zs:record><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">385309260</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20230614014104.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">040415s2004    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">04,N18,1028</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">04,A35,1735</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">970835442</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3937793208</subfield>
+    <subfield code="9">3-937793-20-8</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)385309260</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)9385309269</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB970835442</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">860</subfield>
+    <subfield code="a">B</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ED 3660</subfield>
+    <subfield code="q">BVB</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/21053:13508</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17.97</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">18.33</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">CortÃ¡zar, Julio</subfield>
+    <subfield code="d">1914-1984</subfield>
+    <subfield code="0">(DE-588)118522272</subfield>
+    <subfield code="0">(DE-627)284354120</subfield>
+    <subfield code="0">(DE-576)160626463</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Der Verfolger</subfield>
+    <subfield code="c">Julio Cortazar. Aus dem Span. Ã¼bers. von Rudolf Wittkopf</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Lizenzausg</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">MÃ¼nchen</subfield>
+    <subfield code="b">SÃ¼ddt. Zeitung</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">95 S.</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">SÃ¼ddeutsche-Zeitung-Bibliothek</subfield>
+    <subfield code="v">21</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Lizenz des Suhrkamp-Verl., Frankfurt am Main</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Fiktionale Darstellung</subfield>
+    <subfield code="0">(DE-588)1071854844</subfield>
+    <subfield code="0">(DE-627)82648378X</subfield>
+    <subfield code="0">(DE-576)43337439X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4179251-8</subfield>
+    <subfield code="0">(DE-627)10533507X</subfield>
+    <subfield code="0">(DE-576)209989882</subfield>
+    <subfield code="a">Saxofonist</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="D">p</subfield>
+    <subfield code="0">(DE-588)118739328</subfield>
+    <subfield code="0">(DE-627)123107954</subfield>
+    <subfield code="0">(DE-576)167910930</subfield>
+    <subfield code="a">Parker, Charlie</subfield>
+    <subfield code="d">1920-1955</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4050479-7</subfield>
+    <subfield code="0">(DE-627)104137673</subfield>
+    <subfield code="0">(DE-576)209087579</subfield>
+    <subfield code="a">Roman</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Wittkopf, Rudolf</subfield>
+    <subfield code="d">1933-1997</subfield>
+    <subfield code="0">(DE-588)128755059</subfield>
+    <subfield code="0">(DE-627)379130831</subfield>
+    <subfield code="0">(DE-576)163602239</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">SÃ¼ddeutsche Zeitung / Bibliothek</subfield>
+    <subfield code="v">[21]</subfield>
+    <subfield code="9">2100</subfield>
+    <subfield code="w">(DE-627)385610238</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">692880321</subfield>
+    <subfield code="b">DE-204</subfield>
+    <subfield code="9">204</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A 04 / 12418</subfield>
+    <subfield code="h">FHMA</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">ED 3660</subfield>
+    <subfield code="b">Gesamtdarstellungen</subfield>
+    <subfield code="k">Allgemeine und vergleichende Sprach- und Literaturwissenschaft. Indogermanistik. AuÃereuropÃ¤ische Sprachen und Literaturen</subfield>
+    <subfield code="k">Allgemeine und vergleichende Literaturwissenschaft.</subfield>
+    <subfield code="k">Textsammlungen zur Literaturwissenschaft</subfield>
+    <subfield code="k">Einzelne Gattungen</subfield>
+    <subfield code="k">Epik</subfield>
+    <subfield code="k">Prosa</subfield>
+    <subfield code="k">Roman</subfield>
+    <subfield code="k">Allgemeines</subfield>
+    <subfield code="k">Gesamtdarstellungen</subfield>
+    <subfield code="0">(DE-627)1393695175</subfield>
+    <subfield code="0">(DE-625)rvk/21053:13508</subfield>
+    <subfield code="0">(DE-576)323695175</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">17.97</subfield>
+    <subfield code="j">Texte eines einzelnen Autors</subfield>
+    <subfield code="0">(DE-627)181571714</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">18.33</subfield>
+    <subfield code="j">Spanische Literatur auÃerhalb Spaniens</subfield>
+    <subfield code="0">(DE-627)106415522</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>100</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.per="CortÃ¡zar, Julio"</zs:query><zs:startRecord>81</zs:startRecord><zs:maximumRecords>20</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
