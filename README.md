@@ -7,11 +7,14 @@ embassies and other cultural institutions.
 
 **Author:** Juan Alberto Salazar Rebolledo ([@jasolni](https://github.com/jasolni))
 
-> **Status:** work in progress. The ontology (TBox) is implemented and has been tested with a tiny
-> hand-built sample (ABox) on the "Latin American Boom". Separately, a data pipeline downloads real
-> catalog records from the IAI collection and converts them to RDF. The two parts are **not yet
-> connected** (see [Known limitations](#known-limitations)). Large-scale ingestion, alignment with
-> Wikidata/DBpedia and a SHACL validation layer are pending.
+> **Status:** work in progress. The ontology (TBox) is implemented and reasons correctly over a tiny
+> hand-built sample (ABox) on the "Latin American Boom", in Protégé (Pellet) and GraphDB. A separate data
+> pipeline downloads real catalog records from the IAI collection and converts them to RDF using the
+> **same Schema.org vocabulary** as the TBox, so the ontology's axioms already apply to that data
+> (see [section 5](#reasoning-over-the-generated-graph)). What is still missing is the full mapping of
+> that data onto the ontology's own namespaces and BIBFRAME layers (see
+> [Known limitations](#known-limitations)). Large-scale ingestion, alignment with Wikidata/DBpedia and a
+> SHACL validation layer are also pending.
 
 ## Table of contents
 
@@ -216,7 +219,9 @@ production the check would move into the queries (for example SPARQL `CONSTRUCT`
 **What a reasoner adds** (Protégé with Pellet): the inverse relations (e.g. `iai:authorOf`), roles such as
 `iai:Author` or `iai:Director`, the chain of influences, `foaf:knows` between members of the same
 movement (rule S3) and the influence of Carpentier's movements on García Márquez (rule S2). The file
-`otros/grafo_iai_graphdb_1.png` shows the sample explored in GraphDB.
+`otros/grafo_iai_graphdb_1.png` shows the sample explored in GraphDB. As an independent check, an OWL 2 RL
+expansion of TBox + ABox produces the inverse `iai:authorOf` statements and the `iai:Author` role
+classification (see [section 5](#reasoning-over-the-generated-graph)).
 
 ## 5. The data pipeline (MARC21 → RDF)
 
@@ -307,6 +312,28 @@ non-alphanumerics replaced by `_`), and `repair_mojibake` repairs text that arri
 Most frequent properties: `schema:name` (2,631), `rdfs:label` (1,592), `schema:contributor` (1,186),
 `schema:author` (1,160), `schema:datePublished` (1,152), `schema:isbn` (1,085), `schema:inLanguage`
 (1,067), `schema:publisher` (1,014), `schema:about` (880).
+
+**Namespaces in the generated graph.** The converter writes its own individuals and its three provisional
+classes under `http://example.org/kg/` (`ex:work/…`, `ex:person/…`, `ex:AcademicThesis`,
+`ex:CriticalStudy`, `ex:Biography`), while all the descriptive terms (`schema:author`, `schema:name`,
+`schema:Book`, …) are the standard Schema.org IRIs (`http://schema.org/`), exactly the ones the TBox is
+built on. The graph does not use `iai:` / `iair:` or BIBFRAME terms.
+
+### Reasoning over the generated graph
+
+Because both artifacts share the Schema.org vocabulary, the TBox can be loaded together with the
+generated graph. As a check, the two were merged and expanded with an OWL 2 RL reasoner (the `owlrl`
+Python library; this is a subset of OWL 2 and does not evaluate SWRL, so it is an indicative test, not a
+replacement for Pellet in Protégé):
+
+| Loaded together | Triples before → after | Inferred |
+|---|---|---|
+| TBox + ABox (hand-built sample) | 1,138 → 4,793 | 6 `iai:authorOf` statements; 5 individuals classified as `iai:Author` |
+| TBox + generated graph (real records) | 18,182 → 101,372 | 1,160 `iai:authorOf` statements (one per `schema:author` assertion); 252 persons classified as `iai:Author`; 1,192 nodes inferred as `schema:CreativeWork` through the class hierarchy |
+
+So the ontology's inverse properties and role definitions already work over the real data. What the
+generated graph lacks is the mapping to the ontology's own layers (see
+[Known limitations](#known-limitations)).
 
 ## 6. Example SPARQL queries
 
@@ -410,8 +437,11 @@ this kind of query can reach without asserting those links by hand.
 resolves that import to the local `iai_tbox.ttl` (keep both files in the same folder). Start a reasoner
 (Pellet, for the SWRL rules) to see the inferences.
 
-**Explore in GraphDB.** Import `iai_tbox.ttl` and `iai_abox.ttl` into a repository with OWL reasoning
-enabled, and use the visual graph to follow relations.
+**Explore in GraphDB.** Import `iai_tbox.ttl` and `iai_abox.ttl` into a repository with an OWL 2 RL
+ruleset enabled, and use the visual graph to follow relations (inverse, transitive and symmetric
+properties and property chains are covered by that ruleset). GraphDB's built-in rulesets do not
+evaluate SWRL, so rules S1–S3 are applied only in Protégé with a reasoner such as Pellet. To reason over
+the real records, import `otros/fixtures/iai_graph_v2.ttl` into the same repository as well.
 
 **Run the data pipeline.**
 
@@ -427,10 +457,13 @@ downloading anything. The scripts were developed with Python 3.13.
 
 ## Known limitations
 
-- **The pipeline and the ontology are not connected yet.** The generated graph uses a placeholder
-  namespace (`http://example.org/kg/`) and plain Schema.org terms, plus three provisional classes
-  (`ex:AcademicThesis`, `ex:CriticalStudy`, `ex:Biography`). It does not use the `iai:` / `iair:`
-  namespaces or the BIBFRAME layers of the TBox.
+- **The generated graph is only partly mapped onto the ontology.** It shares the Schema.org vocabulary
+  with the TBox, so the TBox axioms apply to it (see [section 5](#reasoning-over-the-generated-graph)).
+  But its individuals live in a placeholder namespace (`http://example.org/kg/`) instead of
+  `iair:`, its three provisional classes (`ex:AcademicThesis`, `ex:CriticalStudy`, `ex:Biography`) exist only
+  inside the generated graph (as `schema:CreativeWork` subclasses) and not in the TBox, and the BIBFRAME
+  `bf:Work` / `bf:Instance` / `bf:Item` layers and the `iai:` relations (influence, mentorship,
+  collaboration) are not produced by the pipeline.
 - **No entity reconciliation yet.** Persons, publishers and subjects are identified by a slug of their
   name, so spelling variants produce separate nodes, and two different people with the same name would
   be merged. There are no links to Wikidata/DBpedia.
@@ -446,7 +479,8 @@ downloading anything. The scripts were developed with Python 3.13.
 
 ## Next steps
 
-1. Map the pipeline output onto the TBox (`iai:`/`iair:` namespaces, `bf:Work` / `bf:Instance` layers).
+1. Finish mapping the pipeline output onto the TBox: move individuals to the `iair:` namespace, declare
+   the three provisional classes in the TBox, and generate the `bf:Work` / `bf:Instance` layers.
 2. Reconcile entities against Wikidata (QIDs) and add `owl:hasKey`.
 3. Add a SHACL shapes layer.
 4. Ingest the remaining sources: events calendar, LAI-FU projects and newsletters, IMDb, MusicBrainz.
