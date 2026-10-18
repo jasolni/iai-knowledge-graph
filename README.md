@@ -120,13 +120,25 @@ visually in **GraphDB** (screenshot in `otros/grafo_iai_graphdb_1.png`).
 | `iai_abox.ttl` | Sample individuals (ABox) |
 | `grafo_IAI_ontologia_jasrvfinal.xlsx` | Ontology documentation: namespaces, classes, properties, OWL/RDFS and SWRL rules |
 | `catalog-v001.xml`, `*.properties` | Protégé / GraphDB configuration |
-| `otros/` | Working material: harvesting and conversion scripts, test data and earlier versions |
+| `otros/` | Data-harvesting and conversion pipeline (scripts, test data and result) plus a GraphDB screenshot |
 
-Scripts in `otros/`:
+Contents of `otros/`:
 
-- `crawler_k10plus.py`, `k10plus_sru_harvester*.py`: harvesting of MARC21/XML records from the K10plus SRU API.
-- `marc_to_rdf_converter*.py`: conversion of MARC21/XML to RDF.
-- `sampler_IAI.py`: sampling of K10plus records (output in `k10plus_sample.jsonl`).
-- `rastreador.py`: tests of the SRU API search indexes.
+- `k10plus_sru_harvester_by_author_v2.py`: downloads MARC21/XML records by author from the K10plus SRU API
+  (IAI catalog) into `fixtures/iai_marcxml_by_author/`, and writes a coverage manifest
+  (`fixtures/iai_manifest_by_author.json`).
+- `marc_to_rdf_converter_v2.py`: converts those MARC21/XML records to RDF (Turtle), distinguishing
+  resource type (book, article, thesis...) and authorship vs. "is about". Output:
+  `fixtures/iai_graph_v2.ttl`.
+- `fixtures/`: the downloaded sample (12 Latin American Boom authors), its manifest and the resulting graph.
+- `grafo_iai_graphdb_1.png`: GraphDB visualization of the sample ABox.
+
+To rerun the pipeline, work from inside `otros/` (the scripts use relative paths):
+
+```bash
+cd otros
+python k10plus_sru_harvester_by_author_v2.py   # download MARC21/XML records
+python marc_to_rdf_converter_v2.py             # convert to RDF
+```
 
 Script dependencies: `pip install pymarc rdflib lxml requests`.

@@ -1,8 +1,8 @@
 """
 marc_to_rdf_converter_v2.py
 
-Extended version of marc_to_rdf_converter.py that adds two distinctions
-that v1 did not make:
+Converts MARC21/XML records (harvested from K10plus) to RDF, making two
+distinctions beyond a plain field-by-field mapping:
 
   1. resource TYPE/FORM (book, academic article, thesis, critical
      study...) based on explicit MARC signals: 502 (dissertation note),
